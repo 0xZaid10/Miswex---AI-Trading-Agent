@@ -22,4 +22,4 @@ TF_MAP = {
 LEVERAGE = 1
 MARGIN_MODE = 1   # CROSS
 
-DRY_RUN = True    # 🔥 PAPER MODE
+DRY_RUN = True    #  PAPER MODE Just for testing until i get weex api key
