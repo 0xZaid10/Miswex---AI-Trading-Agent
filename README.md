@@ -59,24 +59,34 @@ During early training, the AI discovered multiple loopholes and unrealistic patt
 The GitHub repository includes a dedicated AI Agent folder responsible for live trading.
 #### This agent:
 Loads selected AI-generated strategies
+
 Reads real-time market data
+
 Executes trades based on strategy logic
+
 Manages positions during live trading
+
 #### Workflow:
 AI trains and identifies top strategies per genome
+
 Strategies are backtested for performance and stability
+
 Strong coin + timeframe combinations are chosen
+
 Chosen strategies are deployed into the trading engine
 
 
 ## Key Features
 Adaptive strategy selection
+
 Multi-timeframe intelligence
+
 Learns when to follow BTC (not hard-coded)
+
 Regime-aware trading (trend, chop, high volatility)
+
 Micro-timeframe support (1m) for precision entries
-Long-only trading
-1x leverage (risk-controlled)
+
 Fully autonomous execution
 
 
@@ -86,11 +96,15 @@ Miswex aims to become a self-evolving trading intelligence that can survive all 
 
 ##  Repository Structure
 /training → Contains all experiments, tests, strategy generations, logs, and model checkpoints
+
 /ai-agent → Live trading execution engine
 
 
 ## Status
 Training completed
+
 Strategies generated
+
 Forward tested on recent data
+
 Live execution engine ready
