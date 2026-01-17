@@ -20,23 +20,37 @@ Additional forward test: recent 15 days (live-like conditions)
 The model showed strong performance on both unseen data and recent market data.
 #### Assets trained:
 (These were more profitable compared to others and more volatile)
+
 ADA
+
 SOL
+
 DOGE
 #### Timeframes:
 5 minute
+
 15 minute
+
 1 hour
+
 #### Evolution configuration:
 51 genomes per coin per timeframe
+
 Population size: 99 per genome
+
 #### The AI evolved strategies by optimizing:
 Entry logic
+
 Stop-loss & take-profit
+
 Trailing exits
+
 Scaling behavior
+
 Market regime adaptation
+
 Bitcoin influence weighting
+
 #### Training refinement:  
 During early training, the AI discovered multiple loopholes and unrealistic patterns that inflated results. These were systematically filtered out through continuous fine-tuning, adding stricter constraints, validation checks, and logic filters. Each training cycle improved robustness and realism.
 
