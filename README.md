@@ -19,6 +19,7 @@ Test (unseen): 1 month
 Additional forward test: recent 15 days (live-like conditions)
 The model showed strong performance on both unseen data and recent market data.
 #### Assets trained:
+(These were more profitable compared to others and more volatile)
 ADA
 SOL
 DOGE
