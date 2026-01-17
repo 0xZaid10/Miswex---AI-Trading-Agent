@@ -1,0 +1,10 @@
+[
+  {
+    "coin": "DOGE",
+    "tf": "1h",
+    "gen": 0,
+    "train_fitness": 0.5761565643109001,
+    "val_capital": 0.9712521790579036,
+    "val_trades": 70
+  }
+]

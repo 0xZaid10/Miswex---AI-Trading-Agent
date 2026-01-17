@@ -1,0 +1,50 @@
+[
+  {
+    "coin": "SOL",
+    "tf": "5m",
+    "gen": 0,
+    "train_fitness": 0.4214522654208487,
+    "val_capital": 1.1144127850502052,
+    "val_trades": 24
+  },
+  {
+    "coin": "SOL",
+    "tf": "5m",
+    "gen": 1,
+    "train_fitness": 0.5598668001939251,
+    "val_capital": 1.08690876017969,
+    "val_trades": 24
+  },
+  {
+    "coin": "SOL",
+    "tf": "5m",
+    "gen": 2,
+    "train_fitness": 1.0711585466123874,
+    "val_capital": 1.0734190206895085,
+    "val_trades": 11
+  },
+  {
+    "coin": "SOL",
+    "tf": "5m",
+    "gen": 3,
+    "train_fitness": 1.632333419545027,
+    "val_capital": 1.050078473633148,
+    "val_trades": 10
+  },
+  {
+    "coin": "SOL",
+    "tf": "5m",
+    "gen": 4,
+    "train_fitness": 1.7157000310850312,
+    "val_capital": 1.0775664392756548,
+    "val_trades": 11
+  },
+  {
+    "coin": "SOL",
+    "tf": "5m",
+    "gen": 5,
+    "train_fitness": 2.1249407785351564,
+    "val_capital": 1.0945670162113321,
+    "val_trades": 10
+  }
+]

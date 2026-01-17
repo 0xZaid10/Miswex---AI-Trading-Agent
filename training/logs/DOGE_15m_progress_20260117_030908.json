@@ -1,0 +1,90 @@
+[
+  {
+    "coin": "DOGE",
+    "tf": "15m",
+    "gen": 0,
+    "train_fitness": 0.5118600493468637,
+    "val_capital": 0.8669532040999579,
+    "val_trades": 22
+  },
+  {
+    "coin": "DOGE",
+    "tf": "15m",
+    "gen": 1,
+    "train_fitness": 0.5118600493468637,
+    "val_capital": 0.8669532040999579,
+    "val_trades": 22
+  },
+  {
+    "coin": "DOGE",
+    "tf": "15m",
+    "gen": 2,
+    "train_fitness": 1.3746758896849813,
+    "val_capital": 0.9866292938891043,
+    "val_trades": 11
+  },
+  {
+    "coin": "DOGE",
+    "tf": "15m",
+    "gen": 3,
+    "train_fitness": 1.5722904402411173,
+    "val_capital": 1.0222156360781989,
+    "val_trades": 17
+  },
+  {
+    "coin": "DOGE",
+    "tf": "15m",
+    "gen": 4,
+    "train_fitness": 1.8430026789136764,
+    "val_capital": 0.9936062664169133,
+    "val_trades": 10
+  },
+  {
+    "coin": "DOGE",
+    "tf": "15m",
+    "gen": 5,
+    "train_fitness": 1.8430026789136764,
+    "val_capital": 0.9936062664169133,
+    "val_trades": 10
+  },
+  {
+    "coin": "DOGE",
+    "tf": "15m",
+    "gen": 6,
+    "train_fitness": 1.8430026789136764,
+    "val_capital": 0.9936062664169133,
+    "val_trades": 10
+  },
+  {
+    "coin": "DOGE",
+    "tf": "15m",
+    "gen": 7,
+    "train_fitness": 2.586044295825068,
+    "val_capital": 0.9936062664169133,
+    "val_trades": 10
+  },
+  {
+    "coin": "DOGE",
+    "tf": "15m",
+    "gen": 8,
+    "train_fitness": 2.586044295825068,
+    "val_capital": 0.9936062664169133,
+    "val_trades": 10
+  },
+  {
+    "coin": "DOGE",
+    "tf": "15m",
+    "gen": 9,
+    "train_fitness": 2.586044295825068,
+    "val_capital": 0.9936062664169133,
+    "val_trades": 10
+  },
+  {
+    "coin": "DOGE",
+    "tf": "15m",
+    "gen": 10,
+    "train_fitness": 2.7884129697719255,
+    "val_capital": 0.9955557036014511,
+    "val_trades": 10
+  }
+]

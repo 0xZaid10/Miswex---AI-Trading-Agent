@@ -1,0 +1,10 @@
+[
+  {
+    "coin": "ADA",
+    "tf": "1h",
+    "gen": 0,
+    "train_fitness": 0.16038940102926957,
+    "val_capital": 0.8683150976111064,
+    "val_trades": 45
+  }
+]
