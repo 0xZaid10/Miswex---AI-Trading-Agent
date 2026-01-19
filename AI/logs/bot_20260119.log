@@ -1,0 +1,90 @@
+2026-01-19 03:53:09,187 | INFO | Websocket connected
+2026-01-19 03:53:09,190 | INFO | WS CONNECTED
+2026-01-19 03:53:09,385 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_adausdt.MINUTE_1
+2026-01-19 03:53:09,686 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_adausdt.MINUTE_3
+2026-01-19 03:53:09,988 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_adausdt.MINUTE_5
+2026-01-19 03:53:10,289 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_adausdt.MINUTE_15
+2026-01-19 03:53:10,591 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_solusdt.MINUTE_1
+2026-01-19 03:53:10,892 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_solusdt.MINUTE_3
+2026-01-19 03:53:11,193 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_solusdt.MINUTE_5
+2026-01-19 03:53:11,495 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_solusdt.MINUTE_15
+2026-01-19 03:53:11,797 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_dogeusdt.MINUTE_1
+2026-01-19 03:53:12,098 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_dogeusdt.MINUTE_3
+2026-01-19 03:53:12,399 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_dogeusdt.MINUTE_5
+2026-01-19 03:53:12,700 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_dogeusdt.MINUTE_15
+2026-01-19 03:53:13,002 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_btcusdt.MINUTE_1
+2026-01-19 03:53:13,303 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_btcusdt.MINUTE_3
+2026-01-19 03:53:13,603 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_btcusdt.MINUTE_5
+2026-01-19 03:53:13,904 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_btcusdt.MINUTE_15
+2026-01-19 02:12:55,777 | INFO | ----- SIGN DEBUG -----
+2026-01-19 02:12:55,777 | INFO | METHOD   : GET
+2026-01-19 02:12:55,777 | INFO | PATH     : /capi/v2/account/assets
+2026-01-19 02:12:55,777 | INFO | BODY     : 
+2026-01-19 02:12:55,777 | INFO | TIMESTAMP: 1768788775777
+2026-01-19 02:12:55,777 | INFO | SIGN_STR : 1768788775777GET/capi/v2/account/assets
+2026-01-19 02:12:55,777 | INFO | SIGNATURE: Z05tP0JZfGEaM3GGzxJH8T4ktFAJkMYHXvcw8hLAuDE=
+2026-01-19 02:12:55,777 | INFO | HEADERS  : {'ACCESS-KEY': 'weex_319aa50a92a640b199f0d3ab5db38f22', 'ACCESS-SIGN': 'Z05tP0JZfGEaM3GGzxJH8T4ktFAJkMYHXvcw8hLAuDE=', 'ACCESS-PASSPHRASE': 'weex981629186', 'ACCESS-TIMESTAMP': '1768788775777', 'Content-Type': 'application/json', 'Accept': 'application/json', 'locale': 'en-US', 'User-Agent': 'weex-bot/1.0'}
+2026-01-19 02:12:55,778 | INFO | ----------------------
+2026-01-19 02:12:56,193 | INFO | ----- HTTP DEBUG -----
+2026-01-19 02:12:56,193 | INFO | URL    : https://api-contract.weex.com/capi/v2/account/assets
+2026-01-19 02:12:56,193 | INFO | STATUS : 200
+2026-01-19 02:12:56,193 | INFO | RAW    : [{"coinName":"USDT","available":"0.00000000","equity":"0.00000000","frozen":"0.00000000","unrealizePnl":"0"}]
+2026-01-19 02:12:56,193 | INFO | ----------------------
+2026-01-19 02:31:34,147 | INFO | ----- SIGN DEBUG -----
+2026-01-19 02:31:34,147 | INFO | METHOD   : GET
+2026-01-19 02:31:34,147 | INFO | PATH     : /capi/v2/account/assets
+2026-01-19 02:31:34,147 | INFO | BODY     : 
+2026-01-19 02:31:34,147 | INFO | TIMESTAMP: 1768789894147
+2026-01-19 02:31:34,147 | INFO | SIGN_STR : 1768789894147GET/capi/v2/account/assets
+2026-01-19 02:31:34,147 | INFO | SIGNATURE: zdxPllO9eRXPbWVO/TfLFBE83mTPDa7MHdNQ3Z0Rixs=
+2026-01-19 02:31:34,147 | INFO | HEADERS  : {'ACCESS-KEY': 'weex_319aa50a92a640b199f0d3ab5db38f22', 'ACCESS-SIGN': 'zdxPllO9eRXPbWVO/TfLFBE83mTPDa7MHdNQ3Z0Rixs=', 'ACCESS-PASSPHRASE': 'weex981629186', 'ACCESS-TIMESTAMP': '1768789894147', 'Content-Type': 'application/json', 'Accept': 'application/json', 'locale': 'en-US', 'User-Agent': 'weex-bot/1.0'}
+2026-01-19 02:31:34,147 | INFO | ----------------------
+2026-01-19 02:31:34,556 | INFO | ----- HTTP DEBUG -----
+2026-01-19 02:31:34,556 | INFO | URL    : https://api-contract.weex.com/capi/v2/account/assets
+2026-01-19 02:31:34,557 | INFO | STATUS : 200
+2026-01-19 02:31:34,557 | INFO | RAW    : [{"coinName":"USDT","available":"0.00000000","equity":"0.00000000","frozen":"0.00000000","unrealizePnl":"0"}]
+2026-01-19 02:31:34,557 | INFO | ----------------------
+2026-01-19 02:33:30,856 | INFO | ----- SIGN DEBUG -----
+2026-01-19 02:33:30,856 | INFO | METHOD   : GET
+2026-01-19 02:33:30,856 | INFO | PATH     : /capi/v2/account/assets
+2026-01-19 02:33:30,856 | INFO | BODY     : 
+2026-01-19 02:33:30,856 | INFO | TIMESTAMP: 1768790010856
+2026-01-19 02:33:30,856 | INFO | SIGN_STR : 1768790010856GET/capi/v2/account/assets
+2026-01-19 02:33:30,856 | INFO | SIGNATURE: UyWFUTJFarkMkTXsGcW1YVtuS8pmg3MVCZ4qOkc5ods=
+2026-01-19 02:33:30,856 | INFO | HEADERS  : {'ACCESS-KEY': 'weex_319aa50a92a640b199f0d3ab5db38f22', 'ACCESS-SIGN': 'UyWFUTJFarkMkTXsGcW1YVtuS8pmg3MVCZ4qOkc5ods=', 'ACCESS-PASSPHRASE': 'weex981629186', 'ACCESS-TIMESTAMP': '1768790010856', 'Content-Type': 'application/json', 'Accept': 'application/json', 'locale': 'en-US', 'User-Agent': 'weex-bot/1.0'}
+2026-01-19 02:33:30,856 | INFO | ----------------------
+2026-01-19 02:33:31,268 | INFO | ----- HTTP DEBUG -----
+2026-01-19 02:33:31,269 | INFO | URL    : https://api-contract.weex.com/capi/v2/account/assets
+2026-01-19 02:33:31,269 | INFO | STATUS : 200
+2026-01-19 02:33:31,269 | INFO | RAW    : [{"coinName":"USDT","available":"0.00000000","equity":"0.00000000","frozen":"0.00000000","unrealizePnl":"0"}]
+2026-01-19 02:33:31,269 | INFO | ----------------------
+2026-01-19 02:37:50,060 | INFO | ----- SIGN DEBUG -----
+2026-01-19 02:37:50,061 | INFO | METHOD   : GET
+2026-01-19 02:37:50,061 | INFO | PATH     : /capi/v2/account/assets
+2026-01-19 02:37:50,061 | INFO | BODY     : 
+2026-01-19 02:37:50,061 | INFO | TIMESTAMP: 1768790270060
+2026-01-19 02:37:50,061 | INFO | SIGN_STR : 1768790270060GET/capi/v2/account/assets
+2026-01-19 02:37:50,061 | INFO | SIGNATURE: PVAUwQf+RGK0hxDXj44AgNWa/4hcgLSONmbFFK2d0Hs=
+2026-01-19 02:37:50,061 | INFO | HEADERS  : {'ACCESS-KEY': 'weex_319aa50a92a640b199f0d3ab5db38f22', 'ACCESS-SIGN': 'PVAUwQf+RGK0hxDXj44AgNWa/4hcgLSONmbFFK2d0Hs=', 'ACCESS-PASSPHRASE': 'weex981629186', 'ACCESS-TIMESTAMP': '1768790270060', 'Content-Type': 'application/json', 'Accept': 'application/json', 'locale': 'en-US', 'User-Agent': 'weex-bot/1.0'}
+2026-01-19 02:37:50,061 | INFO | ----------------------
+2026-01-19 02:37:50,484 | INFO | ----- HTTP DEBUG -----
+2026-01-19 02:37:50,484 | INFO | URL    : https://api-contract.weex.com/capi/v2/account/assets
+2026-01-19 02:37:50,484 | INFO | STATUS : 200
+2026-01-19 02:37:50,484 | INFO | RAW    : [{"coinName":"USDT","available":"0.00000000","equity":"0.00000000","frozen":"0.00000000","unrealizePnl":"0"}]
+2026-01-19 02:37:50,484 | INFO | ----------------------
+2026-01-19 08:56:16,211 | INFO | Websocket connected
+2026-01-19 08:56:16,212 | INFO | WS CONNECTED
+2026-01-19 08:56:16,285 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_solusdt.MINUTE_1
+2026-01-19 08:56:16,586 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_solusdt.MINUTE_5
+2026-01-19 08:56:16,887 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_dogeusdt.MINUTE_1
+2026-01-19 08:56:17,188 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_dogeusdt.MINUTE_5
+2026-01-19 08:56:17,488 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_btcusdt.MINUTE_1
+2026-01-19 08:56:17,789 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_btcusdt.MINUTE_5
+2026-01-19 09:08:45,565 | INFO | Websocket connected
+2026-01-19 09:08:45,566 | INFO | WS CONNECTED
+2026-01-19 09:08:45,597 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_solusdt.MINUTE_1
+2026-01-19 09:08:45,898 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_solusdt.MINUTE_5
+2026-01-19 09:08:46,198 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_dogeusdt.MINUTE_1
+2026-01-19 09:08:46,499 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_dogeusdt.MINUTE_5
+2026-01-19 09:08:46,799 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_btcusdt.MINUTE_1
+2026-01-19 09:08:47,100 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_btcusdt.MINUTE_5
