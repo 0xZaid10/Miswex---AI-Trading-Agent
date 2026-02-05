@@ -8,6 +8,7 @@ from core.reentry_state import build_reentry_state
 from core.reentry_state import build_entry_features
 
 
+
 # 🧩 STEP 1 — RSI HELPER
 import numpy as np
 
@@ -55,6 +56,9 @@ if isinstance(res, list):
                 order_id=str(r["successOrderId"])
             )
 
+# ✅ INITIALIZE GEMINI SUPERVISOR
+
+
 TRADING_UNLOCK_TIME = time.time() + (5 * 60)
 
 ORDER_FAIL_UNTIL = 0
@@ -65,6 +69,9 @@ def trading_allowed():
 
 from utils.logger import setup_logger
 log = setup_logger()
+
+from core.gemini_agent import GeminiSupervisor
+gemini = GeminiSupervisor(log)
 
 # ================= WS-SAFE AI LOG WRAPPER =================
 def safe_ai_log(**kwargs):
@@ -322,6 +329,15 @@ for k in SYMBOL_MAP:
 
 
 pf = Portfolio()
+
+def portfolio_snapshot(pf):
+    return {
+        "open_positions": len(pf.open),
+        "wins": pf.wins,
+        "losses": pf.losses,
+        "total_pnl_pct": round(pf.total_pnl * 100, 2),
+    }
+
 ws = WS()
 
 load_buffers(ws)
@@ -351,6 +367,18 @@ def on_candle(symbol, tf, o, h, l, c, v, ts):
         )
         
        
+        alt_df_5m = buf_to_df(ws.buffers[symbol]["MINUTE_5"])
+
+        if len(alt_df_5m) >= 20:
+            recent_high = alt_df_5m.high.iloc[-20:].max()
+            dump_depth = (recent_high - c) / recent_high
+            recent_range = (
+                alt_df_5m.high.iloc[-5:].max() -
+                alt_df_5m.low.iloc[-5:].min()
+            ) / c
+        else:
+            dump_depth = 0.0
+            recent_range = 0.0
 
         features = build_entry_features(
             alt_5m_df=buf_to_df(ws.buffers[symbol]["MINUTE_5"]),
@@ -398,6 +426,70 @@ def on_candle(symbol, tf, o, h, l, c, v, ts):
             return
 
         size = normalize_size(symbol, (balance * 0.997) / c)
+
+        micro_df = buf_to_df(ws.buffers[symbol]["MINUTE_1"])
+        btc_df   = buf_to_df(ws.buffers[BTC_SYMBOL]["MINUTE_5"])
+
+        # ================= GEMINI SUPERVISION =================
+
+        entry_context = {
+            "symbol": symbol,
+            "timeframe": "5m",
+            "quant_score": round(entry_score, 4),
+            "entry_threshold": round(g.entry, 4),
+            "score_margin": round(entry_score - g.entry, 4),
+            "position_size": size,
+            "notional_usd": round(size * c, 2),
+            "leverage": 1,
+            "exit_mode": pe.get("exit_mode"),
+            "indicators": {
+                "5m": {
+                "r1": round(float(g.r1), 6) if hasattr(g, "r1") else None,
+                "r5": round(float(g.r5), 6) if hasattr(g, "r5") else None,
+                "r15": round(float(g.r15), 6) if hasattr(g, "r15") else None,
+                "trend": round(float(g.trend), 2) if hasattr(g, "trend") else None,
+                "volatility": round(float(g.vol), 6) if hasattr(g, "vol") else None,
+                "atr": round(float(g.atr), 4) if hasattr(g, "atr") else None
+            },
+                "micro_1m": {
+                "r": round(float(micro_df.close.pct_change().iloc[-1]), 6),
+                "mom": round(float(micro_df.close.diff().iloc[-1]), 6)
+                }
+            },
+            "btc_regime": {
+                "btc_r": round(float(btc_df.close.pct_change().iloc[-1]), 6),
+                "btc_trend": round(float(btc_df.close.diff().mean()), 4),
+                "btc_vol": round(float(btc_df.close.pct_change().std()), 6)
+            },
+            "portfolio": portfolio_snapshot(pf),
+            "market_state": {
+                "dump_depth": round(dump_depth, 4),
+                "recent_range": round(recent_range, 4)
+            }
+        }
+
+        time.sleep(0.4)
+
+        entry_decision = gemini.decide(entry_context, action_type="ENTRY")
+
+        safe_ai_log(
+            stage="GEMINI_DECISION",
+            genome=g,
+            X=[],
+            btc=[],
+            micro=[],
+            score=entry_score,
+            decision=entry_decision["decision"],
+            meta={
+                "explanation": entry_decision["ai_log"]["explanation"]
+            }
+        )
+
+        if entry_decision["decision"] == "BLOCK":
+            log.info(f"[GEMINI BLOCK] {symbol}")
+            del pending_entry[symbol]
+            return
+
 
         res = place_long(symbol, size)
         if not res or "order_id" not in res:
@@ -656,7 +748,7 @@ def manage():
         rsi_1m = compute_rsi(closes_1m)
 
         if rsi_1m is None:
-            rsi_1m = 43
+            rsi_1m = 51
 
         if pnl <= -0.003:
             reason = "HARD_STOP"
@@ -684,6 +776,73 @@ def manage():
 
 
         if reason:
+
+            micro_df = buf_to_df(ws.buffers[pos.symbol]["MINUTE_1"])
+            btc_df   = buf_to_df(ws.buffers[BTC_SYMBOL]["MINUTE_5"])
+            # ================= GEMINI EXIT SUPERVISION =================
+            exit_context = {
+                "symbol": pos.symbol,
+                "current_pnl_pct": round(pnl * 100, 2),
+                "exit_reason": reason,
+                "held_candles": held,
+                "exit_mode": pos.exit_mode,
+                "quant_score": round(s, 4),
+                "indicators": {
+                    "5m": {
+                        "r1": round(float(g.r1), 6) if hasattr(g, "r1") else None,
+                        "r5": round(float(g.r5), 6) if hasattr(g, "r5") else None,
+                        "r15": round(float(g.r15), 6) if hasattr(g, "r15") else None,
+                        "trend": round(float(g.trend), 2) if hasattr(g, "trend") else None,
+                        "volatility": round(float(g.vol), 6) if hasattr(g, "vol") else None
+                    },
+                    "micro_1m": {
+                        "r": round(float(micro_df.close.pct_change().iloc[-1]), 6),
+                        "mom": round(float(micro_df.close.diff().iloc[-1]), 6)
+                    },
+                },
+                "btc_regime": {
+                        "btc_r": round(float(btc_df.close.pct_change().iloc[-1]), 6),
+                        "btc_trend": round(float(btc_df.close.diff().mean()), 4),
+                        "btc_vol": round(float(btc_df.close.pct_change().std()), 6)
+                },
+                "portfolio": portfolio_snapshot(pf)
+            }
+
+            time.sleep(0.4)
+            # 🔴 SAFETY OVERRIDE — NEVER BLOCK THESE
+            FORCED_EXIT_REASONS = {"HARD_STOP"}
+
+            if reason in FORCED_EXIT_REASONS:
+                exit_decision = {
+                    "decision": "ALLOW",
+                    "ai_log" :{
+                        "explanation" : "Stop Loss Hit - forced safety exit"
+                    }
+                }
+            else:
+                exit_decision = gemini.decide(exit_context, action_type="EXIT")
+
+            safe_ai_log(
+                stage="GEMINI_EXIT_DECISION",
+                genome=g,
+                X=[],
+                btc=[],
+                micro=[],
+                score=s,
+                decision=exit_decision["decision"],
+                meta={
+                    "reason": reason,
+                    "explanation": exit_decision["ai_log"]["explanation"]
+                }
+            )
+
+            # ❌ Gemini blocks exit
+            if exit_decision["decision"] == "BLOCK":
+                log.info(f"[GEMINI BLOCK EXIT] {pos.symbol} | reason={reason}")
+                continue
+
+
+            # ✅ Gemini allows exit → proceed
 
             res = close_long(pos.symbol, pos.size)
             if not res or "order_id" not in res:
