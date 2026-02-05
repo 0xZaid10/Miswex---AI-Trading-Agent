@@ -1,0 +1,10 @@
+[
+  {
+    "coin": "SOL",
+    "tf": "15m",
+    "gen": 0,
+    "train_fitness": 0.0627532564026065,
+    "val_capital": 0.8639192509411,
+    "val_trades": 144
+  }
+]

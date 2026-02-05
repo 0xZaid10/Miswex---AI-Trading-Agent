@@ -1,0 +1,8 @@
+2026-01-26 16:00:06,540 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769443205951', 'order_id': '710696318510563868'}
+2026-01-26 16:00:07,141 | INFO | OPEN cmt_dogeusdt TF=5m size=7900.0 order_id=710696318510563868 candle_idx=85
+2026-01-26 16:00:26,745 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=1
+2026-01-26 16:01:26,891 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=1
+2026-01-26 16:02:27,002 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=1
+2026-01-26 16:03:27,127 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=1
+2026-01-26 16:04:27,252 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=1
+2026-01-26 16:05:01,583 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769443500855', 'order_id': '710697555784106524'}

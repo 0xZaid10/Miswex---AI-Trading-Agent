@@ -1,0 +1,19 @@
+2026-01-31 08:45:02,718 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769849102159', 'order_id': '712398770712609308'}
+2026-01-31 08:45:55,745 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=1
+2026-01-31 08:46:56,718 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.17% | held_candles=1
+2026-01-31 08:47:57,626 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.15% | held_candles=1
+2026-01-31 08:48:58,509 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.25% | held_candles=1
+2026-01-31 08:49:59,477 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.24% | held_candles=1
+2026-01-31 08:50:00,358 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 08:51:00,384 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.28% | held_candles=2
+2026-01-31 08:52:01,324 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.14% | held_candles=2
+2026-01-31 08:53:02,244 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.12% | held_candles=2
+2026-01-31 08:54:03,196 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.29% | held_candles=2
+2026-01-31 08:55:04,098 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.39% | held_candles=3
+2026-01-31 08:56:05,028 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.5% | held_candles=3
+2026-01-31 08:57:06,036 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.54% | held_candles=3
+2026-01-31 08:58:06,951 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.51% | held_candles=3
+2026-01-31 08:59:07,925 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.42% | held_candles=3
+2026-01-31 09:00:08,872 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.48% | held_candles=4
+2026-01-31 09:01:09,847 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.45% | held_candles=4
+2026-01-31 09:02:06,329 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769850120621', 'order_id': '712403063909909020'}

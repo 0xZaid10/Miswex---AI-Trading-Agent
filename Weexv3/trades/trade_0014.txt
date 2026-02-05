@@ -1,0 +1,19 @@
+2026-01-22 07:45:02,855 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769067902497', 'order_id': '709122181115675164'}
+2026-01-22 07:45:03,434 | INFO | OPEN cmt_dogeusdt TF=5m size=7700.0 order_id=709122181115675164
+2026-01-22 07:45:19,950 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0%
+2026-01-22 07:46:20,833 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0%
+2026-01-22 07:47:21,686 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0%
+2026-01-22 07:48:22,530 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0%
+2026-01-22 07:49:23,409 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0%
+2026-01-22 07:50:24,255 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.02%
+2026-01-22 07:51:25,148 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.02%
+2026-01-22 07:52:26,038 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.02%
+2026-01-22 07:53:26,918 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.02%
+2026-01-22 07:54:27,773 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.02%
+2026-01-22 07:55:28,654 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.2%
+2026-01-22 07:56:29,548 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.2%
+2026-01-22 07:57:30,397 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.2%
+2026-01-22 07:58:31,255 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.2%
+2026-01-22 07:59:32,124 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.2%
+2026-01-22 08:00:32,966 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.27%
+2026-01-22 08:01:02,768 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769068862192', 'order_id': '709126207089672732'}

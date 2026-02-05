@@ -1,0 +1,29 @@
+2026-01-23 04:15:23,761 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769141723357', 'order_id': '709431808390857244'}
+2026-01-23 04:15:24,149 | INFO | OPEN cmt_dogeusdt TF=5m size=7600.0 order_id=709431808390857244
+2026-01-23 04:15:24,151 | ERROR | WS ERROR -> ping/pong timed out
+2026-01-23 04:15:24,151 | ERROR | ping/pong timed out - goodbye
+2026-01-23 04:15:24,259 | WARNING | WS CLOSED -> reconnecting...
+2026-01-23 04:15:27,659 | INFO | Websocket connected
+2026-01-23 04:15:27,660 | INFO | WS CONNECTED
+2026-01-23 04:15:30,091 | INFO | [HOLD LOCK] 1/3 candles
+2026-01-23 04:15:56,317 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0%
+2026-01-23 04:16:56,403 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0%
+2026-01-23 04:17:56,441 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0%
+2026-01-23 04:18:56,534 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0%
+2026-01-23 04:19:56,628 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0%
+2026-01-23 04:20:00,554 | INFO | [HOLD LOCK] 2/3 candles
+2026-01-23 04:20:56,676 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.15%
+2026-01-23 04:21:56,720 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.15%
+2026-01-23 04:22:56,794 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.15%
+2026-01-23 04:23:56,895 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.15%
+2026-01-23 04:24:56,928 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.15%
+2026-01-23 04:25:56,992 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.06%
+2026-01-23 04:26:57,064 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.06%
+2026-01-23 04:27:57,107 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.06%
+2026-01-23 04:28:57,178 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.06%
+2026-01-23 04:29:57,257 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.06%
+2026-01-23 04:30:57,327 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.06%
+2026-01-23 04:31:57,416 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.06%
+2026-01-23 04:32:57,471 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.06%
+2026-01-23 04:33:57,547 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.06%
+2026-01-23 04:34:02,119 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769142841536', 'order_id': '709436498910380572'}

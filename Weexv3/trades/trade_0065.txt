@@ -1,0 +1,23 @@
+2026-01-26 19:00:23,915 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769454023367', 'order_id': '710741689974653468'}
+2026-01-26 19:00:24,448 | INFO | OPEN cmt_solusdt TF=5m size=7.7 order_id=710741689974653468 candle_idx=15
+2026-01-26 19:00:47,311 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=1
+2026-01-26 19:01:47,412 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=1
+2026-01-26 19:02:47,522 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=1
+2026-01-26 19:03:47,619 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=1
+2026-01-26 19:04:47,749 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=1
+2026-01-26 19:05:47,888 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=2
+2026-01-26 19:06:47,979 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=2
+2026-01-26 19:07:48,054 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=2
+2026-01-26 19:08:48,209 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=2
+2026-01-26 19:09:48,383 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=2
+2026-01-26 19:10:48,499 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=3
+2026-01-26 19:11:48,643 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=3
+2026-01-26 19:12:48,751 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=3
+2026-01-26 19:13:48,851 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=3
+2026-01-26 19:14:48,968 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=3
+2026-01-26 19:15:49,115 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=4
+2026-01-26 19:16:49,205 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=4
+2026-01-26 19:17:49,322 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=4
+2026-01-26 19:18:49,476 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=4
+2026-01-26 19:19:49,644 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=4
+2026-01-26 19:20:01,501 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769455200849', 'order_id': '710746629040243228'}

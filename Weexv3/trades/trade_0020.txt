@@ -1,0 +1,24 @@
+2026-01-22 18:30:03,772 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769106603325', 'order_id': '709284504488903196'}
+2026-01-22 18:30:04,325 | INFO | OPEN cmt_solusdt TF=5m size=7.5 order_id=709284504488903196
+2026-01-22 18:30:29,499 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0%
+2026-01-22 18:31:29,546 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0%
+2026-01-22 18:32:29,616 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0%
+2026-01-22 18:33:29,648 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0%
+2026-01-22 18:34:29,716 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0%
+2026-01-22 18:35:29,790 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19%
+2026-01-22 18:36:29,842 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19%
+2026-01-22 18:37:29,887 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19%
+2026-01-22 18:38:29,904 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19%
+2026-01-22 18:39:29,945 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19%
+2026-01-22 18:40:29,992 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08%
+2026-01-22 18:41:30,041 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08%
+2026-01-22 18:42:30,101 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08%
+2026-01-22 18:43:30,171 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08%
+2026-01-22 18:44:30,212 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08%
+2026-01-22 18:45:30,232 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05%
+2026-01-22 18:46:30,295 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05%
+2026-01-22 18:47:30,355 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05%
+2026-01-22 18:48:30,431 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05%
+2026-01-22 18:49:30,517 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05%
+2026-01-22 18:50:30,535 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06%
+2026-01-22 18:51:02,095 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769107861679', 'order_id': '709289782261318172'}

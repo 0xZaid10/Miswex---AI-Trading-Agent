@@ -1,0 +1,12 @@
+2026-01-22 06:55:13,319 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769064907796', 'order_id': '709109642076094492'}
+2026-01-22 06:55:13,748 | INFO | OPEN cmt_dogeusdt TF=5m size=7700.0 order_id=709109642076094492
+2026-01-22 06:56:01,674 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0%
+2026-01-22 06:57:02,526 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0%
+2026-01-22 06:58:03,378 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0%
+2026-01-22 06:59:04,221 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0%
+2026-01-22 07:00:05,055 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.05%
+2026-01-22 07:01:05,911 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.05%
+2026-01-22 07:02:06,740 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.05%
+2026-01-22 07:03:07,582 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.05%
+2026-01-22 07:04:08,444 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.05%
+2026-01-22 07:05:02,199 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769065501765', 'order_id': '709112112017834012'}

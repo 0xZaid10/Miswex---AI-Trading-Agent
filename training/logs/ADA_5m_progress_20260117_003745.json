@@ -1,0 +1,50 @@
+[
+  {
+    "coin": "ADA",
+    "tf": "5m",
+    "gen": 0,
+    "train_fitness": 0.05064305636041853,
+    "val_capital": 0.7704341043724527,
+    "val_trades": 339
+  },
+  {
+    "coin": "ADA",
+    "tf": "5m",
+    "gen": 1,
+    "train_fitness": 0.16638033664452562,
+    "val_capital": 1.0283977315834152,
+    "val_trades": 179
+  },
+  {
+    "coin": "ADA",
+    "tf": "5m",
+    "gen": 2,
+    "train_fitness": 0.3536366406752026,
+    "val_capital": 1.0670435400876006,
+    "val_trades": 193
+  },
+  {
+    "coin": "ADA",
+    "tf": "5m",
+    "gen": 3,
+    "train_fitness": 0.9369286590184838,
+    "val_capital": 1.106053321796871,
+    "val_trades": 29
+  },
+  {
+    "coin": "ADA",
+    "tf": "5m",
+    "gen": 4,
+    "train_fitness": 1.1047479808912706,
+    "val_capital": 1.0226079315615106,
+    "val_trades": 10
+  },
+  {
+    "coin": "ADA",
+    "tf": "5m",
+    "gen": 5,
+    "train_fitness": 1.694106270291667,
+    "val_capital": 1.0325997427037605,
+    "val_trades": 23
+  }
+]

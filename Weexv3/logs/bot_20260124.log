@@ -1,0 +1,1219 @@
+2026-01-24 07:29:32,446 | INFO | CLOSING ALL OPEN POSITIONS
+2026-01-24 07:29:33,044 | ERROR | CLOSE ALL POSITIONS FAILED -> no response
+2026-01-24 07:29:33,779 | INFO | [BUFFER DEBUG] FILE=cmt_dogeusdt_MINUTE_5.csv -> sym=cmt_dogeusdt tf=MINUTE_5
+2026-01-24 07:29:33,780 | INFO | BUFFER LOADED -> cmt_dogeusdt MINUTE_5 (500)
+2026-01-24 07:29:33,780 | INFO | [BUFFER DEBUG] FILE=cmt_dogeusdt_MINUTE_1.csv -> sym=cmt_dogeusdt tf=MINUTE_1
+2026-01-24 07:29:33,785 | INFO | BUFFER LOADED -> cmt_dogeusdt MINUTE_1 (500)
+2026-01-24 07:29:33,785 | INFO | [BUFFER DEBUG] FILE=cmt_btcusdt_MINUTE_1.csv -> sym=cmt_btcusdt tf=MINUTE_1
+2026-01-24 07:29:33,790 | INFO | BUFFER LOADED -> cmt_btcusdt MINUTE_1 (500)
+2026-01-24 07:29:33,790 | INFO | [BUFFER DEBUG] FILE=cmt_btcusdt_MINUTE_5.csv -> sym=cmt_btcusdt tf=MINUTE_5
+2026-01-24 07:29:33,791 | INFO | BUFFER LOADED -> cmt_btcusdt MINUTE_5 (500)
+2026-01-24 07:29:33,791 | INFO | [BUFFER DEBUG] FILE=cmt_solusdt_MINUTE_1.csv -> sym=cmt_solusdt tf=MINUTE_1
+2026-01-24 07:29:33,795 | INFO | BUFFER LOADED -> cmt_solusdt MINUTE_1 (500)
+2026-01-24 07:29:33,795 | INFO | [BUFFER DEBUG] FILE=cmt_solusdt_MINUTE_5.csv -> sym=cmt_solusdt tf=MINUTE_5
+2026-01-24 07:29:33,796 | INFO | BUFFER LOADED -> cmt_solusdt MINUTE_5 (500)
+2026-01-24 07:29:34,954 | INFO | STEP MAP LOADED -> {'cmt_btcusdt': 0.0001, 'cmt_ethusdt': 0.001, 'cmt_bchusdt': 0.01, 'cmt_ltcusdt': 0.1, 'cmt_dogeusdt': 100.0, 'cmt_etcusdt': 1, 'cmt_filusdt': 1, 'cmt_uniusdt': 1, 'cmt_solusdt': 0.1, 'cmt_linkusdt': 1, 'cmt_adausdt': 10.0, 'cmt_dotusdt': 1, 'cmt_xrpusdt': 10.0, 'cmt_trxusdt': 100.0, 'cmt_bnbusdt': 0.1, 'cmt_nearusdt': 1, 'cmt_opusdt': 1, 'cmt_suiusdt': 10.0, 'cmt_compusdt': 0.1, 'cmt_api3usdt': 1, 'cmt_trbusdt': 0.1, 'cmt_wldusdt': 1, 'cmt_cyberusdt': 1, 'cmt_1000pepeusdt': 100.0, 'cmt_xlmusdt': 100.0, 'cmt_avaxusdt': 1, 'cmt_enjusdt': 10.0, 'cmt_icpusdt': 1, 'cmt_aaveusdt': 0.1, 'cmt_atomusdt': 1, 'cmt_neousdt': 1, 'cmt_aptusdt': 1, 'cmt_injusdt': 0.1, 'cmt_wavesusdt': 1, 'cmt_bandusdt': 1, 'cmt_dydxusdt': 1, 'cmt_tiausdt': 1, 'cmt_runeusdt': 1, 'cmt_axsusdt': 1, 'cmt_arbusdt': 1, 'cmt_xmrusdt': 0.01, 'cmt_yfiusdt': 0.001, 'cmt_maskusdt': 1, 'cmt_qntusdt': 0.1, 'cmt_dashusdt': 0.1, 'cmt_arusdt': 1, 'cmt_ldousdt': 1, 'cmt_apeusdt': 1, 'cmt_ksmusdt': 0.1, 'cmt_mtlusdt': 1, 'cmt_gmxusdt': 0.1, 'cmt_sushiusdt': 1, 'cmt_egldusdt': 0.1, 'cmt_zenusdt': 1, 'cmt_snxusdt': 1, 'cmt_sandusdt': 10.0, 'cmt_manausdt': 10.0, 'cmt_lunausdt': 10.0, 'cmt_galausdt': 100.0, 'cmt_blurusdt': 10.0, 'cmt_cfxusdt': 10.0, 'cmt_yggusdt': 10.0, 'cmt_grtusdt': 10.0, 'cmt_arpausdt': 100.0, 'cmt_sfpusdt': 10.0, 'cmt_chzusdt': 100.0, 'cmt_stxusdt': 10.0, 'cmt_peopleusdt': 100.0, 'cmt_arkmusdt': 10.0, 'cmt_gmtusdt': 10.0, 'cmt_magicusdt': 10.0, 'cmt_idusdt': 10.0, 'cmt_c98usdt': 10.0, 'cmt_achusdt': 100.0, 'cmt_kncusdt': 10.0, 'cmt_seiusdt': 10.0, 'cmt_mavusdt': 10.0, 'cmt_lrcusdt': 10.0, 'cmt_woousdt': 10.0, 'cmt_roseusdt': 100.0, 'cmt_belusdt': 10.0, 'cmt_hbarusdt': 100.0, 'cmt_eduusdt': 10.0, 'cmt_kavausdt': 10.0, 'cmt_ordiusdt': 0.1, 'cmt_nknusdt': 10.0, 'cmt_gtcusdt': 1, 'cmt_crvusdt': 10.0, 'cmt_lptusdt': 1, 'cmt_imxusdt': 1, 'cmt_1000flokiusdt': 100.0, 'cmt_1000shibusdt': 1000.0, 'cmt_memeusdt': 100.0, 'cmt_pythusdt': 10.0, 'cmt_ethwusdt': 1, 'cmt_kasusdt': 10.0, 'cmt_1000satsusdt': 10000.0, 'cmt_1000ratsusdt': 10.0, 'cmt_jtousdt': 1, 'cmt_aceusdt': 0.1, 'cmt_bigtimeusdt': 10.0, 'cmt_bsvusdt': 0.01, 'cmt_nfpusdt': 10.0, 'cmt_powrusdt': 10.0, 'cmt_xaiusdt': 1, 'cmt_aiusdt': 1, 'cmt_1000bonkusdt': 100.0, 'cmt_mantausdt': 1, 'cmt_ondousdt': 10.0, 'cmt_altusdt': 10.0, 'cmt_arkusdt': 10.0, 'cmt_jupusdt': 10.0, 'cmt_dymusdt': 1, 'cmt_luncusdt': 10000.0, 'cmt_celousdt': 10.0, 'cmt_vetusdt': 100.0, 'cmt_strkusdt': 1, 'cmt_glmusdt': 1, 'cmt_pixelusdt': 1, 'cmt_dgbusdt': 100.0, 'cmt_wifusdt': 1, 'cmt_portalusdt': 1, 'cmt_bomeusdt': 100.0, 'cmt_metisusdt': 0.1, 'cmt_fetusdt': 1, 'cmt_aevousdt': 1, 'cmt_zetausdt': 1, 'cmt_ethfiusdt': 1, 'cmt_oneusdt': 100.0, 'cmt_algousdt': 10.0, 'cmt_thetausdt': 1, 'cmt_zilusdt': 100.0, 'cmt_minausdt': 1, 'cmt_ensusdt': 1, 'cmt_qtumusdt': 1, 'cmt_storjusdt': 1, 'cmt_zrxusdt': 1, 'cmt_flowusdt': 1, 'cmt_lqtyusdt': 1, 'cmt_celrusdt': 100.0, 'cmt_polyxusdt': 1, 'cmt_tonusdt': 1, 'cmt_pendleusdt': 1, 'cmt_turbousdt': 1000.0, 'cmt_orbsusdt': 100.0, 'cmt_coreusdt': 1, 'cmt_lskusdt': 1, 'cmt_rvnusdt': 100.0, 'cmt_1inchusdt': 1, 'cmt_nmrusdt': 0.1, 'cmt_umausdt': 1, 'cmt_movrusdt': 0.1, 'cmt_ognusdt': 10.0, 'cmt_slpusdt': 1000.0, 'cmt_joeusdt': 1, 'cmt_rdntusdt': 10.0, 'cmt_enausdt': 1, 'cmt_wusdt': 1, 'cmt_cotiusdt': 10.0, 'cmt_spellusdt': 1000.0, 'cmt_ankrusdt': 100.0, 'cmt_ctsiusdt': 10.0, 'cmt_hotusdt': 1000.0, 'cmt_agldusdt': 1, 'cmt_cvxusdt': 1, 'cmt_xtzusdt': 1, 'cmt_astrusdt': 10.0, 'cmt_auctionusdt': 0.1, 'cmt_stgusdt': 1, 'cmt_jasmyusdt': 100.0, 'cmt_phbusdt': 1, 'cmt_cvcusdt': 10.0, 'cmt_ckbusdt': 100.0, 'cmt_tnsrusdt': 1, 'cmt_sagausdt': 1, 'cmt_taousdt': 0.01, 'cmt_audiousdt': 10.0, 'cmt_ssvusdt': 0.1, 'cmt_iotausdt': 10.0, 'cmt_icxusdt': 10.0, 'cmt_iostusdt': 100.0, 'cmt_bicousdt': 1, 'cmt_omusdt': 1, 'cmt_chrusdt': 10.0, 'cmt_iotxusdt': 10.0, 'cmt_xchusdt': 0.1, 'cmt_tusdt': 100.0, 'cmt_rsrusdt': 100.0, 'cmt_aliceusdt': 1, 'cmt_mewusdt': 100.0, 'cmt_rayusdt': 1, 'cmt_rezusdt': 10.0, 'cmt_popcatusdt': 1, 'cmt_zentusdt': 100.0, 'cmt_bbusdt': 1, 'cmt_notusdt': 100.0, 'cmt_gnousdt': 0.01, 'cmt_axlusdt': 1, 'cmt_driftusdt': 10.0, 'cmt_merlusdt': 10.0, 'cmt_cosusdt': 100.0, 'cmt_safeusdt': 1, 'cmt_zkusdt': 10.0, 'cmt_brettusdt': 10.0, 'cmt_phausdt': 10.0, 'cmt_ctkusdt': 1, 'cmt_ntrnusdt': 1, 'cmt_ongusdt': 10.0, 'cmt_velousdt': 100.0, 'cmt_vthousdt': 1000.0, 'cmt_highusdt': 1, 'cmt_taikousdt': 1, 'cmt_gasusdt': 1, 'cmt_batusdt': 10.0, 'cmt_nulsusdt': 10.0, 'cmt_maviausdt': 1, 'cmt_iousdt': 1, 'cmt_athusdt': 100.0, 'cmt_rifusdt': 10.0, 'cmt_rplusdt': 0.1, 'cmt_oxtusdt': 10.0, 'cmt_bntusdt': 1, 'cmt_zkjusdt': 1, 'cmt_sntusdt': 100.0, 'cmt_zrousdt': 1, 'cmt_listausdt': 1, 'cmt_ctcusdt': 10.0, 'cmt_prclusdt': 10.0, 'cmt_truusdt': 10.0, 'cmt_crousdt': 10.0, 'cmt_xecusdt': 100000.0, 'cmt_paxgusdt': 0.001, 'cmt_mntusdt': 1, 'cmt_flrusdt': 100.0, 'cmt_roninusdt': 1, 'cmt_blastusdt': 100.0, 'cmt_ilvusdt': 0.1, 'cmt_zecusdt': 0.1, 'cmt_zbcnusdt': 1000.0, 'cmt_beamxusdt': 100.0, 'cmt_twtusdt': 1, 'cmt_waxpusdt': 100.0, 'cmt_vanryusdt': 10.0, 'cmt_duskusdt': 10.0, 'cmt_csprusdt': 100.0, 'cmt_degenusdt': 1000.0, 'cmt_xvsusdt': 1, 'cmt_rlcusdt': 1, 'cmt_superusdt': 10.0, 'cmt_agiusdt': 10.0, 'cmt_zeususdt': 10.0, 'cmt_sklusdt': 100.0, 'cmt_mocausdt': 10.0, 'cmt_boneusdt': 10.0, 'cmt_xvgusdt': 1000.0, 'cmt_cakeusdt': 1, 'cmt_bobausdt': 10.0, 'cmt_ustcusdt': 100.0, 'cmt_ontusdt': 10.0, 'cmt_hookusdt': 10.0, 'cmt_dentusdt': 1000.0, 'cmt_sunusdt': 100.0, 'cmt_tlmusdt': 100.0, 'cmt_bananausdt': 0.1, 'cmt_dodoxusdt': 10.0, 'cmt_godsusdt': 10.0, 'cmt_requsdt': 10.0, 'cmt_atausdt': 10.0, 'cmt_steemusdt': 10.0, 'cmt_cetususdt': 100.0, 'cmt_idexusdt': 100.0, 'cmt_forthusdt': 1, 'cmt_xnousdt': 1, 'cmt_rareusdt': 10.0, 'cmt_scusdt': 1000.0, 'cmt_renderusdt': 1, 'cmt_gusdt': 100.0, 'cmt_jstusdt': 100.0, 'cmt_dogusdt': 1000.0, 'cmt_hftusdt': 10.0, 'cmt_funusdt': 1000.0, 'cmt_scrtusdt': 10.0, 'cmt_l3usdt': 10.0, 'cmt_winusdt': 100000.0, 'cmt_qkcusdt': 1000.0, 'cmt_santosusdt': 1, 'cmt_ampusdt': 1000.0, 'cmt_aergousdt': 10.0, 'cmt_promusdt': 1, 'cmt_usdcusdt': 1, 'cmt_pixfiusdt': 100.0, 'cmt_elfusdt': 10.0, 'cmt_fttusdt': 1, 'cmt_synusdt': 10.0, 'cmt_tfuelusdt': 100.0, 'cmt_sysusdt': 10.0, 'cmt_mboxusdt': 10.0, 'cmt_fluxusdt': 10.0, 'cmt_fidausdt': 10.0, 'cmt_ghstusdt': 1, 'cmt_chessusdt': 10.0, 'cmt_catusdt': 100000.0, 'cmt_hntusdt': 1, 'cmt_dogsusdt': 1000.0, 'cmt_orderusdt': 10.0, 'cmt_ogusdt': 1, 'cmt_vicusdt': 10.0, 'cmt_fiousdt': 100.0, 'cmt_polusdt': 10.0, 'cmt_hiveusdt': 10.0, 'cmt_catiusdt': 1, 'cmt_pundixusdt': 10.0, 'cmt_iqusdt': 1000.0, 'cmt_hmstrusdt': 100.0, 'cmt_qubicusdt': 1000000.0, 'cmt_moodengusdt': 10.0, 'cmt_aleousdt': 1, 'cmt_cloudusdt': 10.0, 'cmt_diausdt': 10.0, 'cmt_eigenusdt': 1, 'cmt_pyrusdt': 1, 'cmt_straxusdt': 100.0, 'cmt_kmnousdt': 100.0, 'cmt_carvusdt': 10.0, 'cmt_cityusdt': 1, 'cmt_asrusdt': 1, 'cmt_degousdt': 1, 'cmt_pufferusdt': 10.0, 'cmt_gemsusdt': 10.0, 'cmt_ultimausdt': 0.01, 'cmt_dbrusdt': 100.0, 'cmt_goatusdt': 10.0, 'cmt_gochuusdt': 1000000.0, 'cmt_grassusdt': 10.0, 'cmt_sdusdt': 10.0, 'cmt_cowusdt': 10.0, 'cmt_paalusdt': 10.0, 'cmt_actusdt': 10.0, 'cmt_pnutusdt': 10.0, 'cmt_peaqusdt': 10.0, 'cmt_hippousdt': 100.0, 'cmt_nsusdt': 10.0, 'cmt_deepusdt': 100.0, 'cmt_olusdt': 10.0, 'cmt_chillguyusdt': 10.0, 'cmt_fwogusdt': 10.0, 'cmt_modeusdt': 100.0, 'cmt_theusdt': 1, 'cmt_xdcusdt': 100.0, 'cmt_dsyncusdt': 10.0, 'cmt_scrusdt': 10.0, 'cmt_virtualusdt': 1, 'cmt_aluusdt': 10.0, 'cmt_barusdt': 1, 'cmt_farmusdt': 0.1, 'cmt_suprausdt': 100.0, 'cmt_toshiusdt': 10000.0, 'cmt_aixbtusdt': 10.0, 'cmt_moveusdt': 10.0, 'cmt_meusdt': 1, 'cmt_avausdt': 10.0, 'cmt_spxusdt': 10.0, 'cmt_cgptusdt': 10.0, 'cmt_morphousdt': 1, 'cmt_kaiausdt': 10.0, 'cmt_acxusdt': 10.0, 'cmt_komausdt': 10.0, 'cmt_zerebrousdt': 10.0, 'cmt_nexousdt': 1, 'cmt_vanausdt': 0.1, 'cmt_xionusdt': 1, 'cmt_syrupusdt': 10.0, 'cmt_usualusdt': 10.0, 'cmt_penguusdt': 100.0, 'cmt_clankerusdt': 0.1, 'cmt_lumiausdt': 1, 'cmt_andyethusdt': 10000.0, 'cmt_alpineusdt': 1, 'cmt_gigausdt': 100.0, 'cmt_acsusdt': 1000.0, 'cmt_happyusdt': 100.0, 'cmt_zcxusdt': 10.0, 'cmt_hundusdt': 100.0, 'cmt_laziousdt': 1, 'cmt_pondusdt': 100.0, 'cmt_aerousdt': 1, 'cmt_flockusdt': 10.0, 'cmt_dfusdt': 100.0, 'cmt_moodengethusdt': 10000.0, 'cmt_fartcoinusdt': 1, 'cmt_biousdt': 10.0, 'cmt_griffainusdt': 10.0, 'cmt_neiroctousdt': 1000.0, 'cmt_egousdt': 100.0, 'cmt_cookieusdt': 10.0, 'cmt_avaaiusdt': 10.0, 'cmt_swarmsusdt': 10.0, 'cmt_sonicusdt': 100.0, 'cmt_hypeusdt': 0.1, 'cmt_cheemsusdt': 1000000.0, 'cmt_banusdt': 100.0, 'cmt_aiozusdt': 1, 'cmt_velodromeusdt': 10.0, 'cmt_fusdt': 100.0, 'cmt_taiusdt': 10.0, 'cmt_orcausdt': 1, 'cmt_aktusdt': 1, 'cmt_glqusdt': 100.0, 'cmt_zigusdt': 10.0, 'cmt_pippinusdt': 10.0, 'cmt_cookusdt': 100.0, 'cmt_lmwrusdt': 10.0, 'cmt_alchusdt': 10.0, 'cmt_bananas31usdt': 1000.0, 'cmt_duckusdt': 100.0, 'cmt_gpsusdt': 10.0, 'cmt_trumpusdt': 0.1, 'cmt_solvusdt': 10.0, 'cmt_firousdt': 1, 'cmt_kastausdt': 100.0, 'cmt_melaniausdt': 0.1, 'cmt_elonusdt': 1000000.0, 'cmt_wmtxusdt': 10.0, 'cmt_susdt': 10.0, 'cmt_sqdusdt': 10.0, 'cmt_plumeusdt': 10.0, 'cmt_u2uusdt': 1000.0, 'cmt_dusdt': 10.0, 'cmt_obtusdt': 100.0, 'cmt_vineusdt': 10.0, 'cmt_animeusdt': 10.0, 'cmt_vvvusdt': 0.1, 'cmt_jellyjellyusdt': 100.0, 'cmt_aicusdt': 10.0, 'cmt_arcusdt': 10.0, 'cmt_berausdt': 1, 'cmt_tstusdt': 10.0, 'cmt_fegusdt': 10000.0, 'cmt_anlogusdt': 100.0, 'cmt_b3usdt': 1000.0, 'cmt_layerusdt': 10.0, 'cmt_avlusdt': 10.0, 'cmt_ipusdt': 1, 'cmt_heiusdt': 1, 'cmt_shellusdt': 10.0, 'cmt_broccoliusdt': 100.0, 'cmt_xoxousdt': 100.0, 'cmt_viviusdt': 100.0, 'cmt_broccolif3busdt': 100.0, 'cmt_quaiusdt': 10.0, 'cmt_piusdt': 1, 'cmt_kaitousdt': 1, 'cmt_memhashusdt': 100.0, 'cmt_redusdt': 10.0, 'cmt_roamusdt': 10.0, 'cmt_bmtusdt': 10.0, 'cmt_vaderusdt': 1000.0, 'cmt_yneusdt': 100.0, 'cmt_harryusdt': 100.0, 'cmt_lavausdt': 100.0, 'cmt_epicusdt': 1, 'cmt_mubarakusdt': 100.0, 'cmt_tutusdt': 100.0, 'cmt_formusdt': 1, 'cmt_nilusdt': 1, 'cmt_partiusdt': 10.0, 'cmt_walusdt': 10.0, 'cmt_gunusdt': 10.0, 'cmt_mlnusdt': 1, 'cmt_stousdt': 10.0, 'cmt_eurusdt': 1, 'cmt_brlusdt': 10.0, 'cmt_babyusdt': 100.0, 'cmt_fheusdt': 10.0, 'cmt_promptusdt': 10.0, 'cmt_kernelusdt': 10.0, 'cmt_wctusdt': 10.0, 'cmt_sarosusdt': 10.0, 'cmt_bankusdt': 100.0, 'cmt_skyaiusdt': 100.0, 'cmt_eptusdt': 100.0, 'cmt_hyperusdt': 10.0, 'cmt_zorausdt': 100.0, 'cmt_dolousdt': 10.0, 'cmt_aiotusdt': 10.0, 'cmt_initusdt': 1, 'cmt_signusdt': 100.0, 'cmt_b2usdt': 10.0, 'cmt_haedalusdt': 10.0, 'cmt_myxusdt': 1, 'cmt_obolusdt': 1, 'cmt_sxtusdt': 1, 'cmt_doodusdt': 10.0, 'cmt_nxpcusdt': 1, 'cmt_nobodyusdt': 100.0, 'cmt_agtusdt': 100.0, 'cmt_aweusdt': 100.0, 'cmt_busdt': 10.0, 'cmt_pstakeusdt': 100.0, 'cmt_xautusdt': 0.001, 'cmt_humausdt': 10.0, 'cmt_ausdt': 10.0, 'cmt_sophusdt': 100.0, 'cmt_bdxnusdt': 10.0, 'cmt_lausdt': 10.0, 'cmt_homeusdt': 100.0, 'cmt_resolvusdt': 10.0, 'cmt_pumpbtcusdt': 10.0, 'cmt_uselessusdt': 10.0, 'cmt_aurasolusdt': 10.0, 'cmt_cudisusdt': 100.0, 'cmt_spkusdt': 10.0, 'cmt_matusdt': 1, 'cmt_gorusdt': 100.0, 'cmt_abusdt': 100.0, 'cmt_fortusdt': 100.0, 'cmt_husdt': 10.0, 'cmt_cessusdt': 100.0, 'cmt_saharausdt': 10.0, 'cmt_musdt': 100.0, 'cmt_icntusdt': 10.0, 'cmt_ainusdt': 100.0, 'cmt_crossusdt': 100.0, 'cmt_velvetusdt': 100.0, 'cmt_pumpusdt': 100.0, 'cmt_esusdt': 10.0, 'cmt_erausdt': 1, 'cmt_gpusdt': 1, 'cmt_esportsusdt': 10.0, 'cmt_aspusdt': 10.0, 'cmt_a2zusdt': 1000.0, 'cmt_uniteusdt': 1000.0, 'cmt_naorisusdt': 10.0, 'cmt_ikausdt': 100.0, 'cmt_rionusdt': 1, 'cmt_moriusdt': 10.0, 'cmt_townsusdt': 100.0, 'cmt_proveusdt': 1, 'cmt_1mbabydogeusdt': 1000.0, 'cmt_bullausdt': 100.0, 'cmt_cusdt': 10.0, 'cmt_inusdt': 10.0, 'cmt_newtusdt': 10.0, 'cmt_playusdt': 100.0, 'cmt_tausdt': 100.0, 'cmt_tagusdt': 1000.0, 'cmt_treeusdt': 10.0, 'cmt_xnyusdt': 100.0, 'cmt_aiousdt': 10.0, 'cmt_tacusdt': 10.0, 'cmt_damusdt': 10.0, 'cmt_mamousdt': 10.0, 'cmt_mgousdt': 100.0, 'cmt_yzyusdt': 1, 'cmt_sapienusdt': 10.0, 'cmt_verseworldusdt': 10.0, 'cmt_takeusdt': 10.0, 'cmt_btrusdt': 100.0, 'cmt_campusdt': 10.0, 'cmt_hemiusdt': 100.0, 'cmt_wlfiusdt': 10.0, 'cmt_qusdt': 100.0, 'cmt_somiusdt': 1, 'cmt_ptbusdt': 10.0, 'cmt_ariausdt': 10.0, 'cmt_basusdt': 100.0, 'cmt_mitousdt': 10.0, 'cmt_lineausdt': 100.0, 'cmt_openusdt': 1, 'cmt_avntusdt': 10.0, 'cmt_holousdt': 10.0, 'cmt_stblusdt': 10.0, 'cmt_asterusdt': 1, 'cmt_giggleusdt': 0.1, 'cmt_bardusdt': 1, 'cmt_tradoorusdt': 1, 'cmt_zkcusdt': 1, 'cmt_0gusdt': 1, 'cmt_skyusdt': 10.0, 'cmt_xplusdt': 10.0, 'cmt_yuruusdt': 10.0, 'cmt_mirausdt': 10.0, 'cmt_lightusdt': 10.0, 'cmt_ffusdt': 1, 'cmt_evaausdt': 1, 'cmt_truthusdt': 100.0, 'cmt_kgenusdt': 10.0, 'cmt_akeusdt': 1000.0, 'cmt_xpinusdt': 1000.0, 'cmt_aausdt': 10.0, 'cmt_4usdt': 10.0, 'cmt_bianrenshengusdt': 10.0, 'cmt_botusdt': 10.0, 'cmt_mndeusdt': 10.0, 'cmt_xanusdt': 100.0, 'cmt_rscusdt': 10.0, 'cmt_cyprusdt': 10.0, 'cmt_lynusdt': 10.0, 'cmt_nomusdt': 100.0, 'cmt_2zusdt': 10.0, 'cmt_vfyusdt': 10.0, 'cmt_coaiusdt': 1, 'cmt_hanausdt': 100.0, 'cmt_edenusdt': 10.0, 'cmt_ensousdt': 1, 'cmt_clousdt': 10.0, 'cmt_ybusdt': 10.0, 'cmt_blessusdt': 10.0, 'cmt_recallusdt': 10.0, 'cmt_zbtusdt': 1, 'cmt_labusdt': 10.0, 'cmt_rvvusdt': 100.0, 'cmt_bluaiusdt': 100.0, 'cmt_aprusdt': 1, 'cmt_turtleusdt': 1, 'cmt_cgnusdt': 1000.0, 'cmt_anomeusdt': 10.0, 'cmt_riverusdt': 1, 'cmt_onusdt': 10.0, 'cmt_metusdt': 10.0, 'cmt_idolusdt': 100.0, 'cmt_eulusdt': 1, 'cmt_mmtusdt': 1, 'cmt_1000bttusdt': 10000.0, 'cmt_trustusdt': 10.0, 'cmt_uaiusdt': 10.0, 'cmt_sentisusdt': 10.0, 'cmt_folksusdt': 1, 'cmt_elizaosusdt': 100.0, 'cmt_jctusdt': 100.0, 'cmt_aviciusdt': 0.1, 'cmt_allousdt': 10.0, 'cmt_bsuusdt': 10.0, 'cmt_commonusdt': 100.0, 'cmt_wojakonxusdt': 100.0, 'cmt_pieverseusdt': 10.0, 'cmt_beatusdt': 1, 'cmt_dgramusdt': 100.0, 'cmt_gaibusdt': 10.0, 'cmt_pybobousdt': 10000.0, 'cmt_artxusdt': 10.0, 'cmt_ascusdt': 10.0, 'cmt_juusdt': 1, 'cmt_irysusdt': 100.0, 'cmt_guausdt': 10.0, 'cmt_atusdt': 1, 'cmt_monusdt': 100.0, 'cmt_soonusdt': 10.0, 'cmt_stableusdt': 10.0, 'cmt_realusdt': 100.0, 'cmt_nightusdt': 100.0, 'cmt_wetusdt': 10.0, 'cmt_cysusdt': 10.0, 'cmt_raveusdt': 10.0, 'cmt_42usdt': 100.0, 'cmt_magmausdt': 10.0, 'cmt_ccusdt': 100.0, 'cmt_kiteusdt': 100.0, 'cmt_tracusdt': 10.0, 'cmt_rtxusdt': 1, 'cmt_zkpusdt': 10.0, 'cmt_irusdt': 1, 'cmt_bdxusdt': 10.0, 'cmt_collectusdt': 100.0, 'cmt_oooousdt': 100.0, 'cmt_aiavusdt': 10.0, 'cmt_esimusdt': 10.0, 'cmt_114514usdt': 100.0, 'cmt_whitewhaleusdt': 100.0, 'cmt_brevusdt': 10.0, 'cmt_xagusdt': 0.1, 'cmt_ztcusdt': 100.0, 'cmt_powerusdt': 1, 'cmt_我踏马来了usdt': 100.0, 'cmt_dnusdt': 1, 'cmt_老子usdt': 1000.0, 'cmt_哈基米usdt': 10.0, 'cmt_caiusdt': 10.0, 'cmt_人生k线usdt': 100.0, 'cmt_草根文化usdt': 1000.0, 'cmt_psyopanimeusdt': 100.0, 'cmt_黑马usdt': 100.0, 'cmt_sightusdt': 100.0, 'cmt_小股东usdt': 1000.0, 'cmt_死了么usdt': 1000.0, 'cmt_fogousdt': 100.0, 'cmt_coinusdt': 0.01, 'cmt_aaplusdt': 0.01, 'cmt_nvdausdt': 0.01, 'cmt_mstrusdt': 0.01, 'cmt_owlusdt': 100.0, 'cmt_fraxusdt': 1, 'cmt_雪球usdt': 100.0, 'cmt_rollusdt': 100.0, 'cmt_gastownusdt': 100.0, 'cmt_ralphusdt': 10.0, 'cmt_elsausdt': 10.0, 'cmt_acuusdt': 10.0, 'cmt_memesusdt': 100.0, 'cmt_gweiusdt': 100.0, 'cmt_aia_contractusdt': 1, 'cmt_aiausdt': 1, 'cmt_tslausdt': 0.01, 'cmt_amznusdt': 0.01, 'cmt_sentusdt': 100.0, 'cmt_fightusdt': 100.0, 'cmt_skrusdt': 100.0, 'cmt_imuusdt': 100.0, 'cmt_orclusdt': 0.01, 'cmt_pltrusdt': 0.01, 'cmt_dontusdt': 100000.0, 'cmt_spaceusdt': 100.0}
+2026-01-24 07:29:35,331 | INFO | Websocket connected
+2026-01-24 07:29:35,332 | INFO | WS CONNECTED
+2026-01-24 07:29:35,356 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_solusdt.MINUTE_1
+2026-01-24 07:29:35,657 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_solusdt.MINUTE_5
+2026-01-24 07:29:35,768 | INFO | [SCALER-STATUS] 1m=NOT_FIT | 5m=NOT_FIT | keys=[]
+2026-01-24 07:29:35,786 | INFO | [STRAT-5m] SOL | id=0 | score=-0.0938 | entry=0.75 | SIGNAL=NO
+2026-01-24 07:29:35,792 | INFO | [STRAT-5m] SOL | id=1 | score=-1.6484 | entry=0.9 | SIGNAL=NO
+2026-01-24 07:29:35,958 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_dogeusdt.MINUTE_1
+2026-01-24 07:29:36,258 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_dogeusdt.MINUTE_5
+2026-01-24 07:29:36,381 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0009 | entry=0.85 | SIGNAL=NO
+2026-01-24 07:29:36,390 | INFO | [STRAT-5m] DOGE | id=1 | score=1.3969 | entry=0.74 | SIGNAL=OPEN
+2026-01-24 07:29:36,390 | INFO | TRADING LOCKED (startup cooldown)
+2026-01-24 07:29:36,559 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_btcusdt.MINUTE_1
+2026-01-24 07:29:36,860 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_btcusdt.MINUTE_5
+2026-01-24 07:30:00,333 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0246 | entry=0.85 | SIGNAL=NO
+2026-01-24 07:30:00,340 | INFO | [STRAT-5m] DOGE | id=1 | score=1.4224 | entry=0.74 | SIGNAL=OPEN
+2026-01-24 07:30:00,340 | INFO | TRADING LOCKED (startup cooldown)
+2026-01-24 07:30:00,679 | INFO | [STRAT-5m] SOL | id=0 | score=0.4315 | entry=0.75 | SIGNAL=NO
+2026-01-24 07:30:00,686 | INFO | [STRAT-5m] SOL | id=1 | score=-1.7059 | entry=0.9 | SIGNAL=NO
+2026-01-24 07:35:00,447 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0031 | entry=0.85 | SIGNAL=NO
+2026-01-24 07:35:00,461 | INFO | [STRAT-5m] DOGE | id=1 | score=0.5433 | entry=0.74 | SIGNAL=NO
+2026-01-24 07:35:00,557 | INFO | [STRAT-5m] SOL | id=0 | score=0.3374 | entry=0.75 | SIGNAL=NO
+2026-01-24 07:35:00,570 | INFO | [STRAT-5m] SOL | id=1 | score=-1.2521 | entry=0.9 | SIGNAL=NO
+2026-01-24 07:40:00,302 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0026 | entry=0.85 | SIGNAL=NO
+2026-01-24 07:40:00,316 | INFO | [STRAT-5m] DOGE | id=1 | score=1.4124 | entry=0.74 | SIGNAL=OPEN
+2026-01-24 07:40:00,316 | INFO | TRADING LOCKED (startup cooldown)
+2026-01-24 07:40:00,830 | INFO | [STRAT-5m] SOL | id=0 | score=-0.0878 | entry=0.75 | SIGNAL=NO
+2026-01-24 07:40:00,843 | INFO | [STRAT-5m] SOL | id=1 | score=-1.257 | entry=0.9 | SIGNAL=NO
+2026-01-24 07:45:00,718 | INFO | [STRAT-5m] SOL | id=0 | score=-0.2043 | entry=0.75 | SIGNAL=NO
+2026-01-24 07:45:00,731 | INFO | [STRAT-5m] SOL | id=1 | score=-1.0863 | entry=0.9 | SIGNAL=NO
+2026-01-24 07:45:00,756 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0008 | entry=0.85 | SIGNAL=NO
+2026-01-24 07:45:00,769 | INFO | [STRAT-5m] DOGE | id=1 | score=0.6989 | entry=0.74 | SIGNAL=NO
+2026-01-24 07:50:00,413 | INFO | [STRAT-5m] SOL | id=0 | score=0.4818 | entry=0.75 | SIGNAL=NO
+2026-01-24 07:50:00,428 | INFO | [STRAT-5m] SOL | id=1 | score=-0.727 | entry=0.9 | SIGNAL=NO
+2026-01-24 07:50:01,249 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0018 | entry=0.85 | SIGNAL=NO
+2026-01-24 07:50:01,264 | INFO | [STRAT-5m] DOGE | id=1 | score=0.5603 | entry=0.74 | SIGNAL=NO
+2026-01-24 07:55:00,323 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0022 | entry=0.85 | SIGNAL=NO
+2026-01-24 07:55:00,337 | INFO | [STRAT-5m] DOGE | id=1 | score=0.4966 | entry=0.74 | SIGNAL=NO
+2026-01-24 07:55:00,709 | INFO | [STRAT-5m] SOL | id=0 | score=0.3101 | entry=0.75 | SIGNAL=NO
+2026-01-24 07:55:00,724 | INFO | [STRAT-5m] SOL | id=1 | score=-1.278 | entry=0.9 | SIGNAL=NO
+2026-01-24 08:00:01,783 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0029 | entry=0.85 | SIGNAL=NO
+2026-01-24 08:00:01,789 | INFO | [STRAT-5m] DOGE | id=1 | score=1.2265 | entry=0.74 | SIGNAL=OPEN
+2026-01-24 08:00:01,789 | INFO | TRADING LOCKED (startup cooldown)
+2026-01-24 08:00:01,818 | INFO | [STRAT-5m] SOL | id=0 | score=0.4498 | entry=0.75 | SIGNAL=NO
+2026-01-24 08:00:01,824 | INFO | [STRAT-5m] SOL | id=1 | score=-1.8205 | entry=0.9 | SIGNAL=NO
+2026-01-24 08:05:00,272 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0026 | entry=0.85 | SIGNAL=NO
+2026-01-24 08:05:00,286 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.2186 | entry=0.74 | SIGNAL=NO
+2026-01-24 08:05:00,734 | INFO | [STRAT-5m] SOL | id=0 | score=0.0476 | entry=0.75 | SIGNAL=NO
+2026-01-24 08:05:00,749 | INFO | [STRAT-5m] SOL | id=1 | score=-1.3493 | entry=0.9 | SIGNAL=NO
+2026-01-24 08:10:00,416 | INFO | [STRAT-5m] SOL | id=0 | score=-0.058 | entry=0.75 | SIGNAL=NO
+2026-01-24 08:10:00,429 | INFO | [STRAT-5m] SOL | id=1 | score=-1.2007 | entry=0.9 | SIGNAL=NO
+2026-01-24 08:10:00,529 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.003 | entry=0.85 | SIGNAL=NO
+2026-01-24 08:10:00,534 | INFO | [STRAT-5m] DOGE | id=1 | score=0.4394 | entry=0.74 | SIGNAL=NO
+2026-01-24 08:15:00,626 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0024 | entry=0.85 | SIGNAL=NO
+2026-01-24 08:15:00,640 | INFO | [STRAT-5m] DOGE | id=1 | score=0.1991 | entry=0.74 | SIGNAL=NO
+2026-01-24 08:15:00,659 | INFO | [STRAT-5m] SOL | id=0 | score=0.3142 | entry=0.75 | SIGNAL=NO
+2026-01-24 08:15:00,666 | INFO | [STRAT-5m] SOL | id=1 | score=-1.5728 | entry=0.9 | SIGNAL=NO
+2026-01-24 08:20:00,640 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0022 | entry=0.85 | SIGNAL=NO
+2026-01-24 08:20:00,645 | INFO | [STRAT-5m] DOGE | id=1 | score=0.4246 | entry=0.74 | SIGNAL=NO
+2026-01-24 08:20:00,743 | INFO | [STRAT-5m] SOL | id=0 | score=-0.0456 | entry=0.75 | SIGNAL=NO
+2026-01-24 08:20:00,748 | INFO | [STRAT-5m] SOL | id=1 | score=-0.9305 | entry=0.9 | SIGNAL=NO
+2026-01-24 08:25:00,506 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0014 | entry=0.85 | SIGNAL=NO
+2026-01-24 08:25:00,519 | INFO | [STRAT-5m] DOGE | id=1 | score=0.2725 | entry=0.74 | SIGNAL=NO
+2026-01-24 08:25:00,826 | INFO | [STRAT-5m] SOL | id=0 | score=0.1154 | entry=0.75 | SIGNAL=NO
+2026-01-24 08:25:00,839 | INFO | [STRAT-5m] SOL | id=1 | score=-1.0351 | entry=0.9 | SIGNAL=NO
+2026-01-24 08:30:00,693 | INFO | [STRAT-5m] SOL | id=0 | score=0.4261 | entry=0.75 | SIGNAL=NO
+2026-01-24 08:30:00,708 | INFO | [STRAT-5m] SOL | id=1 | score=-1.3424 | entry=0.9 | SIGNAL=NO
+2026-01-24 08:30:00,786 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.002 | entry=0.85 | SIGNAL=NO
+2026-01-24 08:30:00,800 | INFO | [STRAT-5m] DOGE | id=1 | score=1.075 | entry=0.74 | SIGNAL=OPEN
+2026-01-24 08:30:23,013 | ERROR | PLACE LONG FAILED -> no response
+2026-01-24 08:30:23,015 | ERROR | OPEN FAILED -> cmt_dogeusdt
+2026-01-24 08:35:00,293 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.001 | entry=0.85 | SIGNAL=NO
+2026-01-24 08:35:00,307 | INFO | [STRAT-5m] DOGE | id=1 | score=0.1538 | entry=0.74 | SIGNAL=NO
+2026-01-24 08:35:00,791 | INFO | [STRAT-5m] SOL | id=0 | score=0.2729 | entry=0.75 | SIGNAL=NO
+2026-01-24 08:35:00,804 | INFO | [STRAT-5m] SOL | id=1 | score=-1.1656 | entry=0.9 | SIGNAL=NO
+2026-01-24 08:40:00,515 | INFO | [STRAT-5m] SOL | id=0 | score=0.015 | entry=0.75 | SIGNAL=NO
+2026-01-24 08:40:00,529 | INFO | [STRAT-5m] SOL | id=1 | score=-0.8835 | entry=0.9 | SIGNAL=NO
+2026-01-24 08:40:00,953 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0007 | entry=0.85 | SIGNAL=NO
+2026-01-24 08:40:00,959 | INFO | [STRAT-5m] DOGE | id=1 | score=0.6111 | entry=0.74 | SIGNAL=NO
+2026-01-24 08:45:00,625 | INFO | [STRAT-5m] SOL | id=0 | score=-0.0612 | entry=0.75 | SIGNAL=NO
+2026-01-24 08:45:00,640 | INFO | [STRAT-5m] SOL | id=1 | score=-0.5329 | entry=0.9 | SIGNAL=NO
+2026-01-24 08:45:00,654 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0002 | entry=0.85 | SIGNAL=NO
+2026-01-24 08:45:00,661 | INFO | [STRAT-5m] DOGE | id=1 | score=0.3151 | entry=0.74 | SIGNAL=NO
+2026-01-24 08:50:00,687 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0002 | entry=0.85 | SIGNAL=NO
+2026-01-24 08:50:00,701 | INFO | [STRAT-5m] DOGE | id=1 | score=0.219 | entry=0.74 | SIGNAL=NO
+2026-01-24 08:50:00,718 | INFO | [STRAT-5m] SOL | id=0 | score=0.5635 | entry=0.75 | SIGNAL=NO
+2026-01-24 08:50:00,726 | INFO | [STRAT-5m] SOL | id=1 | score=-1.0072 | entry=0.9 | SIGNAL=NO
+2026-01-24 08:55:00,542 | INFO | [STRAT-5m] SOL | id=0 | score=0.2786 | entry=0.75 | SIGNAL=NO
+2026-01-24 08:55:00,556 | INFO | [STRAT-5m] SOL | id=1 | score=-1.0731 | entry=0.9 | SIGNAL=NO
+2026-01-24 08:55:00,570 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0008 | entry=0.85 | SIGNAL=NO
+2026-01-24 08:55:00,577 | INFO | [STRAT-5m] DOGE | id=1 | score=0.8989 | entry=0.74 | SIGNAL=OPEN
+2026-01-24 08:55:07,221 | ERROR | PLACE LONG FAILED -> no response
+2026-01-24 08:55:07,222 | ERROR | OPEN FAILED -> cmt_dogeusdt
+2026-01-24 09:00:00,415 | INFO | [STRAT-5m] SOL | id=0 | score=0.5484 | entry=0.75 | SIGNAL=NO
+2026-01-24 09:00:00,428 | INFO | [STRAT-5m] SOL | id=1 | score=-1.0487 | entry=0.9 | SIGNAL=NO
+2026-01-24 09:00:00,800 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0011 | entry=0.85 | SIGNAL=NO
+2026-01-24 09:00:00,813 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.2377 | entry=0.74 | SIGNAL=NO
+2026-01-24 09:05:00,467 | INFO | [STRAT-5m] SOL | id=0 | score=0.0898 | entry=0.75 | SIGNAL=NO
+2026-01-24 09:05:00,480 | INFO | [STRAT-5m] SOL | id=1 | score=-0.9309 | entry=0.9 | SIGNAL=NO
+2026-01-24 09:05:00,494 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0018 | entry=0.85 | SIGNAL=NO
+2026-01-24 09:05:00,503 | INFO | [STRAT-5m] DOGE | id=1 | score=1.1224 | entry=0.74 | SIGNAL=OPEN
+2026-01-24 09:05:17,496 | ERROR | PLACE LONG FAILED -> no response
+2026-01-24 09:05:17,498 | ERROR | OPEN FAILED -> cmt_dogeusdt
+2026-01-24 09:10:00,543 | INFO | [STRAT-5m] SOL | id=0 | score=0.2488 | entry=0.75 | SIGNAL=NO
+2026-01-24 09:10:00,556 | INFO | [STRAT-5m] SOL | id=1 | score=-1.5013 | entry=0.9 | SIGNAL=NO
+2026-01-24 09:10:00,780 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0028 | entry=0.85 | SIGNAL=NO
+2026-01-24 09:10:00,794 | INFO | [STRAT-5m] DOGE | id=1 | score=0.7123 | entry=0.74 | SIGNAL=NO
+2026-01-24 09:15:00,460 | INFO | [STRAT-5m] SOL | id=0 | score=0.3199 | entry=0.75 | SIGNAL=NO
+2026-01-24 09:15:00,474 | INFO | [STRAT-5m] SOL | id=1 | score=-0.7985 | entry=0.9 | SIGNAL=NO
+2026-01-24 09:15:00,506 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0009 | entry=0.85 | SIGNAL=NO
+2026-01-24 09:15:00,518 | INFO | [STRAT-5m] DOGE | id=1 | score=0.9631 | entry=0.74 | SIGNAL=OPEN
+2026-01-24 09:15:07,168 | ERROR | PLACE LONG FAILED -> no response
+2026-01-24 09:15:07,170 | ERROR | OPEN FAILED -> cmt_dogeusdt
+2026-01-24 09:20:00,540 | INFO | [STRAT-5m] SOL | id=0 | score=-0.0951 | entry=0.75 | SIGNAL=NO
+2026-01-24 09:20:00,545 | INFO | [STRAT-5m] SOL | id=1 | score=-1.0661 | entry=0.9 | SIGNAL=NO
+2026-01-24 09:20:00,555 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0024 | entry=0.85 | SIGNAL=NO
+2026-01-24 09:20:00,561 | INFO | [STRAT-5m] DOGE | id=1 | score=0.6973 | entry=0.74 | SIGNAL=NO
+2026-01-24 09:25:00,838 | INFO | [STRAT-5m] SOL | id=0 | score=0.0114 | entry=0.75 | SIGNAL=NO
+2026-01-24 09:25:00,852 | INFO | [STRAT-5m] SOL | id=1 | score=-1.0497 | entry=0.9 | SIGNAL=NO
+2026-01-24 09:25:01,062 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0022 | entry=0.85 | SIGNAL=NO
+2026-01-24 09:25:01,067 | INFO | [STRAT-5m] DOGE | id=1 | score=0.4256 | entry=0.74 | SIGNAL=NO
+2026-01-24 09:30:00,695 | INFO | [STRAT-5m] SOL | id=0 | score=0.3895 | entry=0.75 | SIGNAL=NO
+2026-01-24 09:30:00,709 | INFO | [STRAT-5m] SOL | id=1 | score=-1.1746 | entry=0.9 | SIGNAL=NO
+2026-01-24 09:30:00,757 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0018 | entry=0.85 | SIGNAL=NO
+2026-01-24 09:30:00,771 | INFO | [STRAT-5m] DOGE | id=1 | score=0.4261 | entry=0.74 | SIGNAL=NO
+2026-01-24 09:35:00,619 | INFO | [STRAT-5m] SOL | id=0 | score=0.4922 | entry=0.75 | SIGNAL=NO
+2026-01-24 09:35:00,633 | INFO | [STRAT-5m] SOL | id=1 | score=-1.4294 | entry=0.9 | SIGNAL=NO
+2026-01-24 09:35:00,646 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0014 | entry=0.85 | SIGNAL=NO
+2026-01-24 09:35:00,654 | INFO | [STRAT-5m] DOGE | id=1 | score=0.4423 | entry=0.74 | SIGNAL=NO
+2026-01-24 09:40:00,293 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0018 | entry=0.85 | SIGNAL=NO
+2026-01-24 09:40:00,308 | INFO | [STRAT-5m] DOGE | id=1 | score=0.8822 | entry=0.74 | SIGNAL=OPEN
+2026-01-24 09:40:07,200 | ERROR | PLACE LONG FAILED -> no response
+2026-01-24 09:40:07,202 | ERROR | OPEN FAILED -> cmt_dogeusdt
+2026-01-24 09:40:07,222 | INFO | [STRAT-5m] SOL | id=0 | score=0.8849 | entry=0.75 | SIGNAL=OPEN
+2026-01-24 09:40:09,730 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769247609183', 'order_id': '709875926229320220'}
+2026-01-24 09:40:10,282 | INFO | OPEN cmt_solusdt TF=5m size=7.5 order_id=709875926229320220 candle_idx=28
+2026-01-24 09:40:38,754 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=0
+2026-01-24 09:41:38,894 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=0
+2026-01-24 09:42:39,028 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=0
+2026-01-24 09:43:39,155 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=0
+2026-01-24 09:44:39,336 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=0
+2026-01-24 09:45:39,456 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=1
+2026-01-24 09:46:39,591 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=1
+2026-01-24 09:47:39,685 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=1
+2026-01-24 09:48:39,795 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=1
+2026-01-24 09:49:39,919 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=1
+2026-01-24 09:50:40,030 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=2
+2026-01-24 09:51:40,131 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=2
+2026-01-24 09:52:40,261 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=2
+2026-01-24 09:53:40,368 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=2
+2026-01-24 09:54:40,495 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=2
+2026-01-24 09:55:40,571 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=3
+2026-01-24 09:56:40,674 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=3
+2026-01-24 09:57:40,812 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=3
+2026-01-24 09:58:40,933 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=3
+2026-01-24 09:59:41,044 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=3
+2026-01-24 10:00:41,110 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=4
+2026-01-24 10:01:41,256 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=4
+2026-01-24 10:02:41,372 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=4
+2026-01-24 10:03:41,492 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=4
+2026-01-24 10:04:41,623 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=4
+2026-01-24 10:05:41,743 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=5
+2026-01-24 10:06:41,803 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=5
+2026-01-24 10:07:41,941 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=5
+2026-01-24 10:08:42,073 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=5
+2026-01-24 10:09:42,183 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=5
+2026-01-24 10:10:42,288 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05% | held_candles=6
+2026-01-24 10:11:42,348 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05% | held_candles=6
+2026-01-24 10:12:42,491 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05% | held_candles=6
+2026-01-24 10:13:42,631 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05% | held_candles=6
+2026-01-24 10:14:42,755 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05% | held_candles=6
+2026-01-24 10:15:42,814 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.03% | held_candles=7
+2026-01-24 10:16:42,926 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.03% | held_candles=7
+2026-01-24 10:17:43,016 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.03% | held_candles=7
+2026-01-24 10:18:43,111 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.03% | held_candles=7
+2026-01-24 10:19:43,231 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.03% | held_candles=7
+2026-01-24 10:20:43,356 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=8
+2026-01-24 10:21:43,501 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=8
+2026-01-24 10:22:43,585 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=8
+2026-01-24 10:23:43,705 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=8
+2026-01-24 10:24:43,843 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=8
+2026-01-24 10:25:43,950 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=9
+2026-01-24 10:26:44,110 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=9
+2026-01-24 10:27:44,201 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=9
+2026-01-24 10:28:44,328 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=9
+2026-01-24 10:29:44,465 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=9
+2026-01-24 10:30:44,586 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.01% | held_candles=10
+2026-01-24 10:31:44,720 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.01% | held_candles=10
+2026-01-24 10:32:44,870 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.01% | held_candles=10
+2026-01-24 10:33:45,039 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.01% | held_candles=10
+2026-01-24 10:34:45,175 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.01% | held_candles=10
+2026-01-24 10:35:45,333 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05% | held_candles=11
+2026-01-24 10:36:45,467 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05% | held_candles=11
+2026-01-24 10:37:45,591 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05% | held_candles=11
+2026-01-24 10:38:45,745 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05% | held_candles=11
+2026-01-24 10:39:45,882 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05% | held_candles=11
+2026-01-24 10:40:46,010 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=12
+2026-01-24 10:41:46,139 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=12
+2026-01-24 10:42:46,263 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=12
+2026-01-24 10:43:46,376 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=12
+2026-01-24 10:44:46,558 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=12
+2026-01-24 10:45:46,666 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=13
+2026-01-24 10:46:46,816 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=13
+2026-01-24 10:47:46,964 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=13
+2026-01-24 10:48:47,021 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=13
+2026-01-24 10:49:47,127 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=13
+2026-01-24 10:50:47,260 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=14
+2026-01-24 10:51:47,350 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=14
+2026-01-24 10:52:47,514 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=14
+2026-01-24 10:53:47,665 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=14
+2026-01-24 10:54:47,805 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=14
+2026-01-24 10:55:47,927 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=15
+2026-01-24 10:56:48,081 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=15
+2026-01-24 10:57:48,231 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=15
+2026-01-24 10:58:48,343 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=15
+2026-01-24 10:59:48,476 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=15
+2026-01-24 11:00:48,568 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=16
+2026-01-24 11:01:48,742 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=16
+2026-01-24 11:02:48,892 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=16
+2026-01-24 11:03:49,040 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=16
+2026-01-24 11:04:49,176 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=16
+2026-01-24 11:05:49,331 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=17
+2026-01-24 11:06:49,494 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=17
+2026-01-24 11:07:49,622 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=17
+2026-01-24 11:08:49,755 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=17
+2026-01-24 11:09:49,896 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=17
+2026-01-24 11:10:49,995 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=18
+2026-01-24 11:11:50,129 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=18
+2026-01-24 11:12:50,286 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=18
+2026-01-24 11:13:50,375 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=18
+2026-01-24 11:14:50,516 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=18
+2026-01-24 11:15:50,651 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=19
+2026-01-24 11:16:50,809 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=19
+2026-01-24 11:17:50,946 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=19
+2026-01-24 11:18:51,043 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=19
+2026-01-24 11:19:51,188 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=19
+2026-01-24 11:20:51,334 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=20
+2026-01-24 11:21:51,496 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=20
+2026-01-24 11:22:51,654 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=20
+2026-01-24 11:23:51,796 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=20
+2026-01-24 11:24:51,969 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=20
+2026-01-24 11:25:52,103 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=21
+2026-01-24 11:26:52,221 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=21
+2026-01-24 11:27:52,368 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=21
+2026-01-24 11:28:52,524 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=21
+2026-01-24 11:29:52,659 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=21
+2026-01-24 11:30:52,822 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=22
+2026-01-24 11:31:52,963 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=22
+2026-01-24 11:32:53,103 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=22
+2026-01-24 11:33:53,242 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=22
+2026-01-24 11:34:53,390 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=22
+2026-01-24 11:35:53,539 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=23
+2026-01-24 11:36:53,696 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=23
+2026-01-24 11:37:53,857 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=23
+2026-01-24 11:38:54,006 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=23
+2026-01-24 11:39:54,104 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=23
+2026-01-24 11:40:54,245 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=24
+2026-01-24 11:41:54,424 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=24
+2026-01-24 11:42:54,563 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=24
+2026-01-24 11:43:54,687 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=24
+2026-01-24 11:44:54,847 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=24
+2026-01-24 11:45:54,969 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=25
+2026-01-24 11:46:55,060 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=25
+2026-01-24 11:47:55,195 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=25
+2026-01-24 11:48:55,330 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=25
+2026-01-24 11:49:55,495 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=25
+2026-01-24 11:50:55,623 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=26
+2026-01-24 11:51:55,779 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=26
+2026-01-24 11:52:55,934 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=26
+2026-01-24 11:53:56,080 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=26
+2026-01-24 11:54:56,253 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=26
+2026-01-24 11:55:56,413 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=27
+2026-01-24 11:56:56,571 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=27
+2026-01-24 11:57:56,690 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=27
+2026-01-24 11:58:56,842 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=27
+2026-01-24 11:59:56,946 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=27
+2026-01-24 12:00:57,036 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=28
+2026-01-24 12:01:57,143 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=28
+2026-01-24 12:02:57,264 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=28
+2026-01-24 12:03:57,394 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=28
+2026-01-24 12:04:57,555 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=28
+2026-01-24 12:05:57,694 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=29
+2026-01-24 12:06:57,840 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=29
+2026-01-24 12:07:58,005 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=29
+2026-01-24 12:08:58,166 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=29
+2026-01-24 12:09:58,303 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=29
+2026-01-24 12:10:58,415 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=30
+2026-01-24 12:11:58,604 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=30
+2026-01-24 12:12:58,771 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=30
+2026-01-24 12:13:58,934 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=30
+2026-01-24 12:14:59,111 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=30
+2026-01-24 12:15:59,221 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05% | held_candles=31
+2026-01-24 12:16:59,375 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05% | held_candles=31
+2026-01-24 12:17:59,549 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05% | held_candles=31
+2026-01-24 12:18:59,712 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05% | held_candles=31
+2026-01-24 12:19:59,863 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.05% | held_candles=31
+2026-01-24 12:21:00,016 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=32
+2026-01-24 12:22:00,194 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=32
+2026-01-24 12:23:00,371 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=32
+2026-01-24 12:24:00,541 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=32
+2026-01-24 12:25:00,707 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=33
+2026-01-24 12:26:00,862 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=33
+2026-01-24 12:27:01,002 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=33
+2026-01-24 12:28:01,198 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=33
+2026-01-24 12:29:01,356 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=33
+2026-01-24 12:30:01,512 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=34
+2026-01-24 12:31:01,634 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=34
+2026-01-24 12:32:01,765 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=34
+2026-01-24 12:33:01,945 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=34
+2026-01-24 12:34:02,104 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=34
+2026-01-24 12:35:02,278 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=35
+2026-01-24 12:36:02,422 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=35
+2026-01-24 12:37:02,548 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=35
+2026-01-24 12:38:02,731 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=35
+2026-01-24 12:39:02,942 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=35
+2026-01-24 12:40:03,113 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=36
+2026-01-24 12:41:03,282 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=36
+2026-01-24 12:42:03,456 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=36
+2026-01-24 12:43:03,631 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=36
+2026-01-24 12:44:03,750 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=36
+2026-01-24 12:45:03,835 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.22% | held_candles=37
+2026-01-24 12:46:03,987 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.22% | held_candles=37
+2026-01-24 12:47:04,137 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.22% | held_candles=37
+2026-01-24 12:48:04,276 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.22% | held_candles=37
+2026-01-24 12:49:04,413 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.22% | held_candles=37
+2026-01-24 12:50:04,535 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=38
+2026-01-24 12:51:04,631 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=38
+2026-01-24 12:52:04,762 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=38
+2026-01-24 12:53:04,909 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=38
+2026-01-24 12:54:05,028 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=38
+2026-01-24 12:55:05,169 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=39
+2026-01-24 12:56:05,296 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=39
+2026-01-24 12:57:05,473 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=39
+2026-01-24 12:58:05,647 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=39
+2026-01-24 12:59:05,795 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=39
+2026-01-24 13:00:05,931 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=40
+2026-01-24 13:01:06,063 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=40
+2026-01-24 13:02:06,224 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=40
+2026-01-24 13:03:06,334 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=40
+2026-01-24 13:04:06,485 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=40
+2026-01-24 13:05:06,610 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=41
+2026-01-24 13:06:06,746 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=41
+2026-01-24 13:07:06,880 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=41
+2026-01-24 13:08:06,991 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=41
+2026-01-24 13:09:07,137 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=41
+2026-01-24 13:10:07,289 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=42
+2026-01-24 13:11:07,475 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=42
+2026-01-24 13:12:07,653 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=42
+2026-01-24 13:13:07,806 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=42
+2026-01-24 13:14:07,924 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=42
+2026-01-24 13:15:08,091 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=43
+2026-01-24 13:16:08,263 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=43
+2026-01-24 13:17:08,457 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=43
+2026-01-24 13:18:08,639 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=43
+2026-01-24 13:19:08,794 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=43
+2026-01-24 13:20:08,960 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=44
+2026-01-24 13:21:09,148 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=44
+2026-01-24 13:22:09,330 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=44
+2026-01-24 13:23:09,467 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=44
+2026-01-24 13:24:09,686 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=44
+2026-01-24 13:25:09,833 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=45
+2026-01-24 13:26:10,045 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=45
+2026-01-24 13:27:10,207 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=45
+2026-01-24 13:28:10,359 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=45
+2026-01-24 13:29:10,496 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=45
+2026-01-24 13:30:10,608 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.01% | held_candles=46
+2026-01-24 13:31:10,772 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.01% | held_candles=46
+2026-01-24 13:32:10,885 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.01% | held_candles=46
+2026-01-24 13:33:11,037 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.01% | held_candles=46
+2026-01-24 13:34:11,221 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.01% | held_candles=46
+2026-01-24 13:35:11,359 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=47
+2026-01-24 13:36:11,488 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=47
+2026-01-24 13:37:11,623 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=47
+2026-01-24 13:38:11,779 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=47
+2026-01-24 13:39:11,872 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=47
+2026-01-24 13:40:11,904 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.03% | held_candles=48
+2026-01-24 13:41:12,067 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.03% | held_candles=48
+2026-01-24 13:42:12,149 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.03% | held_candles=48
+2026-01-24 13:43:12,298 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.03% | held_candles=48
+2026-01-24 13:44:12,466 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.03% | held_candles=48
+2026-01-24 13:45:12,589 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=49
+2026-01-24 13:46:12,721 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=49
+2026-01-24 13:47:12,850 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=49
+2026-01-24 13:48:12,996 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=49
+2026-01-24 13:49:13,155 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=49
+2026-01-24 13:50:13,254 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=50
+2026-01-24 13:51:13,392 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=50
+2026-01-24 13:52:13,557 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=50
+2026-01-24 13:53:13,675 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=50
+2026-01-24 13:54:13,781 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=50
+2026-01-24 13:55:13,932 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=51
+2026-01-24 13:56:14,051 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=51
+2026-01-24 13:57:14,162 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=51
+2026-01-24 13:58:14,291 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=51
+2026-01-24 13:59:14,401 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=51
+2026-01-24 14:00:14,564 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=52
+2026-01-24 14:01:14,706 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=52
+2026-01-24 14:02:14,840 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=52
+2026-01-24 14:03:14,999 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=52
+2026-01-24 14:04:15,158 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=52
+2026-01-24 14:05:15,312 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=53
+2026-01-24 14:06:15,475 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=53
+2026-01-24 14:07:15,598 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=53
+2026-01-24 14:08:15,721 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=53
+2026-01-24 14:09:15,825 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=53
+2026-01-24 14:10:15,944 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=54
+2026-01-24 14:11:16,045 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=54
+2026-01-24 14:12:16,187 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=54
+2026-01-24 14:13:16,334 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=54
+2026-01-24 14:14:16,452 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=54
+2026-01-24 14:15:16,576 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=55
+2026-01-24 14:16:16,761 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=55
+2026-01-24 14:17:16,947 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=55
+2026-01-24 14:18:17,140 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=55
+2026-01-24 14:19:17,295 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=55
+2026-01-24 14:20:17,428 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=56
+2026-01-24 14:21:17,599 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=56
+2026-01-24 14:22:17,742 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=56
+2026-01-24 14:23:17,889 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=56
+2026-01-24 14:24:18,016 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=56
+2026-01-24 14:25:18,146 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=57
+2026-01-24 14:26:18,328 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=57
+2026-01-24 14:27:18,465 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=57
+2026-01-24 14:28:18,655 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=57
+2026-01-24 14:29:18,835 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=57
+2026-01-24 14:30:18,970 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=58
+2026-01-24 14:31:19,126 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=58
+2026-01-24 14:32:19,297 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=58
+2026-01-24 14:33:19,448 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=58
+2026-01-24 14:34:19,603 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=58
+2026-01-24 14:35:19,742 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=59
+2026-01-24 14:36:19,902 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=59
+2026-01-24 14:37:20,035 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=59
+2026-01-24 14:38:20,203 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=59
+2026-01-24 14:39:20,371 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=59
+2026-01-24 14:40:20,466 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.1% | held_candles=60
+2026-01-24 14:41:20,606 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.1% | held_candles=60
+2026-01-24 14:42:20,767 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.1% | held_candles=60
+2026-01-24 14:43:20,901 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.1% | held_candles=60
+2026-01-24 14:44:21,063 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.1% | held_candles=60
+2026-01-24 14:45:21,157 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=61
+2026-01-24 14:46:21,332 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=61
+2026-01-24 14:47:21,487 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=61
+2026-01-24 14:48:21,620 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=61
+2026-01-24 14:49:21,722 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=61
+2026-01-24 14:50:21,857 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=62
+2026-01-24 14:51:21,937 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=62
+2026-01-24 14:52:22,088 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=62
+2026-01-24 14:53:22,240 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=62
+2026-01-24 14:54:22,382 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=62
+2026-01-24 14:55:22,494 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=63
+2026-01-24 14:56:22,661 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=63
+2026-01-24 14:57:22,769 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=63
+2026-01-24 14:58:22,902 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=63
+2026-01-24 14:59:23,073 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=63
+2026-01-24 15:00:23,217 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=64
+2026-01-24 15:01:23,347 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=64
+2026-01-24 15:02:23,408 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=64
+2026-01-24 15:03:23,567 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=64
+2026-01-24 15:04:23,695 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=64
+2026-01-24 15:05:23,841 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=65
+2026-01-24 15:06:24,006 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=65
+2026-01-24 15:07:24,141 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=65
+2026-01-24 15:08:24,269 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=65
+2026-01-24 15:09:24,425 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=65
+2026-01-24 15:10:24,567 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=66
+2026-01-24 15:11:24,765 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=66
+2026-01-24 15:12:24,959 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=66
+2026-01-24 15:13:25,141 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=66
+2026-01-24 15:14:25,313 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=66
+2026-01-24 15:15:25,493 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=67
+2026-01-24 15:16:25,665 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=67
+2026-01-24 15:17:25,819 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=67
+2026-01-24 15:18:25,970 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=67
+2026-01-24 15:19:26,148 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=67
+2026-01-24 15:20:26,267 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=68
+2026-01-24 15:21:26,467 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=68
+2026-01-24 15:22:26,602 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=68
+2026-01-24 15:23:26,777 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=68
+2026-01-24 15:24:26,992 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=68
+2026-01-24 15:25:27,135 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=69
+2026-01-24 15:26:27,312 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=69
+2026-01-24 15:27:27,443 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=69
+2026-01-24 15:28:27,628 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=69
+2026-01-24 15:29:27,807 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=69
+2026-01-24 15:30:28,004 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=70
+2026-01-24 15:31:28,161 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=70
+2026-01-24 15:32:28,346 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=70
+2026-01-24 15:33:28,550 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=70
+2026-01-24 15:34:28,712 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=70
+2026-01-24 15:35:28,865 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=71
+2026-01-24 15:36:29,026 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=71
+2026-01-24 15:37:29,106 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=71
+2026-01-24 15:38:29,279 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=71
+2026-01-24 15:39:29,404 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=71
+2026-01-24 15:40:29,575 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=72
+2026-01-24 15:41:29,754 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=72
+2026-01-24 15:42:29,922 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=72
+2026-01-24 15:43:30,089 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=72
+2026-01-24 15:44:30,227 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=72
+2026-01-24 15:45:30,337 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=73
+2026-01-24 15:46:30,480 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=73
+2026-01-24 15:47:30,653 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=73
+2026-01-24 15:48:30,808 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=73
+2026-01-24 15:49:30,944 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=73
+2026-01-24 15:50:31,080 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=74
+2026-01-24 15:51:31,249 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=74
+2026-01-24 15:52:31,423 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=74
+2026-01-24 15:53:31,581 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=74
+2026-01-24 15:54:31,754 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=74
+2026-01-24 15:55:31,909 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=75
+2026-01-24 15:56:32,077 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=75
+2026-01-24 15:57:32,222 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=75
+2026-01-24 15:58:32,372 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=75
+2026-01-24 15:59:32,537 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=75
+2026-01-24 16:00:32,685 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.18% | held_candles=76
+2026-01-24 16:01:32,804 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.18% | held_candles=76
+2026-01-24 16:02:32,959 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.18% | held_candles=76
+2026-01-24 16:03:33,128 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.18% | held_candles=76
+2026-01-24 16:04:33,319 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.18% | held_candles=76
+2026-01-24 16:05:33,484 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=77
+2026-01-24 16:06:33,624 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=77
+2026-01-24 16:07:33,769 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=77
+2026-01-24 16:08:33,935 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=77
+2026-01-24 16:09:34,119 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=77
+2026-01-24 16:10:34,203 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=78
+2026-01-24 16:11:34,357 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=78
+2026-01-24 16:12:34,484 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=78
+2026-01-24 16:13:34,614 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=78
+2026-01-24 16:14:34,710 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=78
+2026-01-24 16:15:34,827 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=79
+2026-01-24 16:16:34,994 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=79
+2026-01-24 16:17:35,087 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=79
+2026-01-24 16:18:35,228 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=79
+2026-01-24 16:19:35,384 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=79
+2026-01-24 16:20:35,500 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.26% | held_candles=80
+2026-01-24 16:21:35,660 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.26% | held_candles=80
+2026-01-24 16:22:35,812 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.26% | held_candles=80
+2026-01-24 16:23:35,928 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.26% | held_candles=80
+2026-01-24 16:24:36,094 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.26% | held_candles=80
+2026-01-24 16:25:36,248 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.24% | held_candles=81
+2026-01-24 16:26:36,408 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.24% | held_candles=81
+2026-01-24 16:27:36,554 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.24% | held_candles=81
+2026-01-24 16:28:36,722 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.24% | held_candles=81
+2026-01-24 16:29:36,864 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.24% | held_candles=81
+2026-01-24 16:30:37,000 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=82
+2026-01-24 16:31:37,122 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=82
+2026-01-24 16:32:37,276 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=82
+2026-01-24 16:33:37,436 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=82
+2026-01-24 16:34:37,605 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=82
+2026-01-24 16:35:37,752 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.17% | held_candles=83
+2026-01-24 16:36:37,934 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.17% | held_candles=83
+2026-01-24 16:37:38,044 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.17% | held_candles=83
+2026-01-24 16:38:38,187 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.17% | held_candles=83
+2026-01-24 16:39:38,337 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.17% | held_candles=83
+2026-01-24 16:40:38,493 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.24% | held_candles=84
+2026-01-24 16:41:38,643 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.24% | held_candles=84
+2026-01-24 16:42:38,789 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.24% | held_candles=84
+2026-01-24 16:43:38,920 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.24% | held_candles=84
+2026-01-24 16:44:39,068 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.24% | held_candles=84
+2026-01-24 16:45:39,210 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=85
+2026-01-24 16:46:39,341 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=85
+2026-01-24 16:47:39,496 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=85
+2026-01-24 16:48:39,646 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=85
+2026-01-24 16:49:39,797 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=85
+2026-01-24 16:50:39,890 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.03% | held_candles=86
+2026-01-24 16:51:40,066 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.03% | held_candles=86
+2026-01-24 16:52:40,207 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.03% | held_candles=86
+2026-01-24 16:53:40,379 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.03% | held_candles=86
+2026-01-24 16:54:40,544 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.03% | held_candles=86
+2026-01-24 16:55:40,692 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=87
+2026-01-24 16:56:40,816 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=87
+2026-01-24 16:57:40,963 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=87
+2026-01-24 16:58:41,135 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=87
+2026-01-24 16:59:41,252 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=87
+2026-01-24 17:00:41,394 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=88
+2026-01-24 17:01:41,539 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=88
+2026-01-24 17:02:41,684 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=88
+2026-01-24 17:03:41,834 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=88
+2026-01-24 17:04:41,968 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=88
+2026-01-24 17:05:42,115 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=89
+2026-01-24 17:06:42,287 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=89
+2026-01-24 17:07:42,432 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=89
+2026-01-24 17:08:42,591 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=89
+2026-01-24 17:09:42,709 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=89
+2026-01-24 17:10:42,819 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.08% | held_candles=90
+2026-01-24 17:11:42,973 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.08% | held_candles=90
+2026-01-24 17:12:43,126 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.08% | held_candles=90
+2026-01-24 17:13:43,292 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.08% | held_candles=90
+2026-01-24 17:14:43,443 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.08% | held_candles=90
+2026-01-24 17:15:43,590 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.01% | held_candles=91
+2026-01-24 17:16:43,773 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.01% | held_candles=91
+2026-01-24 17:17:43,909 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.01% | held_candles=91
+2026-01-24 17:18:44,083 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.01% | held_candles=91
+2026-01-24 17:19:44,230 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.01% | held_candles=91
+2026-01-24 17:20:44,346 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=92
+2026-01-24 17:21:44,504 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=92
+2026-01-24 17:22:44,653 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=92
+2026-01-24 17:23:44,800 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=92
+2026-01-24 17:24:44,958 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=92
+2026-01-24 17:25:45,092 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.1% | held_candles=93
+2026-01-24 17:26:45,247 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.1% | held_candles=93
+2026-01-24 17:27:45,390 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.1% | held_candles=93
+2026-01-24 17:28:45,556 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.1% | held_candles=93
+2026-01-24 17:29:45,705 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.1% | held_candles=93
+2026-01-24 17:30:45,788 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=94
+2026-01-24 17:31:45,936 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=94
+2026-01-24 17:32:46,053 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=94
+2026-01-24 17:33:46,194 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=94
+2026-01-24 17:34:46,345 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=94
+2026-01-24 17:35:46,530 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=95
+2026-01-24 17:36:46,687 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=95
+2026-01-24 17:37:46,839 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=95
+2026-01-24 17:38:46,993 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=95
+2026-01-24 17:39:47,106 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=95
+2026-01-24 17:40:47,223 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=96
+2026-01-24 17:41:47,390 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=96
+2026-01-24 17:42:47,519 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=96
+2026-01-24 17:43:47,644 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=96
+2026-01-24 17:44:47,791 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=96
+2026-01-24 17:45:47,938 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=97
+2026-01-24 17:46:48,108 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=97
+2026-01-24 17:47:48,259 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=97
+2026-01-24 17:48:48,433 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=97
+2026-01-24 17:49:48,568 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=97
+2026-01-24 17:50:48,701 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=98
+2026-01-24 17:51:48,863 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=98
+2026-01-24 17:52:49,004 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=98
+2026-01-24 17:53:49,154 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=98
+2026-01-24 17:54:49,294 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=98
+2026-01-24 17:55:49,433 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=99
+2026-01-24 17:56:49,592 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=99
+2026-01-24 17:57:49,727 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=99
+2026-01-24 17:58:49,881 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=99
+2026-01-24 17:59:50,056 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=99
+2026-01-24 18:00:50,190 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=100
+2026-01-24 18:01:50,348 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=100
+2026-01-24 18:02:50,476 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=100
+2026-01-24 18:03:50,604 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=100
+2026-01-24 18:04:50,703 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=100
+2026-01-24 18:05:50,768 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=101
+2026-01-24 18:06:50,941 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=101
+2026-01-24 18:07:51,064 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=101
+2026-01-24 18:08:51,198 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=101
+2026-01-24 18:09:51,332 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=101
+2026-01-24 18:10:51,504 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=102
+2026-01-24 18:11:51,672 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=102
+2026-01-24 18:12:51,844 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=102
+2026-01-24 18:13:51,996 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=102
+2026-01-24 18:14:52,139 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=102
+2026-01-24 18:15:52,296 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=103
+2026-01-24 18:16:52,449 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=103
+2026-01-24 18:17:52,593 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=103
+2026-01-24 18:18:52,734 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=103
+2026-01-24 18:19:52,882 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=103
+2026-01-24 18:20:53,034 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=104
+2026-01-24 18:21:53,220 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=104
+2026-01-24 18:22:53,352 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=104
+2026-01-24 18:23:53,502 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=104
+2026-01-24 18:24:53,629 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=104
+2026-01-24 18:25:53,732 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=105
+2026-01-24 18:26:53,904 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=105
+2026-01-24 18:27:54,079 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=105
+2026-01-24 18:28:54,241 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=105
+2026-01-24 18:29:54,408 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=105
+2026-01-24 18:30:54,550 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=106
+2026-01-24 18:31:54,684 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=106
+2026-01-24 18:32:54,854 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=106
+2026-01-24 18:33:55,036 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=106
+2026-01-24 18:34:55,203 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=106
+2026-01-24 18:35:55,371 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.22% | held_candles=107
+2026-01-24 18:36:55,553 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.22% | held_candles=107
+2026-01-24 18:37:55,717 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.22% | held_candles=107
+2026-01-24 18:38:55,873 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.22% | held_candles=107
+2026-01-24 18:39:56,020 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.22% | held_candles=107
+2026-01-24 18:40:56,154 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=108
+2026-01-24 18:41:56,332 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=108
+2026-01-24 18:42:56,495 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=108
+2026-01-24 18:43:56,643 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=108
+2026-01-24 18:44:56,806 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=108
+2026-01-24 18:45:56,975 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=109
+2026-01-24 18:46:57,119 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=109
+2026-01-24 18:47:57,271 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=109
+2026-01-24 18:48:57,395 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=109
+2026-01-24 18:49:57,569 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=109
+2026-01-24 18:50:57,725 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=110
+2026-01-24 18:51:57,886 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=110
+2026-01-24 18:52:58,061 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=110
+2026-01-24 18:53:58,243 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=110
+2026-01-24 18:54:58,406 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=110
+2026-01-24 18:55:58,573 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=111
+2026-01-24 18:56:58,739 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=111
+2026-01-24 18:57:58,922 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=111
+2026-01-24 18:58:59,068 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=111
+2026-01-24 18:59:59,198 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=111
+2026-01-24 19:00:59,360 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=112
+2026-01-24 19:01:59,536 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=112
+2026-01-24 19:02:59,637 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=112
+2026-01-24 19:03:59,812 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=112
+2026-01-24 19:04:59,983 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=112
+2026-01-24 19:06:00,171 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=113
+2026-01-24 19:07:00,318 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=113
+2026-01-24 19:08:00,496 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=113
+2026-01-24 19:09:00,642 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=113
+2026-01-24 19:10:00,812 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.23% | held_candles=114
+2026-01-24 19:11:00,909 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.23% | held_candles=114
+2026-01-24 19:12:01,058 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.23% | held_candles=114
+2026-01-24 19:13:01,234 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.23% | held_candles=114
+2026-01-24 19:14:01,419 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.23% | held_candles=114
+2026-01-24 19:15:01,607 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=115
+2026-01-24 19:16:01,761 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=115
+2026-01-24 19:17:01,910 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=115
+2026-01-24 19:18:02,064 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=115
+2026-01-24 19:19:02,190 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=115
+2026-01-24 19:20:02,349 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=116
+2026-01-24 19:21:02,463 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=116
+2026-01-24 19:22:02,611 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=116
+2026-01-24 19:23:02,762 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=116
+2026-01-24 19:24:02,945 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=116
+2026-01-24 19:25:03,122 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=117
+2026-01-24 19:26:03,309 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=117
+2026-01-24 19:27:03,431 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=117
+2026-01-24 19:28:03,587 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=117
+2026-01-24 19:29:03,690 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.15% | held_candles=117
+2026-01-24 19:30:03,829 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=118
+2026-01-24 19:31:04,008 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=118
+2026-01-24 19:32:04,172 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=118
+2026-01-24 19:33:04,330 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=118
+2026-01-24 19:34:04,466 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=118
+2026-01-24 19:35:04,586 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.18% | held_candles=119
+2026-01-24 19:36:04,736 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.18% | held_candles=119
+2026-01-24 19:37:04,871 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.18% | held_candles=119
+2026-01-24 19:38:05,010 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.18% | held_candles=119
+2026-01-24 19:39:05,181 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.18% | held_candles=119
+2026-01-24 19:40:05,337 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=120
+2026-01-24 19:41:05,516 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=120
+2026-01-24 19:42:05,652 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=120
+2026-01-24 19:43:05,799 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=120
+2026-01-24 19:44:05,935 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=120
+2026-01-24 19:45:06,047 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=121
+2026-01-24 19:46:06,204 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=121
+2026-01-24 19:47:06,380 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=121
+2026-01-24 19:48:06,539 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=121
+2026-01-24 19:49:06,680 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=121
+2026-01-24 19:50:06,802 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=122
+2026-01-24 19:51:06,951 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=122
+2026-01-24 19:52:07,096 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=122
+2026-01-24 19:53:07,213 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=122
+2026-01-24 19:54:07,380 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=122
+2026-01-24 19:55:07,547 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=123
+2026-01-24 19:56:07,713 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=123
+2026-01-24 19:57:07,873 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=123
+2026-01-24 19:58:08,005 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=123
+2026-01-24 19:59:08,135 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=123
+2026-01-24 20:00:08,294 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=124
+2026-01-24 20:01:08,423 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=124
+2026-01-24 20:02:08,578 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=124
+2026-01-24 20:03:08,735 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=124
+2026-01-24 20:04:08,890 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=124
+2026-01-24 20:05:09,037 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=125
+2026-01-24 20:06:09,169 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=125
+2026-01-24 20:07:09,319 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=125
+2026-01-24 20:08:09,475 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=125
+2026-01-24 20:09:09,629 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=125
+2026-01-24 20:10:09,727 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.23% | held_candles=126
+2026-01-24 20:11:09,862 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.23% | held_candles=126
+2026-01-24 20:12:09,990 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.23% | held_candles=126
+2026-01-24 20:13:10,155 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.23% | held_candles=126
+2026-01-24 20:14:10,314 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.23% | held_candles=126
+2026-01-24 20:15:10,430 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.26% | held_candles=127
+2026-01-24 20:16:10,568 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.26% | held_candles=127
+2026-01-24 20:17:10,744 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.26% | held_candles=127
+2026-01-24 20:18:10,874 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.26% | held_candles=127
+2026-01-24 20:19:11,001 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.26% | held_candles=127
+2026-01-24 20:20:11,150 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.29% | held_candles=128
+2026-01-24 20:21:11,329 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.29% | held_candles=128
+2026-01-24 20:22:11,499 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.29% | held_candles=128
+2026-01-24 20:23:11,658 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.29% | held_candles=128
+2026-01-24 20:24:11,810 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.29% | held_candles=128
+2026-01-24 20:25:11,897 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.31% | held_candles=129
+2026-01-24 20:26:12,060 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.31% | held_candles=129
+2026-01-24 20:27:12,212 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.31% | held_candles=129
+2026-01-24 20:28:12,354 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.31% | held_candles=129
+2026-01-24 20:29:12,494 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.31% | held_candles=129
+2026-01-24 20:30:12,628 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=130
+2026-01-24 20:31:12,787 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=130
+2026-01-24 20:32:12,898 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=130
+2026-01-24 20:33:13,059 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=130
+2026-01-24 20:34:13,239 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=130
+2026-01-24 20:35:13,402 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.26% | held_candles=131
+2026-01-24 20:36:13,553 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.26% | held_candles=131
+2026-01-24 20:37:13,694 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.26% | held_candles=131
+2026-01-24 20:38:13,839 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.26% | held_candles=131
+2026-01-24 20:39:13,997 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.26% | held_candles=131
+2026-01-24 20:40:14,072 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=132
+2026-01-24 20:41:14,246 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=132
+2026-01-24 20:42:14,375 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=132
+2026-01-24 20:43:14,552 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=132
+2026-01-24 20:44:14,704 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=132
+2026-01-24 20:45:14,811 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=133
+2026-01-24 20:46:14,936 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=133
+2026-01-24 20:47:15,093 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=133
+2026-01-24 20:48:15,253 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=133
+2026-01-24 20:49:15,424 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=133
+2026-01-24 20:50:15,567 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=134
+2026-01-24 20:51:15,742 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=134
+2026-01-24 20:52:15,877 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=134
+2026-01-24 20:53:16,057 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=134
+2026-01-24 20:54:16,226 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.19% | held_candles=134
+2026-01-24 20:55:16,376 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=135
+2026-01-24 20:56:16,529 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=135
+2026-01-24 20:57:16,692 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=135
+2026-01-24 20:58:16,853 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=135
+2026-01-24 20:59:16,981 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=135
+2026-01-24 21:00:17,095 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=136
+2026-01-24 21:01:17,247 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=136
+2026-01-24 21:02:17,414 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=136
+2026-01-24 21:03:17,610 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=136
+2026-01-24 21:04:17,759 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=136
+2026-01-24 21:05:17,890 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=137
+2026-01-24 21:06:18,054 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=137
+2026-01-24 21:07:18,178 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=137
+2026-01-24 21:08:18,340 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=137
+2026-01-24 21:09:18,493 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=137
+2026-01-24 21:10:18,595 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=138
+2026-01-24 21:11:18,729 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=138
+2026-01-24 21:12:18,874 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=138
+2026-01-24 21:13:19,031 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=138
+2026-01-24 21:14:19,163 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=138
+2026-01-24 21:15:19,238 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=139
+2026-01-24 21:16:19,394 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=139
+2026-01-24 21:17:19,552 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=139
+2026-01-24 21:18:19,711 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=139
+2026-01-24 21:19:19,837 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=139
+2026-01-24 21:20:19,985 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=140
+2026-01-24 21:21:20,179 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=140
+2026-01-24 21:22:20,338 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=140
+2026-01-24 21:23:20,514 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=140
+2026-01-24 21:24:20,641 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=140
+2026-01-24 21:25:20,820 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=141
+2026-01-24 21:26:20,961 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=141
+2026-01-24 21:27:21,128 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=141
+2026-01-24 21:28:21,346 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=141
+2026-01-24 21:29:21,516 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=141
+2026-01-24 21:30:21,611 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=142
+2026-01-24 21:31:21,788 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=142
+2026-01-24 21:32:21,956 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=142
+2026-01-24 21:33:22,130 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=142
+2026-01-24 21:34:22,297 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=142
+2026-01-24 21:35:22,467 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=143
+2026-01-24 21:36:22,636 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=143
+2026-01-24 21:37:22,814 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=143
+2026-01-24 21:38:22,963 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=143
+2026-01-24 21:39:23,130 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=143
+2026-01-24 21:40:23,262 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=144
+2026-01-24 21:41:23,399 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=144
+2026-01-24 21:42:23,555 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=144
+2026-01-24 21:43:23,718 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=144
+2026-01-24 21:44:23,884 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=144
+2026-01-24 21:45:23,990 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=145
+2026-01-24 21:46:24,182 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=145
+2026-01-24 21:47:24,340 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=145
+2026-01-24 21:48:24,466 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=145
+2026-01-24 21:49:24,622 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=145
+2026-01-24 21:50:24,745 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=146
+2026-01-24 21:51:24,921 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=146
+2026-01-24 21:52:25,092 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=146
+2026-01-24 21:53:25,280 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=146
+2026-01-24 21:54:25,418 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=146
+2026-01-24 21:55:25,567 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=147
+2026-01-24 21:56:25,716 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=147
+2026-01-24 21:57:25,877 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=147
+2026-01-24 21:58:26,011 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=147
+2026-01-24 21:59:26,146 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=147
+2026-01-24 22:00:26,306 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=148
+2026-01-24 22:01:26,462 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=148
+2026-01-24 22:02:26,657 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=148
+2026-01-24 22:03:26,830 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=148
+2026-01-24 22:04:27,001 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=148
+2026-01-24 22:05:27,180 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=149
+2026-01-24 22:06:27,343 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=149
+2026-01-24 22:07:27,487 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=149
+2026-01-24 22:08:27,663 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=149
+2026-01-24 22:09:27,838 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=149
+2026-01-24 22:10:27,949 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=150
+2026-01-24 22:11:28,103 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=150
+2026-01-24 22:12:28,264 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=150
+2026-01-24 22:13:28,433 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=150
+2026-01-24 22:14:28,591 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=150
+2026-01-24 22:15:02,292 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769292901921', 'order_id': '710065897066201628'}
+2026-01-24 22:15:02,292 | INFO | [CLOSE-5m] cmt_solusdt reason=SCORE
+2026-01-24 22:20:00,368 | INFO | [STRAT-5m] SOL | id=0 | score=-0.2817 | entry=0.75 | SIGNAL=NO
+2026-01-24 22:20:00,368 | INFO | REENTRY BLOCKED [cmt_solusdt] | no-trade candle (0/4 after close)
+2026-01-24 22:20:00,532 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0007 | entry=0.85 | SIGNAL=NO
+2026-01-24 22:20:00,545 | INFO | [STRAT-5m] DOGE | id=1 | score=1.0665 | entry=0.74 | SIGNAL=OPEN
+2026-01-24 22:20:06,803 | ERROR | PLACE LONG FAILED -> no response
+2026-01-24 22:20:06,805 | ERROR | OPEN FAILED -> cmt_dogeusdt
+2026-01-24 22:25:00,630 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0008 | entry=0.85 | SIGNAL=NO
+2026-01-24 22:25:00,643 | INFO | [STRAT-5m] DOGE | id=1 | score=1.3878 | entry=0.74 | SIGNAL=OPEN
+2026-01-24 22:25:12,472 | ERROR | PLACE LONG FAILED -> no response
+2026-01-24 22:25:12,473 | ERROR | OPEN FAILED -> cmt_dogeusdt
+2026-01-24 22:25:12,494 | INFO | [STRAT-5m] SOL | id=0 | score=0.8276 | entry=0.75 | SIGNAL=OPEN
+2026-01-24 22:25:12,494 | INFO | REENTRY BLOCKED [cmt_solusdt] | no-trade candle (2/4 after close)
+2026-01-24 22:30:00,575 | INFO | [STRAT-5m] SOL | id=0 | score=0.3575 | entry=0.75 | SIGNAL=NO
+2026-01-24 22:30:00,575 | INFO | REENTRY BLOCKED [cmt_solusdt] | no-trade candle (2/4 after close)
+2026-01-24 22:30:00,695 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0008 | entry=0.85 | SIGNAL=NO
+2026-01-24 22:30:00,709 | INFO | [STRAT-5m] DOGE | id=1 | score=0.7794 | entry=0.74 | SIGNAL=OPEN
+2026-01-24 22:30:33,168 | ERROR | PLACE LONG FAILED -> no response
+2026-01-24 22:30:33,169 | ERROR | OPEN FAILED -> cmt_dogeusdt
+2026-01-24 22:30:33,170 | ERROR | WS ERROR -> ping/pong timed out
+2026-01-24 22:30:33,170 | ERROR | ping/pong timed out - goodbye
+2026-01-24 22:30:33,245 | WARNING | WS CLOSED -> reconnecting...
+2026-01-24 22:30:36,803 | INFO | Websocket connected
+2026-01-24 22:30:36,804 | INFO | WS CONNECTED
+2026-01-24 22:35:00,610 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0042 | entry=0.85 | SIGNAL=NO
+2026-01-24 22:35:00,625 | INFO | [STRAT-5m] DOGE | id=1 | score=0.8726 | entry=0.74 | SIGNAL=OPEN
+2026-01-24 22:35:12,028 | ERROR | PLACE LONG FAILED -> no response
+2026-01-24 22:35:12,029 | ERROR | OPEN FAILED -> cmt_dogeusdt
+2026-01-24 22:35:12,050 | INFO | [STRAT-5m] SOL | id=0 | score=0.5277 | entry=0.75 | SIGNAL=NO
+2026-01-24 22:35:12,063 | INFO | [STRAT-5m] SOL | id=1 | score=-1.1836 | entry=0.9 | SIGNAL=NO
+2026-01-24 22:40:00,494 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0015 | entry=0.85 | SIGNAL=NO
+2026-01-24 22:40:00,509 | INFO | [STRAT-5m] DOGE | id=1 | score=0.2824 | entry=0.74 | SIGNAL=NO
+2026-01-24 22:40:00,561 | INFO | [STRAT-5m] SOL | id=0 | score=0.6143 | entry=0.75 | SIGNAL=NO
+2026-01-24 22:40:00,561 | INFO | REENTRY BLOCKED [cmt_solusdt] | price=127.4 >= last_close=127.4 (candle 4/4)
+2026-01-24 22:45:00,440 | INFO | [STRAT-5m] SOL | id=0 | score=0.4693 | entry=0.75 | SIGNAL=NO
+2026-01-24 22:45:00,453 | INFO | [STRAT-5m] SOL | id=1 | score=9.0925 | entry=0.9 | SIGNAL=OPEN
+2026-01-24 22:45:03,658 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769294703127', 'order_id': '710073452362465820'}
+2026-01-24 22:45:04,227 | INFO | OPEN cmt_solusdt TF=5m size=7.5 order_id=710073452362465820 candle_idx=184
+2026-01-24 22:45:30,078 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=1
+2026-01-24 22:46:30,237 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=1
+2026-01-24 22:47:30,377 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=1
+2026-01-24 22:48:30,554 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=1
+2026-01-24 22:49:30,709 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=1
+2026-01-24 22:50:30,821 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.22% | held_candles=2
+2026-01-24 22:51:30,980 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.22% | held_candles=2
+2026-01-24 22:52:31,145 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.22% | held_candles=2
+2026-01-24 22:53:31,287 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.22% | held_candles=2
+2026-01-24 22:54:31,472 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.22% | held_candles=2
+2026-01-24 22:55:31,627 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=3
+2026-01-24 22:56:31,822 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=3
+2026-01-24 22:57:32,000 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=3
+2026-01-24 22:58:32,171 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=3
+2026-01-24 22:59:32,345 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=3
+2026-01-24 23:00:32,511 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.23% | held_candles=4
+2026-01-24 23:01:32,692 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.23% | held_candles=4
+2026-01-24 23:02:32,841 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.23% | held_candles=4
+2026-01-24 23:03:33,008 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.23% | held_candles=4
+2026-01-24 23:04:33,188 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.23% | held_candles=4
+2026-01-24 23:05:33,357 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=5
+2026-01-24 23:06:33,547 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=5
+2026-01-24 23:07:33,699 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=5
+2026-01-24 23:08:33,869 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=5
+2026-01-24 23:09:34,057 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.16% | held_candles=5
+2026-01-24 23:10:34,174 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=6
+2026-01-24 23:11:34,351 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=6
+2026-01-24 23:12:34,533 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=6
+2026-01-24 23:13:34,723 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=6
+2026-01-24 23:14:34,924 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=6
+2026-01-24 23:15:35,075 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=7
+2026-01-24 23:16:35,229 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=7
+2026-01-24 23:17:35,395 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=7
+2026-01-24 23:18:35,535 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=7
+2026-01-24 23:19:35,695 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=7
+2026-01-24 23:20:35,832 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=8
+2026-01-24 23:21:36,008 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=8
+2026-01-24 23:22:36,154 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=8
+2026-01-24 23:23:36,304 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=8
+2026-01-24 23:24:36,476 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.14% | held_candles=8
+2026-01-24 23:25:36,647 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=9
+2026-01-24 23:26:36,743 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=9
+2026-01-24 23:27:36,929 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=9
+2026-01-24 23:28:37,102 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=9
+2026-01-24 23:29:37,212 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=9
+2026-01-24 23:30:37,295 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=10
+2026-01-24 23:31:37,467 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=10
+2026-01-24 23:32:37,621 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=10
+2026-01-24 23:33:37,745 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=10
+2026-01-24 23:34:37,918 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=10
+2026-01-24 23:35:38,071 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=11
+2026-01-24 23:36:38,252 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=11
+2026-01-24 23:37:38,417 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=11
+2026-01-24 23:38:38,593 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=11
+2026-01-24 23:39:38,750 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=11
+2026-01-24 23:40:38,918 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=12
+2026-01-24 23:41:39,085 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=12
+2026-01-24 23:42:39,254 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=12
+2026-01-24 23:43:39,421 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=12
+2026-01-24 23:44:39,580 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=12
+2026-01-24 23:45:39,734 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.12% | held_candles=13
+2026-01-24 23:46:39,886 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.12% | held_candles=13
+2026-01-24 23:47:40,037 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.12% | held_candles=13
+2026-01-24 23:48:40,168 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.12% | held_candles=13
+2026-01-24 23:49:40,253 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.12% | held_candles=13
+2026-01-24 23:50:40,338 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=14
+2026-01-24 23:51:40,492 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=14
+2026-01-24 23:52:40,679 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=14
+2026-01-24 23:53:40,815 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=14
+2026-01-24 23:54:40,950 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=14
+2026-01-24 23:55:41,106 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.07% | held_candles=15
+2026-01-24 23:56:41,275 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.07% | held_candles=15
+2026-01-24 23:57:41,444 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.07% | held_candles=15
+2026-01-24 23:58:41,631 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.07% | held_candles=15
+2026-01-24 23:59:41,837 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.07% | held_candles=15
+2026-01-25 00:00:42,028 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=16
+2026-01-25 00:01:42,181 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=16
+2026-01-25 00:02:42,351 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=16
+2026-01-25 00:03:42,522 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=16
+2026-01-25 00:04:42,651 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=16
+2026-01-25 00:05:42,845 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=17
+2026-01-25 00:06:42,996 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=17
+2026-01-25 00:07:43,185 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=17
+2026-01-25 00:08:43,346 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=17
+2026-01-25 00:09:43,504 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=17
+2026-01-25 00:10:43,667 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=18
+2026-01-25 00:11:43,874 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=18
+2026-01-25 00:12:44,041 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=18
+2026-01-25 00:13:44,238 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=18
+2026-01-25 00:14:44,398 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=18
+2026-01-25 00:15:44,531 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=19
+2026-01-25 00:16:44,672 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=19
+2026-01-25 00:17:44,777 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=19
+2026-01-25 00:18:44,925 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=19
+2026-01-25 00:19:45,033 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=19
+2026-01-25 00:20:45,172 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=20
+2026-01-25 00:21:45,321 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=20
+2026-01-25 00:22:45,475 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=20
+2026-01-25 00:23:45,633 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=20
+2026-01-25 00:24:45,808 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=20
+2026-01-25 00:25:45,957 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.13% | held_candles=23
+2026-01-25 00:26:46,116 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.13% | held_candles=23
+2026-01-25 00:27:46,210 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.13% | held_candles=23
+2026-01-25 00:28:46,367 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.13% | held_candles=23
+2026-01-25 00:29:46,525 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.13% | held_candles=23
+2026-01-25 00:30:46,640 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=24
+2026-01-25 00:31:46,783 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=24
+2026-01-25 00:32:46,949 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=24
+2026-01-25 00:33:47,042 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=24
+2026-01-25 00:34:47,188 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=24
+2026-01-25 00:35:47,313 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.27% | held_candles=25
+2026-01-25 00:36:47,430 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.27% | held_candles=25
+2026-01-25 00:37:47,598 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.27% | held_candles=25
+2026-01-25 00:38:47,756 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.27% | held_candles=25
+2026-01-25 00:39:47,917 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.27% | held_candles=25
+2026-01-25 00:40:48,043 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.22% | held_candles=26
+2026-01-25 00:41:48,147 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.22% | held_candles=26
+2026-01-25 00:42:48,303 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.22% | held_candles=26
+2026-01-25 00:43:48,464 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.22% | held_candles=26
+2026-01-25 00:44:48,613 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.22% | held_candles=26
+2026-01-25 00:45:48,720 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.17% | held_candles=27
+2026-01-25 00:46:48,912 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.17% | held_candles=27
+2026-01-25 00:47:49,070 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.17% | held_candles=27
+2026-01-25 00:48:49,243 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.17% | held_candles=27
+2026-01-25 00:49:49,356 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.17% | held_candles=27
+2026-01-25 00:50:49,486 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.16% | held_candles=28
+2026-01-25 00:51:49,634 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.16% | held_candles=28
+2026-01-25 00:52:49,796 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.16% | held_candles=28
+2026-01-25 00:53:49,943 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.16% | held_candles=28
+2026-01-25 00:54:50,069 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.16% | held_candles=28
+2026-01-25 00:55:50,188 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=29
+2026-01-25 00:56:50,338 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=29
+2026-01-25 00:57:50,496 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=29
+2026-01-25 00:58:50,649 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=29
+2026-01-25 00:59:50,830 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=29
+2026-01-25 01:00:50,983 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=30
+2026-01-25 01:01:51,141 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=30
+2026-01-25 01:02:51,301 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=30
+2026-01-25 01:03:51,465 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=30
+2026-01-25 01:04:51,619 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=30
+2026-01-25 01:05:51,754 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.03% | held_candles=31
+2026-01-25 01:06:51,896 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.03% | held_candles=31
+2026-01-25 01:07:52,050 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.03% | held_candles=31
+2026-01-25 01:08:52,226 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.03% | held_candles=31
+2026-01-25 01:09:52,377 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.03% | held_candles=31
+2026-01-25 01:10:52,502 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=32
+2026-01-25 01:11:52,625 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=32
+2026-01-25 01:12:52,765 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=32
+2026-01-25 01:13:52,905 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=32
+2026-01-25 01:14:53,062 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=32
+2026-01-25 01:15:53,178 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=33
+2026-01-25 01:16:53,343 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=33
+2026-01-25 01:17:53,517 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=33
+2026-01-25 01:18:53,641 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=33
+2026-01-25 01:19:53,800 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.06% | held_candles=33
+2026-01-25 01:20:53,972 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=34
+2026-01-25 01:21:54,157 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=34
+2026-01-25 01:22:54,338 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=34
+2026-01-25 01:23:54,538 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=34
+2026-01-25 01:24:54,678 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=34
+2026-01-25 01:25:54,885 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.07% | held_candles=35
+2026-01-25 01:26:55,041 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.07% | held_candles=35
+2026-01-25 01:27:55,193 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.07% | held_candles=35
+2026-01-25 01:28:55,372 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.07% | held_candles=35
+2026-01-25 01:29:55,524 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.07% | held_candles=35
+2026-01-25 01:30:55,655 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.17% | held_candles=36
+2026-01-25 01:31:55,829 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.17% | held_candles=36
+2026-01-25 01:32:56,012 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.17% | held_candles=36
+2026-01-25 01:33:56,201 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.17% | held_candles=36
+2026-01-25 01:34:56,354 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.17% | held_candles=36
+2026-01-25 01:35:56,558 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=37
+2026-01-25 01:36:56,725 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=37
+2026-01-25 01:37:56,919 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=37
+2026-01-25 01:38:57,067 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=37
+2026-01-25 01:39:57,214 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=37
+2026-01-25 01:40:57,330 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.28% | held_candles=38
+2026-01-25 01:41:57,450 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.28% | held_candles=38
+2026-01-25 01:42:57,593 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.28% | held_candles=38
+2026-01-25 01:43:57,752 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.28% | held_candles=38
+2026-01-25 01:44:57,905 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.28% | held_candles=38
+2026-01-25 01:45:58,083 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.29% | held_candles=39
+2026-01-25 01:46:58,223 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.29% | held_candles=39
+2026-01-25 01:47:58,372 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.29% | held_candles=39
+2026-01-25 01:48:58,553 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.29% | held_candles=39
+2026-01-25 01:49:58,697 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.29% | held_candles=39
+2026-01-25 01:50:58,827 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=40
+2026-01-25 01:51:58,973 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=40
+2026-01-25 01:52:59,143 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=40
+2026-01-25 01:53:59,300 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=40
+2026-01-25 01:54:59,486 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=40
+2026-01-25 01:55:59,643 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.24% | held_candles=41
+2026-01-25 01:56:59,821 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.24% | held_candles=41
+2026-01-25 01:57:59,977 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.24% | held_candles=41
+2026-01-25 01:59:00,170 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.24% | held_candles=41
+2026-01-25 02:00:00,313 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.15% | held_candles=41
+2026-01-25 02:01:00,477 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.15% | held_candles=42
+2026-01-25 02:02:00,644 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.15% | held_candles=42
+2026-01-25 02:03:00,798 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.15% | held_candles=42
+2026-01-25 02:04:00,963 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.15% | held_candles=42
+2026-01-25 02:05:01,150 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=43
+2026-01-25 02:06:01,290 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=43
+2026-01-25 02:07:01,481 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=43
+2026-01-25 02:08:01,648 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=43
+2026-01-25 02:09:01,802 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=43
+2026-01-25 02:10:01,916 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=44
+2026-01-25 02:11:02,070 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=44
+2026-01-25 02:12:02,225 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=44
+2026-01-25 02:13:02,392 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=44
+2026-01-25 02:14:02,566 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=44
+2026-01-25 02:15:02,722 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=45
+2026-01-25 02:16:02,829 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=45
+2026-01-25 02:17:02,936 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=45
+2026-01-25 02:18:03,112 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=45
+2026-01-25 02:19:03,248 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=45
+2026-01-25 02:20:03,384 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=46
+2026-01-25 02:21:03,549 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=46
+2026-01-25 02:22:03,709 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=46
+2026-01-25 02:23:03,841 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=46
+2026-01-25 02:24:04,001 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=46
+2026-01-25 02:25:04,173 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=47
+2026-01-25 02:26:04,345 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=47
+2026-01-25 02:27:04,487 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=47
+2026-01-25 02:28:04,639 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=47
+2026-01-25 02:29:04,828 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.09% | held_candles=47
+2026-01-25 02:30:04,947 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.14% | held_candles=48
+2026-01-25 02:31:05,095 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.14% | held_candles=48
+2026-01-25 02:32:05,240 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.14% | held_candles=48
+2026-01-25 02:33:05,378 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.14% | held_candles=48
+2026-01-25 02:34:05,506 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.14% | held_candles=48
+2026-01-25 02:35:05,649 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.04% | held_candles=49
+2026-01-25 02:36:05,789 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.04% | held_candles=49
+2026-01-25 02:37:05,952 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.04% | held_candles=49
+2026-01-25 02:38:06,107 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.04% | held_candles=49
+2026-01-25 02:39:06,265 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.04% | held_candles=49
+2026-01-25 02:40:06,365 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=50
+2026-01-25 02:41:06,506 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=50
+2026-01-25 02:42:06,641 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=50
+2026-01-25 02:43:06,810 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=50
+2026-01-25 02:44:06,931 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.1% | held_candles=50
+2026-01-25 02:45:07,059 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.25% | held_candles=51
+2026-01-25 02:46:07,217 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.25% | held_candles=51
+2026-01-25 02:47:07,389 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.25% | held_candles=51
+2026-01-25 02:48:07,559 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.25% | held_candles=51
+2026-01-25 02:49:07,755 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.25% | held_candles=51
+2026-01-25 02:50:07,884 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.21% | held_candles=52
+2026-01-25 02:51:08,079 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.21% | held_candles=52
+2026-01-25 02:52:08,251 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.21% | held_candles=52
+2026-01-25 02:53:08,468 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.21% | held_candles=52
+2026-01-25 02:54:08,648 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.21% | held_candles=52
+2026-01-25 02:55:08,780 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.21% | held_candles=53
+2026-01-25 02:56:08,961 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.21% | held_candles=53
+2026-01-25 02:57:09,152 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.21% | held_candles=53
+2026-01-25 02:58:09,297 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.21% | held_candles=53
+2026-01-25 02:59:09,471 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.21% | held_candles=53
+2026-01-25 03:00:09,587 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.23% | held_candles=54
+2026-01-25 03:01:09,714 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.23% | held_candles=54
+2026-01-25 03:02:09,925 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.23% | held_candles=54
+2026-01-25 03:03:10,135 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.23% | held_candles=54
+2026-01-25 03:04:10,342 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.23% | held_candles=54
+2026-01-25 03:05:10,546 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=55
+2026-01-25 03:06:10,734 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=55
+2026-01-25 03:07:10,906 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=55
+2026-01-25 03:08:11,100 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=55
+2026-01-25 03:09:11,288 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.19% | held_candles=55
+2026-01-25 03:10:11,437 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.27% | held_candles=56
+2026-01-25 03:11:11,571 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.27% | held_candles=56
+2026-01-25 03:12:11,742 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.27% | held_candles=56
+2026-01-25 03:13:11,868 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.27% | held_candles=56
+2026-01-25 03:14:12,031 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.27% | held_candles=56
+2026-01-25 03:15:12,153 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.28% | held_candles=57
+2026-01-25 03:16:12,328 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.28% | held_candles=57
+2026-01-25 03:17:12,520 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.28% | held_candles=57
+2026-01-25 03:18:12,692 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.28% | held_candles=57
+2026-01-25 03:19:12,872 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.28% | held_candles=57
+2026-01-25 03:20:02,356 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769311201789', 'order_id': '710142652883927580'}
+2026-01-25 03:20:02,357 | INFO | [CLOSE-5m] cmt_solusdt reason=HARD_STOP

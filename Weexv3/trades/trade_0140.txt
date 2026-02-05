@@ -1,0 +1,3 @@
+2026-02-01 15:18:01,351 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769959080832', 'order_id': '712860054520332828'}
+2026-02-01 15:18:38,955 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=0
+2026-02-01 15:19:01,989 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769959141382', 'order_id': '712860308795818524'}

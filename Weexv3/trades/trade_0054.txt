@@ -1,0 +1,35 @@
+2026-01-26 10:05:03,532 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769421902949', 'order_id': '710606967361503772'}
+2026-01-26 10:05:04,082 | INFO | OPEN cmt_solusdt TF=5m size=7.8 order_id=710606967361503772 candle_idx=15
+2026-01-26 10:05:44,671 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=0
+2026-01-26 10:06:45,676 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=0
+2026-01-26 10:07:45,719 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=0
+2026-01-26 10:08:45,824 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=0
+2026-01-26 10:09:45,859 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=0
+2026-01-26 10:10:45,896 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=1
+2026-01-26 10:11:45,923 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=1
+2026-01-26 10:12:46,030 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=1
+2026-01-26 10:13:46,096 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=1
+2026-01-26 10:14:46,147 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=1
+2026-01-26 10:15:46,220 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=2
+2026-01-26 10:16:46,280 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=2
+2026-01-26 10:17:46,295 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=2
+2026-01-26 10:18:46,330 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=2
+2026-01-26 10:19:46,400 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.06% | held_candles=2
+2026-01-26 10:20:47,410 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=3
+2026-01-26 10:21:47,502 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=3
+2026-01-26 10:22:47,551 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=3
+2026-01-26 10:23:47,645 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=3
+2026-01-26 10:24:47,727 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=3
+2026-01-26 10:25:47,768 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=4
+2026-01-26 10:26:48,769 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=4
+2026-01-26 10:27:48,833 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=4
+2026-01-26 10:28:48,864 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=4
+2026-01-26 10:29:48,913 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.01% | held_candles=4
+2026-01-26 10:30:49,016 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.25% | held_candles=5
+2026-01-26 10:31:49,073 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.25% | held_candles=5
+2026-01-26 10:32:50,080 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.25% | held_candles=5
+2026-01-26 10:33:50,099 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.25% | held_candles=5
+2026-01-26 10:34:50,167 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.25% | held_candles=5
+2026-01-26 10:35:50,226 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.31% | held_candles=6
+2026-01-26 10:36:50,272 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.31% | held_candles=6
+2026-01-26 10:37:01,035 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769423820452', 'order_id': '710615010006532636'}

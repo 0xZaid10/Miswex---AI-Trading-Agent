@@ -1,0 +1,10 @@
+2026-02-01 10:49:06,724 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769942946149', 'order_id': '712792380662612508'}
+2026-02-01 10:49:26,370 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=0
+2026-02-01 10:50:00,494 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-02-01 10:50:26,499 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.06% | held_candles=1
+2026-02-01 10:51:26,657 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.05% | held_candles=1
+2026-02-01 10:52:26,773 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.04% | held_candles=1
+2026-02-01 10:53:26,895 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.03% | held_candles=1
+2026-02-01 10:54:27,048 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.02% | held_candles=1
+2026-02-01 10:55:27,216 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.18% | held_candles=2
+2026-02-01 10:56:01,428 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769943360874', 'order_id': '712794120069841436'}

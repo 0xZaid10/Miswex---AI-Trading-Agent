@@ -1,0 +1,12 @@
+2026-02-01 14:19:01,579 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769955540999', 'order_id': '712845207355261468'}
+2026-02-01 14:19:35,324 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=0
+2026-02-01 14:20:35,495 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.13% | held_candles=1
+2026-02-01 14:21:35,603 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.11% | held_candles=1
+2026-02-01 14:22:35,711 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=1
+2026-02-01 14:23:35,874 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.03% | held_candles=1
+2026-02-01 14:24:36,028 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=1
+2026-02-01 14:25:36,203 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.07% | held_candles=2
+2026-02-01 14:26:36,391 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=2
+2026-02-01 14:27:36,522 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.12% | held_candles=2
+2026-02-01 14:28:36,675 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.28% | held_candles=2
+2026-02-01 14:29:01,702 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769956141131', 'order_id': '712847724499698204'}

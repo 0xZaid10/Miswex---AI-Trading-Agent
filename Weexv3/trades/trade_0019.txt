@@ -1,0 +1,8 @@
+2026-01-22 18:20:08,189 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769106002467', 'order_id': '709282006256583196'}
+2026-01-22 18:20:13,918 | INFO | OPEN cmt_solusdt TF=5m size=7.5 order_id=709282006256583196
+2026-01-22 18:20:28,040 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0%
+2026-01-22 18:21:28,101 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0%
+2026-01-22 18:22:28,135 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0%
+2026-01-22 18:23:28,179 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0%
+2026-01-22 18:24:28,230 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0%
+2026-01-22 18:25:02,019 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769106301383', 'order_id': '709283238610207260'}

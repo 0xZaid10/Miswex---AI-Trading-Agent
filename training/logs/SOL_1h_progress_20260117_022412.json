@@ -1,0 +1,370 @@
+[
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 0,
+    "train_fitness": 0.2777818483209503,
+    "val_capital": 0.9443091637667906,
+    "val_trades": 17
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 1,
+    "train_fitness": 0.6119895876492544,
+    "val_capital": 1.0440283341528527,
+    "val_trades": 26
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 2,
+    "train_fitness": 0.6751483758303622,
+    "val_capital": 1.0025495849137445,
+    "val_trades": 11
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 3,
+    "train_fitness": 0.7397050352582828,
+    "val_capital": 1.0319824216797766,
+    "val_trades": 28
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 4,
+    "train_fitness": 0.7888020834940992,
+    "val_capital": 1.033449254076816,
+    "val_trades": 17
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 5,
+    "train_fitness": 0.8337523540487953,
+    "val_capital": 1.0266804133748877,
+    "val_trades": 17
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 6,
+    "train_fitness": 0.9981939193987128,
+    "val_capital": 1.0205787592710358,
+    "val_trades": 30
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 7,
+    "train_fitness": 1.3697727025020798,
+    "val_capital": 1.0003094791879636,
+    "val_trades": 19
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 8,
+    "train_fitness": 1.3697727025020798,
+    "val_capital": 1.0003094791879636,
+    "val_trades": 19
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 9,
+    "train_fitness": 1.3697727025020798,
+    "val_capital": 1.0003094791879636,
+    "val_trades": 19
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 10,
+    "train_fitness": 1.3697727025020798,
+    "val_capital": 1.0003094791879636,
+    "val_trades": 19
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 11,
+    "train_fitness": 1.3810673738486126,
+    "val_capital": 1.0006746975591496,
+    "val_trades": 19
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 12,
+    "train_fitness": 1.5392726872265479,
+    "val_capital": 1.0155702079968878,
+    "val_trades": 19
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 13,
+    "train_fitness": 1.5392726872265479,
+    "val_capital": 1.0155702079968878,
+    "val_trades": 19
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 14,
+    "train_fitness": 1.5392726872265479,
+    "val_capital": 1.0155702079968878,
+    "val_trades": 19
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 15,
+    "train_fitness": 1.5392726872265479,
+    "val_capital": 1.0155702079968878,
+    "val_trades": 19
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 16,
+    "train_fitness": 1.5392726872265479,
+    "val_capital": 1.0155702079968878,
+    "val_trades": 19
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 17,
+    "train_fitness": 1.5686360728562687,
+    "val_capital": 0.9982285871903689,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 18,
+    "train_fitness": 1.5686360728562687,
+    "val_capital": 0.9982285871903689,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 19,
+    "train_fitness": 1.577271020838187,
+    "val_capital": 1.008588456991811,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 20,
+    "train_fitness": 1.577271020838187,
+    "val_capital": 1.008588456991811,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 21,
+    "train_fitness": 1.577271020838187,
+    "val_capital": 1.008588456991811,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 22,
+    "train_fitness": 1.6223378736612222,
+    "val_capital": 1.008588456991811,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 23,
+    "train_fitness": 1.6223378736612222,
+    "val_capital": 1.008588456991811,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 24,
+    "train_fitness": 1.6223378736612222,
+    "val_capital": 1.008588456991811,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 25,
+    "train_fitness": 1.6223378736612222,
+    "val_capital": 1.008588456991811,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 26,
+    "train_fitness": 1.6223378736612222,
+    "val_capital": 1.008588456991811,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 27,
+    "train_fitness": 1.7466607146607995,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 28,
+    "train_fitness": 1.7466607146607995,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 29,
+    "train_fitness": 1.7466607146607995,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 30,
+    "train_fitness": 1.7466607146607995,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 31,
+    "train_fitness": 1.7466607146607995,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 32,
+    "train_fitness": 1.7466607146607995,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 33,
+    "train_fitness": 1.7466607146607995,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 34,
+    "train_fitness": 1.7466607146607995,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 35,
+    "train_fitness": 1.7466607146607995,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 36,
+    "train_fitness": 1.7550026215359604,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 37,
+    "train_fitness": 1.7550026215359604,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 38,
+    "train_fitness": 1.7550026215359604,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 39,
+    "train_fitness": 1.7550026215359604,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 40,
+    "train_fitness": 1.7550026215359604,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 41,
+    "train_fitness": 1.7550026215359604,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 42,
+    "train_fitness": 1.7550026215359604,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 43,
+    "train_fitness": 1.7550026215359604,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 44,
+    "train_fitness": 1.7550026215359604,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  },
+  {
+    "coin": "SOL",
+    "tf": "1h",
+    "gen": 45,
+    "train_fitness": 1.7550026215359604,
+    "val_capital": 1.0182635127035229,
+    "val_trades": 18
+  }
+]

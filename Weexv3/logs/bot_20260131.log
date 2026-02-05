@@ -1,0 +1,700 @@
+2026-01-31 16:58:32,307 | INFO | CLOSING ALL OPEN POSITIONS
+2026-01-31 16:58:38,041 | ERROR | CLOSE ALL POSITIONS FAILED -> no response
+2026-01-31 16:59:47,411 | INFO | CLOSING ALL OPEN POSITIONS
+2026-01-31 16:59:47,995 | ERROR | CLOSE ALL POSITIONS FAILED -> no response
+2026-01-31 16:59:48,766 | INFO | [BUFFER DEBUG] FILE=cmt_dogeusdt_MINUTE_5.csv -> sym=cmt_dogeusdt tf=MINUTE_5
+2026-01-31 16:59:48,771 | INFO | BUFFER LOADED -> cmt_dogeusdt MINUTE_5 (500)
+2026-01-31 16:59:48,771 | INFO | [BUFFER DEBUG] FILE=cmt_dogeusdt_MINUTE_1.csv -> sym=cmt_dogeusdt tf=MINUTE_1
+2026-01-31 16:59:48,791 | INFO | BUFFER LOADED -> cmt_dogeusdt MINUTE_1 (500)
+2026-01-31 16:59:48,791 | INFO | [BUFFER DEBUG] FILE=cmt_btcusdt_MINUTE_1.csv -> sym=cmt_btcusdt tf=MINUTE_1
+2026-01-31 16:59:48,813 | INFO | BUFFER LOADED -> cmt_btcusdt MINUTE_1 (500)
+2026-01-31 16:59:48,813 | INFO | [BUFFER DEBUG] FILE=cmt_btcusdt_MINUTE_5.csv -> sym=cmt_btcusdt tf=MINUTE_5
+2026-01-31 16:59:48,818 | INFO | BUFFER LOADED -> cmt_btcusdt MINUTE_5 (500)
+2026-01-31 16:59:48,818 | INFO | [BUFFER DEBUG] FILE=cmt_solusdt_MINUTE_1.csv -> sym=cmt_solusdt tf=MINUTE_1
+2026-01-31 16:59:48,836 | INFO | BUFFER LOADED -> cmt_solusdt MINUTE_1 (500)
+2026-01-31 16:59:48,836 | INFO | [BUFFER DEBUG] FILE=cmt_solusdt_MINUTE_5.csv -> sym=cmt_solusdt tf=MINUTE_5
+2026-01-31 16:59:48,841 | INFO | BUFFER LOADED -> cmt_solusdt MINUTE_5 (500)
+2026-01-31 16:59:49,816 | INFO | STEP MAP LOADED -> {'cmt_btcusdt': 0.0001, 'cmt_ethusdt': 0.001, 'cmt_bchusdt': 0.01, 'cmt_ltcusdt': 0.1, 'cmt_dogeusdt': 100.0, 'cmt_etcusdt': 1, 'cmt_filusdt': 1, 'cmt_uniusdt': 1, 'cmt_solusdt': 0.1, 'cmt_linkusdt': 1, 'cmt_adausdt': 10.0, 'cmt_dotusdt': 1, 'cmt_xrpusdt': 10.0, 'cmt_trxusdt': 100.0, 'cmt_bnbusdt': 0.1, 'cmt_nearusdt': 1, 'cmt_opusdt': 1, 'cmt_suiusdt': 10.0, 'cmt_compusdt': 0.1, 'cmt_api3usdt': 1, 'cmt_trbusdt': 0.1, 'cmt_wldusdt': 1, 'cmt_cyberusdt': 1, 'cmt_1000pepeusdt': 100.0, 'cmt_xlmusdt': 100.0, 'cmt_avaxusdt': 1, 'cmt_enjusdt': 10.0, 'cmt_icpusdt': 1, 'cmt_aaveusdt': 0.1, 'cmt_atomusdt': 1, 'cmt_neousdt': 1, 'cmt_aptusdt': 1, 'cmt_injusdt': 0.1, 'cmt_wavesusdt': 1, 'cmt_bandusdt': 1, 'cmt_dydxusdt': 1, 'cmt_tiausdt': 1, 'cmt_runeusdt': 1, 'cmt_axsusdt': 1, 'cmt_arbusdt': 1, 'cmt_xmrusdt': 0.01, 'cmt_yfiusdt': 0.001, 'cmt_maskusdt': 1, 'cmt_qntusdt': 0.1, 'cmt_dashusdt': 0.1, 'cmt_arusdt': 1, 'cmt_ldousdt': 1, 'cmt_apeusdt': 1, 'cmt_ksmusdt': 0.1, 'cmt_mtlusdt': 1, 'cmt_gmxusdt': 0.1, 'cmt_sushiusdt': 1, 'cmt_egldusdt': 0.1, 'cmt_zenusdt': 1, 'cmt_snxusdt': 1, 'cmt_sandusdt': 10.0, 'cmt_manausdt': 10.0, 'cmt_lunausdt': 10.0, 'cmt_galausdt': 100.0, 'cmt_blurusdt': 10.0, 'cmt_cfxusdt': 10.0, 'cmt_yggusdt': 10.0, 'cmt_grtusdt': 10.0, 'cmt_arpausdt': 100.0, 'cmt_sfpusdt': 10.0, 'cmt_chzusdt': 100.0, 'cmt_stxusdt': 10.0, 'cmt_peopleusdt': 100.0, 'cmt_arkmusdt': 10.0, 'cmt_gmtusdt': 10.0, 'cmt_magicusdt': 10.0, 'cmt_idusdt': 10.0, 'cmt_c98usdt': 10.0, 'cmt_achusdt': 100.0, 'cmt_kncusdt': 10.0, 'cmt_seiusdt': 10.0, 'cmt_mavusdt': 10.0, 'cmt_lrcusdt': 10.0, 'cmt_woousdt': 10.0, 'cmt_roseusdt': 100.0, 'cmt_belusdt': 10.0, 'cmt_hbarusdt': 100.0, 'cmt_eduusdt': 10.0, 'cmt_kavausdt': 10.0, 'cmt_ordiusdt': 0.1, 'cmt_nknusdt': 10.0, 'cmt_gtcusdt': 1, 'cmt_crvusdt': 10.0, 'cmt_lptusdt': 1, 'cmt_imxusdt': 1, 'cmt_1000flokiusdt': 100.0, 'cmt_1000shibusdt': 1000.0, 'cmt_memeusdt': 100.0, 'cmt_pythusdt': 10.0, 'cmt_ethwusdt': 1, 'cmt_kasusdt': 10.0, 'cmt_1000satsusdt': 10000.0, 'cmt_1000ratsusdt': 10.0, 'cmt_jtousdt': 1, 'cmt_aceusdt': 0.1, 'cmt_bigtimeusdt': 10.0, 'cmt_bsvusdt': 0.01, 'cmt_nfpusdt': 10.0, 'cmt_powrusdt': 10.0, 'cmt_xaiusdt': 1, 'cmt_aiusdt': 1, 'cmt_1000bonkusdt': 100.0, 'cmt_mantausdt': 1, 'cmt_ondousdt': 10.0, 'cmt_altusdt': 10.0, 'cmt_arkusdt': 10.0, 'cmt_jupusdt': 10.0, 'cmt_dymusdt': 1, 'cmt_luncusdt': 10000.0, 'cmt_celousdt': 10.0, 'cmt_vetusdt': 100.0, 'cmt_strkusdt': 1, 'cmt_glmusdt': 1, 'cmt_pixelusdt': 1, 'cmt_dgbusdt': 100.0, 'cmt_wifusdt': 1, 'cmt_portalusdt': 1, 'cmt_bomeusdt': 100.0, 'cmt_metisusdt': 0.1, 'cmt_fetusdt': 1, 'cmt_aevousdt': 1, 'cmt_zetausdt': 1, 'cmt_ethfiusdt': 1, 'cmt_oneusdt': 100.0, 'cmt_algousdt': 10.0, 'cmt_thetausdt': 1, 'cmt_zilusdt': 100.0, 'cmt_minausdt': 1, 'cmt_ensusdt': 1, 'cmt_qtumusdt': 1, 'cmt_storjusdt': 1, 'cmt_zrxusdt': 1, 'cmt_flowusdt': 1, 'cmt_lqtyusdt': 1, 'cmt_celrusdt': 100.0, 'cmt_polyxusdt': 1, 'cmt_tonusdt': 1, 'cmt_pendleusdt': 1, 'cmt_turbousdt': 1000.0, 'cmt_orbsusdt': 100.0, 'cmt_coreusdt': 1, 'cmt_lskusdt': 1, 'cmt_rvnusdt': 100.0, 'cmt_1inchusdt': 1, 'cmt_nmrusdt': 0.1, 'cmt_umausdt': 1, 'cmt_movrusdt': 0.1, 'cmt_ognusdt': 10.0, 'cmt_slpusdt': 1000.0, 'cmt_joeusdt': 1, 'cmt_rdntusdt': 10.0, 'cmt_enausdt': 1, 'cmt_wusdt': 1, 'cmt_cotiusdt': 10.0, 'cmt_spellusdt': 1000.0, 'cmt_ankrusdt': 100.0, 'cmt_ctsiusdt': 10.0, 'cmt_hotusdt': 1000.0, 'cmt_agldusdt': 1, 'cmt_cvxusdt': 1, 'cmt_xtzusdt': 1, 'cmt_astrusdt': 10.0, 'cmt_auctionusdt': 0.1, 'cmt_stgusdt': 1, 'cmt_jasmyusdt': 100.0, 'cmt_phbusdt': 1, 'cmt_cvcusdt': 10.0, 'cmt_ckbusdt': 100.0, 'cmt_tnsrusdt': 1, 'cmt_sagausdt': 1, 'cmt_taousdt': 0.01, 'cmt_audiousdt': 10.0, 'cmt_ssvusdt': 0.1, 'cmt_iotausdt': 10.0, 'cmt_icxusdt': 10.0, 'cmt_iostusdt': 100.0, 'cmt_bicousdt': 1, 'cmt_omusdt': 1, 'cmt_chrusdt': 10.0, 'cmt_iotxusdt': 10.0, 'cmt_xchusdt': 0.1, 'cmt_tusdt': 100.0, 'cmt_rsrusdt': 100.0, 'cmt_aliceusdt': 1, 'cmt_mewusdt': 100.0, 'cmt_rayusdt': 1, 'cmt_rezusdt': 10.0, 'cmt_popcatusdt': 1, 'cmt_bbusdt': 1, 'cmt_notusdt': 100.0, 'cmt_gnousdt': 0.01, 'cmt_axlusdt': 1, 'cmt_driftusdt': 10.0, 'cmt_merlusdt': 10.0, 'cmt_cosusdt': 100.0, 'cmt_safeusdt': 1, 'cmt_zkusdt': 10.0, 'cmt_brettusdt': 10.0, 'cmt_phausdt': 10.0, 'cmt_ctkusdt': 1, 'cmt_ntrnusdt': 1, 'cmt_ongusdt': 10.0, 'cmt_velousdt': 100.0, 'cmt_vthousdt': 1000.0, 'cmt_highusdt': 1, 'cmt_taikousdt': 1, 'cmt_gasusdt': 1, 'cmt_batusdt': 10.0, 'cmt_nulsusdt': 10.0, 'cmt_maviausdt': 1, 'cmt_iousdt': 1, 'cmt_athusdt': 100.0, 'cmt_rifusdt': 10.0, 'cmt_rplusdt': 0.1, 'cmt_oxtusdt': 10.0, 'cmt_bntusdt': 1, 'cmt_zkjusdt': 1, 'cmt_sntusdt': 100.0, 'cmt_zrousdt': 1, 'cmt_listausdt': 1, 'cmt_ctcusdt': 10.0, 'cmt_prclusdt': 10.0, 'cmt_truusdt': 10.0, 'cmt_crousdt': 10.0, 'cmt_xecusdt': 100000.0, 'cmt_paxgusdt': 0.001, 'cmt_mntusdt': 1, 'cmt_flrusdt': 100.0, 'cmt_roninusdt': 1, 'cmt_blastusdt': 100.0, 'cmt_ilvusdt': 0.1, 'cmt_zecusdt': 0.1, 'cmt_zbcnusdt': 1000.0, 'cmt_beamxusdt': 100.0, 'cmt_twtusdt': 1, 'cmt_waxpusdt': 100.0, 'cmt_vanryusdt': 10.0, 'cmt_duskusdt': 10.0, 'cmt_csprusdt': 100.0, 'cmt_degenusdt': 1000.0, 'cmt_xvsusdt': 1, 'cmt_rlcusdt': 1, 'cmt_superusdt': 10.0, 'cmt_agiusdt': 10.0, 'cmt_zeususdt': 10.0, 'cmt_sklusdt': 100.0, 'cmt_mocausdt': 10.0, 'cmt_boneusdt': 10.0, 'cmt_xvgusdt': 1000.0, 'cmt_cakeusdt': 1, 'cmt_bobausdt': 10.0, 'cmt_ustcusdt': 100.0, 'cmt_ontusdt': 10.0, 'cmt_hookusdt': 10.0, 'cmt_dentusdt': 1000.0, 'cmt_sunusdt': 100.0, 'cmt_tlmusdt': 100.0, 'cmt_bananausdt': 0.1, 'cmt_dodoxusdt': 10.0, 'cmt_godsusdt': 10.0, 'cmt_requsdt': 10.0, 'cmt_atausdt': 10.0, 'cmt_steemusdt': 10.0, 'cmt_cetususdt': 100.0, 'cmt_idexusdt': 100.0, 'cmt_forthusdt': 1, 'cmt_rareusdt': 10.0, 'cmt_scusdt': 1000.0, 'cmt_renderusdt': 1, 'cmt_gusdt': 100.0, 'cmt_jstusdt': 100.0, 'cmt_dogusdt': 1000.0, 'cmt_hftusdt': 10.0, 'cmt_funusdt': 1000.0, 'cmt_scrtusdt': 10.0, 'cmt_l3usdt': 10.0, 'cmt_winusdt': 100000.0, 'cmt_qkcusdt': 1000.0, 'cmt_santosusdt': 1, 'cmt_ampusdt': 1000.0, 'cmt_aergousdt': 10.0, 'cmt_promusdt': 1, 'cmt_usdcusdt': 1, 'cmt_pixfiusdt': 100.0, 'cmt_elfusdt': 10.0, 'cmt_fttusdt': 1, 'cmt_synusdt': 10.0, 'cmt_tfuelusdt': 100.0, 'cmt_sysusdt': 10.0, 'cmt_mboxusdt': 10.0, 'cmt_fluxusdt': 10.0, 'cmt_fidausdt': 10.0, 'cmt_ghstusdt': 1, 'cmt_chessusdt': 10.0, 'cmt_catusdt': 100000.0, 'cmt_hntusdt': 1, 'cmt_dogsusdt': 1000.0, 'cmt_orderusdt': 10.0, 'cmt_ogusdt': 1, 'cmt_vicusdt': 10.0, 'cmt_fiousdt': 100.0, 'cmt_polusdt': 10.0, 'cmt_hiveusdt': 10.0, 'cmt_catiusdt': 1, 'cmt_pundixusdt': 10.0, 'cmt_iqusdt': 1000.0, 'cmt_hmstrusdt': 100.0, 'cmt_qubicusdt': 1000000.0, 'cmt_moodengusdt': 10.0, 'cmt_cloudusdt': 10.0, 'cmt_diausdt': 10.0, 'cmt_eigenusdt': 1, 'cmt_pyrusdt': 1, 'cmt_straxusdt': 100.0, 'cmt_kmnousdt': 100.0, 'cmt_carvusdt': 10.0, 'cmt_cityusdt': 1, 'cmt_asrusdt': 1, 'cmt_degousdt': 1, 'cmt_pufferusdt': 10.0, 'cmt_gemsusdt': 10.0, 'cmt_ultimausdt': 0.01, 'cmt_dbrusdt': 100.0, 'cmt_goatusdt': 10.0, 'cmt_grassusdt': 10.0, 'cmt_sdusdt': 10.0, 'cmt_cowusdt': 10.0, 'cmt_paalusdt': 10.0, 'cmt_actusdt': 10.0, 'cmt_pnutusdt': 10.0, 'cmt_peaqusdt': 10.0, 'cmt_hippousdt': 100.0, 'cmt_nsusdt': 10.0, 'cmt_deepusdt': 100.0, 'cmt_olusdt': 10.0, 'cmt_chillguyusdt': 10.0, 'cmt_modeusdt': 100.0, 'cmt_theusdt': 1, 'cmt_xdcusdt': 100.0, 'cmt_dsyncusdt': 10.0, 'cmt_scrusdt': 10.0, 'cmt_virtualusdt': 1, 'cmt_aluusdt': 10.0, 'cmt_barusdt': 1, 'cmt_farmusdt': 0.1, 'cmt_suprausdt': 100.0, 'cmt_toshiusdt': 10000.0, 'cmt_aixbtusdt': 10.0, 'cmt_moveusdt': 10.0, 'cmt_meusdt': 1, 'cmt_avausdt': 10.0, 'cmt_spxusdt': 10.0, 'cmt_cgptusdt': 10.0, 'cmt_morphousdt': 1, 'cmt_kaiausdt': 10.0, 'cmt_acxusdt': 10.0, 'cmt_komausdt': 10.0, 'cmt_zerebrousdt': 10.0, 'cmt_nexousdt': 1, 'cmt_vanausdt': 0.1, 'cmt_xionusdt': 1, 'cmt_syrupusdt': 10.0, 'cmt_usualusdt': 10.0, 'cmt_penguusdt': 100.0, 'cmt_clankerusdt': 0.1, 'cmt_lumiausdt': 1, 'cmt_andyethusdt': 10000.0, 'cmt_alpineusdt': 1, 'cmt_gigausdt': 100.0, 'cmt_acsusdt': 1000.0, 'cmt_zcxusdt': 10.0, 'cmt_hundusdt': 100.0, 'cmt_laziousdt': 1, 'cmt_pondusdt': 100.0, 'cmt_aerousdt': 1, 'cmt_flockusdt': 10.0, 'cmt_dfusdt': 100.0, 'cmt_moodengethusdt': 10000.0, 'cmt_fartcoinusdt': 1, 'cmt_biousdt': 10.0, 'cmt_griffainusdt': 10.0, 'cmt_neiroctousdt': 1000.0, 'cmt_egousdt': 100.0, 'cmt_cookieusdt': 10.0, 'cmt_avaaiusdt': 10.0, 'cmt_swarmsusdt': 10.0, 'cmt_sonicusdt': 100.0, 'cmt_hypeusdt': 0.1, 'cmt_cheemsusdt': 1000000.0, 'cmt_banusdt': 100.0, 'cmt_aiozusdt': 1, 'cmt_velodromeusdt': 10.0, 'cmt_fusdt': 100.0, 'cmt_taiusdt': 10.0, 'cmt_orcausdt': 1, 'cmt_aktusdt': 1, 'cmt_glqusdt': 100.0, 'cmt_zigusdt': 10.0, 'cmt_pippinusdt': 10.0, 'cmt_cookusdt': 100.0, 'cmt_lmwrusdt': 10.0, 'cmt_alchusdt': 10.0, 'cmt_bananas31usdt': 1000.0, 'cmt_duckusdt': 100.0, 'cmt_gpsusdt': 10.0, 'cmt_trumpusdt': 0.1, 'cmt_solvusdt': 10.0, 'cmt_firousdt': 1, 'cmt_kastausdt': 100.0, 'cmt_melaniausdt': 0.1, 'cmt_elonusdt': 1000000.0, 'cmt_wmtxusdt': 10.0, 'cmt_susdt': 10.0, 'cmt_sqdusdt': 10.0, 'cmt_plumeusdt': 10.0, 'cmt_u2uusdt': 1000.0, 'cmt_dusdt': 10.0, 'cmt_obtusdt': 100.0, 'cmt_vineusdt': 10.0, 'cmt_animeusdt': 10.0, 'cmt_vvvusdt': 0.1, 'cmt_jellyjellyusdt': 100.0, 'cmt_aicusdt': 10.0, 'cmt_arcusdt': 10.0, 'cmt_berausdt': 1, 'cmt_tstusdt': 10.0, 'cmt_b3usdt': 1000.0, 'cmt_layerusdt': 10.0, 'cmt_avlusdt': 10.0, 'cmt_ipusdt': 1, 'cmt_heiusdt': 1, 'cmt_shellusdt': 10.0, 'cmt_broccoliusdt': 100.0, 'cmt_xoxousdt': 100.0, 'cmt_viviusdt': 100.0, 'cmt_broccolif3busdt': 100.0, 'cmt_quaiusdt': 10.0, 'cmt_piusdt': 1, 'cmt_kaitousdt': 1, 'cmt_memhashusdt': 100.0, 'cmt_redusdt': 10.0, 'cmt_roamusdt': 10.0, 'cmt_bmtusdt': 10.0, 'cmt_vaderusdt': 1000.0, 'cmt_yneusdt': 100.0, 'cmt_harryusdt': 100.0, 'cmt_lavausdt': 100.0, 'cmt_epicusdt': 1, 'cmt_mubarakusdt': 100.0, 'cmt_tutusdt': 100.0, 'cmt_formusdt': 1, 'cmt_nilusdt': 1, 'cmt_partiusdt': 10.0, 'cmt_walusdt': 10.0, 'cmt_gunusdt': 10.0, 'cmt_mlnusdt': 1, 'cmt_stousdt': 10.0, 'cmt_eurusdt': 1, 'cmt_brlusdt': 10.0, 'cmt_babyusdt': 100.0, 'cmt_fheusdt': 10.0, 'cmt_promptusdt': 10.0, 'cmt_kernelusdt': 10.0, 'cmt_wctusdt': 10.0, 'cmt_sarosusdt': 10.0, 'cmt_bankusdt': 100.0, 'cmt_skyaiusdt': 100.0, 'cmt_hyperusdt': 10.0, 'cmt_zorausdt': 100.0, 'cmt_dolousdt': 10.0, 'cmt_aiotusdt': 10.0, 'cmt_initusdt': 1, 'cmt_signusdt': 100.0, 'cmt_b2usdt': 10.0, 'cmt_haedalusdt': 10.0, 'cmt_myxusdt': 1, 'cmt_sxtusdt': 1, 'cmt_doodusdt': 10.0, 'cmt_nxpcusdt': 1, 'cmt_nobodyusdt': 100.0, 'cmt_agtusdt': 100.0, 'cmt_aweusdt': 100.0, 'cmt_busdt': 10.0, 'cmt_pstakeusdt': 100.0, 'cmt_xautusdt': 0.001, 'cmt_humausdt': 10.0, 'cmt_ausdt': 10.0, 'cmt_sophusdt': 100.0, 'cmt_bdxnusdt': 10.0, 'cmt_lausdt': 10.0, 'cmt_homeusdt': 100.0, 'cmt_resolvusdt': 10.0, 'cmt_pumpbtcusdt': 10.0, 'cmt_uselessusdt': 10.0, 'cmt_aurasolusdt': 10.0, 'cmt_spkusdt': 10.0, 'cmt_matusdt': 1, 'cmt_gorusdt': 100.0, 'cmt_abusdt': 100.0, 'cmt_fortusdt': 100.0, 'cmt_husdt': 10.0, 'cmt_cessusdt': 100.0, 'cmt_saharausdt': 10.0, 'cmt_musdt': 100.0, 'cmt_icntusdt': 10.0, 'cmt_ainusdt': 100.0, 'cmt_crossusdt': 100.0, 'cmt_velvetusdt': 100.0, 'cmt_pumpusdt': 100.0, 'cmt_esusdt': 10.0, 'cmt_erausdt': 1, 'cmt_gpusdt': 1, 'cmt_esportsusdt': 10.0, 'cmt_aspusdt': 10.0, 'cmt_a2zusdt': 1000.0, 'cmt_uniteusdt': 1000.0, 'cmt_naorisusdt': 10.0, 'cmt_ikausdt': 100.0, 'cmt_rionusdt': 1, 'cmt_moriusdt': 10.0, 'cmt_townsusdt': 100.0, 'cmt_proveusdt': 1, 'cmt_1mbabydogeusdt': 1000.0, 'cmt_bullausdt': 100.0, 'cmt_cusdt': 10.0, 'cmt_inusdt': 10.0, 'cmt_newtusdt': 10.0, 'cmt_playusdt': 100.0, 'cmt_tausdt': 100.0, 'cmt_tagusdt': 1000.0, 'cmt_treeusdt': 10.0, 'cmt_xnyusdt': 100.0, 'cmt_aiousdt': 10.0, 'cmt_tacusdt': 10.0, 'cmt_damusdt': 10.0, 'cmt_mamousdt': 10.0, 'cmt_mgousdt': 100.0, 'cmt_yzyusdt': 1, 'cmt_sapienusdt': 10.0, 'cmt_verseworldusdt': 10.0, 'cmt_takeusdt': 10.0, 'cmt_btrusdt': 100.0, 'cmt_campusdt': 10.0, 'cmt_hemiusdt': 100.0, 'cmt_wlfiusdt': 10.0, 'cmt_qusdt': 100.0, 'cmt_somiusdt': 1, 'cmt_ptbusdt': 10.0, 'cmt_ariausdt': 10.0, 'cmt_basusdt': 100.0, 'cmt_mitousdt': 10.0, 'cmt_lineausdt': 100.0, 'cmt_openusdt': 1, 'cmt_avntusdt': 10.0, 'cmt_holousdt': 10.0, 'cmt_stblusdt': 10.0, 'cmt_asterusdt': 1, 'cmt_giggleusdt': 0.1, 'cmt_bardusdt': 1, 'cmt_tradoorusdt': 1, 'cmt_zkcusdt': 1, 'cmt_0gusdt': 1, 'cmt_skyusdt': 10.0, 'cmt_xplusdt': 10.0, 'cmt_yuruusdt': 10.0, 'cmt_mirausdt': 10.0, 'cmt_lightusdt': 10.0, 'cmt_ffusdt': 1, 'cmt_evaausdt': 1, 'cmt_truthusdt': 100.0, 'cmt_kgenusdt': 10.0, 'cmt_akeusdt': 1000.0, 'cmt_xpinusdt': 1000.0, 'cmt_aausdt': 10.0, 'cmt_4usdt': 10.0, 'cmt_bianrenshengusdt': 10.0, 'cmt_botusdt': 10.0, 'cmt_mndeusdt': 10.0, 'cmt_xanusdt': 100.0, 'cmt_rscusdt': 10.0, 'cmt_cyprusdt': 10.0, 'cmt_lynusdt': 10.0, 'cmt_nomusdt': 100.0, 'cmt_2zusdt': 10.0, 'cmt_vfyusdt': 10.0, 'cmt_coaiusdt': 1, 'cmt_hanausdt': 100.0, 'cmt_edenusdt': 10.0, 'cmt_ensousdt': 1, 'cmt_clousdt': 10.0, 'cmt_ybusdt': 10.0, 'cmt_blessusdt': 10.0, 'cmt_recallusdt': 10.0, 'cmt_zbtusdt': 1, 'cmt_labusdt': 10.0, 'cmt_rvvusdt': 100.0, 'cmt_bluaiusdt': 100.0, 'cmt_aprusdt': 1, 'cmt_turtleusdt': 1, 'cmt_cgnusdt': 1000.0, 'cmt_anomeusdt': 10.0, 'cmt_riverusdt': 0.1, 'cmt_onusdt': 10.0, 'cmt_metusdt': 10.0, 'cmt_idolusdt': 100.0, 'cmt_eulusdt': 1, 'cmt_mmtusdt': 1, 'cmt_1000bttusdt': 10000.0, 'cmt_trustusdt': 10.0, 'cmt_uaiusdt': 10.0, 'cmt_sentisusdt': 10.0, 'cmt_folksusdt': 1, 'cmt_elizaosusdt': 100.0, 'cmt_jctusdt': 100.0, 'cmt_aviciusdt': 0.1, 'cmt_allousdt': 10.0, 'cmt_bsuusdt': 10.0, 'cmt_wojakonxusdt': 100.0, 'cmt_pieverseusdt': 10.0, 'cmt_beatusdt': 1, 'cmt_dgramusdt': 100.0, 'cmt_gaibusdt': 10.0, 'cmt_artxusdt': 10.0, 'cmt_ascusdt': 10.0, 'cmt_irysusdt': 100.0, 'cmt_guausdt': 10.0, 'cmt_atusdt': 1, 'cmt_monusdt': 100.0, 'cmt_soonusdt': 10.0, 'cmt_stableusdt': 10.0, 'cmt_realusdt': 100.0, 'cmt_nightusdt': 100.0, 'cmt_wetusdt': 10.0, 'cmt_cysusdt': 10.0, 'cmt_raveusdt': 10.0, 'cmt_magmausdt': 10.0, 'cmt_ccusdt': 100.0, 'cmt_kiteusdt': 100.0, 'cmt_tracusdt': 10.0, 'cmt_rtxusdt': 1, 'cmt_zkpusdt': 10.0, 'cmt_irusdt': 1, 'cmt_bdxusdt': 10.0, 'cmt_collectusdt': 100.0, 'cmt_oooousdt': 100.0, 'cmt_aiavusdt': 10.0, 'cmt_esimusdt': 10.0, 'cmt_114514usdt': 100.0, 'cmt_whitewhaleusdt': 100.0, 'cmt_brevusdt': 10.0, 'cmt_xagusdt': 0.1, 'cmt_ztcusdt': 100.0, 'cmt_powerusdt': 1, 'cmt_我踏马来了usdt': 100.0, 'cmt_dnusdt': 1, 'cmt_老子usdt': 1000.0, 'cmt_哈基米usdt': 10.0, 'cmt_caiusdt': 10.0, 'cmt_人生k线usdt': 100.0, 'cmt_草根文化usdt': 1000.0, 'cmt_psyopanimeusdt': 100.0, 'cmt_黑马usdt': 100.0, 'cmt_sightusdt': 100.0, 'cmt_小股东usdt': 1000.0, 'cmt_fogousdt': 100.0, 'cmt_coinusdt': 0.01, 'cmt_aaplusdt': 0.01, 'cmt_nvdausdt': 0.01, 'cmt_mstrusdt': 0.01, 'cmt_owlusdt': 100.0, 'cmt_fraxusdt': 1, 'cmt_rollusdt': 100.0, 'cmt_gastownusdt': 100.0, 'cmt_elsausdt': 10.0, 'cmt_acuusdt': 10.0, 'cmt_memesusdt': 100.0, 'cmt_gweiusdt': 100.0, 'cmt_aia_contractusdt': 1, 'cmt_aiausdt': 1, 'cmt_tslausdt': 0.01, 'cmt_amznusdt': 0.01, 'cmt_sentusdt': 100.0, 'cmt_fightusdt': 100.0, 'cmt_skrusdt': 100.0, 'cmt_imuusdt': 100.0, 'cmt_orclusdt': 0.01, 'cmt_pltrusdt': 0.01, 'cmt_dontusdt': 100000.0, 'cmt_spaceusdt': 100.0, 'cmt_penguinusdt': 10.0, 'cmt_futuusdt': 0.01, 'cmt_rddtusdt': 0.01, 'cmt_jdusdt': 0.01, 'cmt_dfdvusdt': 0.01, 'cmt_metausdt': 0.01, 'cmt_googlusdt': 0.01, 'cmt_3kdsusdt': 100.0, 'cmt_spyusdt': 0.01, 'cmt_birbusdt': 10.0, 'cmt_hoodusdt': 0.01, 'cmt_qqqusdt': 0.01, 'cmt_alphausdt': 1000.0, 'cmt_inxusdt': 100.0}
+2026-01-31 16:59:55,489 | INFO | Websocket connected
+2026-01-31 16:59:55,490 | INFO | WS CONNECTED
+2026-01-31 16:59:55,623 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_solusdt.MINUTE_1
+2026-01-31 16:59:55,924 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_solusdt.MINUTE_5
+2026-01-31 16:59:56,031 | INFO | [SCALER-STATUS] 1m=NOT_FIT | 5m=NOT_FIT | keys=[]
+2026-01-31 16:59:56,049 | INFO | [STRAT-5m] SOL | id=0 | score=-5.79 | entry=0.75 | SIGNAL=NO
+2026-01-31 16:59:56,056 | INFO | [STRAT-5m] SOL | id=1 | score=0.3873 | entry=0.9 | SIGNAL=NO
+2026-01-31 16:59:56,225 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_dogeusdt.MINUTE_1
+2026-01-31 16:59:56,526 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_dogeusdt.MINUTE_5
+2026-01-31 16:59:56,644 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0097 | entry=0.85 | SIGNAL=NO
+2026-01-31 16:59:56,653 | INFO | [STRAT-5m] DOGE | id=1 | score=4.5745 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 16:59:56,826 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_btcusdt.MINUTE_1
+2026-01-31 16:59:57,127 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_btcusdt.MINUTE_5
+2026-01-31 16:59:57,208 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=4.5745 
+2026-01-31 17:00:00,167 | INFO | [STRAT-5m] DOGE | id=0 | score=0.3199 | entry=0.85 | SIGNAL=NO
+2026-01-31 17:00:00,183 | INFO | [STRAT-5m] DOGE | id=1 | score=4.904 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 17:00:00,458 | INFO | [STRAT-5m] SOL | id=0 | score=12.8829 | entry=0.75 | SIGNAL=OPEN
+2026-01-31 17:00:06,106 | INFO | [ENTRY_ARMED] cmt_solusdt | score=12.8829 
+2026-01-31 17:05:00,378 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 17:05:00,379 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 17:05:00,398 | INFO | [STRAT-5m] SOL | id=0 | score=0.9799 | entry=0.75 | SIGNAL=OPEN
+2026-01-31 17:05:00,932 | INFO | [ENTRY_ARMED] cmt_solusdt | score=0.9799 
+2026-01-31 17:05:00,949 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0045 | entry=0.85 | SIGNAL=NO
+2026-01-31 17:05:00,965 | INFO | [STRAT-5m] DOGE | id=1 | score=-1.7695 | entry=0.74 | SIGNAL=NO
+2026-01-31 17:10:00,572 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 17:10:00,592 | INFO | [STRAT-5m] SOL | id=0 | score=-0.1415 | entry=0.75 | SIGNAL=NO
+2026-01-31 17:10:00,605 | INFO | [STRAT-5m] SOL | id=1 | score=-1.5247 | entry=0.9 | SIGNAL=NO
+2026-01-31 17:10:00,680 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0057 | entry=0.85 | SIGNAL=NO
+2026-01-31 17:10:00,695 | INFO | [STRAT-5m] DOGE | id=1 | score=13.3938 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 17:10:01,269 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=13.3938 
+2026-01-31 17:15:00,689 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 17:15:00,710 | INFO | [STRAT-5m] SOL | id=0 | score=-9.2473 | entry=0.75 | SIGNAL=NO
+2026-01-31 17:15:00,726 | INFO | [STRAT-5m] SOL | id=1 | score=10.4592 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 17:15:01,284 | INFO | [ENTRY_ARMED] cmt_solusdt | score=10.4592 
+2026-01-31 17:15:01,294 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0151 | entry=0.85 | SIGNAL=NO
+2026-01-31 17:15:01,302 | INFO | [STRAT-5m] DOGE | id=1 | score=-26.7602 | entry=0.74 | SIGNAL=NO
+2026-01-31 17:20:00,692 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 17:20:00,708 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0219 | entry=0.85 | SIGNAL=NO
+2026-01-31 17:20:00,722 | INFO | [STRAT-5m] DOGE | id=1 | score=-3.2148 | entry=0.74 | SIGNAL=NO
+2026-01-31 17:20:00,755 | INFO | [STRAT-5m] SOL | id=0 | score=-3.3852 | entry=0.75 | SIGNAL=NO
+2026-01-31 17:20:00,767 | INFO | [STRAT-5m] SOL | id=1 | score=-6.081 | entry=0.9 | SIGNAL=NO
+2026-01-31 17:25:00,561 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0116 | entry=0.85 | SIGNAL=NO
+2026-01-31 17:25:00,568 | INFO | [STRAT-5m] DOGE | id=1 | score=2.1013 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 17:25:01,107 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=2.1013 
+2026-01-31 17:25:01,128 | INFO | [STRAT-5m] SOL | id=0 | score=-4.1271 | entry=0.75 | SIGNAL=NO
+2026-01-31 17:25:01,141 | INFO | [STRAT-5m] SOL | id=1 | score=1.1313 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 17:25:01,708 | INFO | [ENTRY_ARMED] cmt_solusdt | score=1.1313 
+2026-01-31 17:30:00,424 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 17:30:00,424 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 17:30:00,440 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0122 | entry=0.85 | SIGNAL=NO
+2026-01-31 17:30:00,454 | INFO | [STRAT-5m] DOGE | id=1 | score=0.9924 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 17:30:01,009 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=0.9924 
+2026-01-31 17:30:01,031 | INFO | [STRAT-5m] SOL | id=0 | score=-1.1857 | entry=0.75 | SIGNAL=NO
+2026-01-31 17:30:01,046 | INFO | [STRAT-5m] SOL | id=1 | score=-1.9037 | entry=0.9 | SIGNAL=NO
+2026-01-31 17:35:00,274 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 17:35:00,423 | INFO | [STRAT-5m] SOL | id=0 | score=1.8647 | entry=0.75 | SIGNAL=OPEN
+2026-01-31 17:35:00,973 | INFO | [ENTRY_ARMED] cmt_solusdt | score=1.8647 
+2026-01-31 17:35:00,990 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0242 | entry=0.85 | SIGNAL=NO
+2026-01-31 17:35:01,004 | INFO | [STRAT-5m] DOGE | id=1 | score=5.2879 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 17:35:01,649 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=5.2879 
+2026-01-31 17:40:00,247 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 17:40:00,248 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 17:40:00,484 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0013 | entry=0.85 | SIGNAL=NO
+2026-01-31 17:40:00,498 | INFO | [STRAT-5m] DOGE | id=1 | score=5.5219 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 17:40:01,052 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=5.5219 
+2026-01-31 17:40:01,073 | INFO | [STRAT-5m] SOL | id=0 | score=0.1778 | entry=0.75 | SIGNAL=NO
+2026-01-31 17:40:01,087 | INFO | [STRAT-5m] SOL | id=1 | score=-0.0363 | entry=0.9 | SIGNAL=NO
+2026-01-31 17:45:00,384 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 17:45:00,403 | INFO | [STRAT-5m] SOL | id=0 | score=-4.069 | entry=0.75 | SIGNAL=NO
+2026-01-31 17:45:00,416 | INFO | [STRAT-5m] SOL | id=1 | score=4.0465 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 17:45:00,968 | INFO | [ENTRY_ARMED] cmt_solusdt | score=4.0465 
+2026-01-31 17:45:00,985 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.003 | entry=0.85 | SIGNAL=NO
+2026-01-31 17:45:00,999 | INFO | [STRAT-5m] DOGE | id=1 | score=-2.0446 | entry=0.74 | SIGNAL=NO
+2026-01-31 17:50:00,424 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 17:50:00,461 | INFO | [STRAT-5m] SOL | id=0 | score=-2.4867 | entry=0.75 | SIGNAL=NO
+2026-01-31 17:50:00,475 | INFO | [STRAT-5m] SOL | id=1 | score=0.8648 | entry=0.9 | SIGNAL=NO
+2026-01-31 17:50:00,670 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0092 | entry=0.85 | SIGNAL=NO
+2026-01-31 17:50:00,684 | INFO | [STRAT-5m] DOGE | id=1 | score=4.9411 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 17:50:01,273 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=4.9411 
+2026-01-31 17:55:00,301 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 17:55:00,322 | INFO | [STRAT-5m] SOL | id=0 | score=-1.0075 | entry=0.75 | SIGNAL=NO
+2026-01-31 17:55:00,336 | INFO | [STRAT-5m] SOL | id=1 | score=-0.0627 | entry=0.9 | SIGNAL=NO
+2026-01-31 17:55:00,475 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0019 | entry=0.85 | SIGNAL=NO
+2026-01-31 17:55:00,488 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.9956 | entry=0.74 | SIGNAL=NO
+2026-01-31 18:00:00,316 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0027 | entry=0.85 | SIGNAL=NO
+2026-01-31 18:00:00,326 | INFO | [STRAT-5m] DOGE | id=1 | score=1.9116 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 18:00:00,892 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=1.9116 
+2026-01-31 18:00:00,915 | INFO | [STRAT-5m] SOL | id=0 | score=-1.544 | entry=0.75 | SIGNAL=NO
+2026-01-31 18:00:00,929 | INFO | [STRAT-5m] SOL | id=1 | score=-0.1566 | entry=0.9 | SIGNAL=NO
+2026-01-31 18:05:00,295 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 18:05:00,319 | INFO | [STRAT-5m] SOL | id=0 | score=-0.1933 | entry=0.75 | SIGNAL=NO
+2026-01-31 18:05:00,334 | INFO | [STRAT-5m] SOL | id=1 | score=-1.8609 | entry=0.9 | SIGNAL=NO
+2026-01-31 18:05:00,773 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0034 | entry=0.85 | SIGNAL=NO
+2026-01-31 18:05:00,788 | INFO | [STRAT-5m] DOGE | id=1 | score=6.3918 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 18:05:01,397 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=6.3918 
+2026-01-31 18:10:00,543 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 18:10:00,816 | INFO | [STRAT-5m] SOL | id=0 | score=-6.1075 | entry=0.75 | SIGNAL=NO
+2026-01-31 18:10:00,832 | INFO | [STRAT-5m] SOL | id=1 | score=5.0478 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 18:10:01,410 | INFO | [ENTRY_ARMED] cmt_solusdt | score=5.0478 
+2026-01-31 18:10:01,417 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0003 | entry=0.85 | SIGNAL=NO
+2026-01-31 18:10:01,423 | INFO | [STRAT-5m] DOGE | id=1 | score=2.6386 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 18:10:02,379 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=2.6386 
+2026-01-31 18:15:00,482 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 18:15:00,482 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 18:15:00,500 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0002 | entry=0.85 | SIGNAL=NO
+2026-01-31 18:15:00,515 | INFO | [STRAT-5m] DOGE | id=1 | score=0.6262 | entry=0.74 | SIGNAL=NO
+2026-01-31 18:15:00,683 | INFO | [STRAT-5m] SOL | id=0 | score=2.4692 | entry=0.75 | SIGNAL=OPEN
+2026-01-31 18:15:01,220 | INFO | [ENTRY_ARMED] cmt_solusdt | score=2.4692 
+2026-01-31 18:19:11,670 | ERROR | PLACE LONG FAILED -> no response
+2026-01-31 18:19:11,671 | ERROR | [ORDER FAILED] Pausing new entries for 60s
+2026-01-31 18:20:00,424 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 18:20:00,440 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0089 | entry=0.85 | SIGNAL=NO
+2026-01-31 18:20:00,455 | INFO | [STRAT-5m] DOGE | id=1 | score=8.202 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 18:20:06,173 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=8.202 
+2026-01-31 18:20:06,198 | INFO | [STRAT-5m] SOL | id=0 | score=-4.4857 | entry=0.75 | SIGNAL=NO
+2026-01-31 18:20:06,211 | INFO | [STRAT-5m] SOL | id=1 | score=1.5995 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 18:20:06,781 | INFO | [ENTRY_ARMED] cmt_solusdt | score=1.5995 
+2026-01-31 18:25:00,169 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 18:25:00,169 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 18:25:00,186 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0053 | entry=0.85 | SIGNAL=NO
+2026-01-31 18:25:00,201 | INFO | [STRAT-5m] DOGE | id=1 | score=0.1466 | entry=0.74 | SIGNAL=NO
+2026-01-31 18:25:00,832 | INFO | [STRAT-5m] SOL | id=0 | score=-1.7006 | entry=0.75 | SIGNAL=NO
+2026-01-31 18:25:00,845 | INFO | [STRAT-5m] SOL | id=1 | score=-1.398 | entry=0.9 | SIGNAL=NO
+2026-01-31 18:30:00,316 | INFO | [STRAT-5m] SOL | id=0 | score=-3.203 | entry=0.75 | SIGNAL=NO
+2026-01-31 18:30:00,332 | INFO | [STRAT-5m] SOL | id=1 | score=0.4992 | entry=0.9 | SIGNAL=NO
+2026-01-31 18:30:00,454 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0031 | entry=0.85 | SIGNAL=NO
+2026-01-31 18:30:00,469 | INFO | [STRAT-5m] DOGE | id=1 | score=-2.3781 | entry=0.74 | SIGNAL=NO
+2026-01-31 18:35:00,163 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0015 | entry=0.85 | SIGNAL=NO
+2026-01-31 18:35:00,178 | INFO | [STRAT-5m] DOGE | id=1 | score=5.2089 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 18:35:00,753 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=5.2089 
+2026-01-31 18:35:00,774 | INFO | [STRAT-5m] SOL | id=0 | score=0.1307 | entry=0.75 | SIGNAL=NO
+2026-01-31 18:35:00,787 | INFO | [STRAT-5m] SOL | id=1 | score=-2.482 | entry=0.9 | SIGNAL=NO
+2026-01-31 18:37:16,837 | ERROR | PLACE LONG FAILED -> no response
+2026-01-31 18:37:16,839 | ERROR | [ORDER FAILED] Pausing new entries for 60s
+2026-01-31 18:38:00,759 | WARNING | [CIRCUIT BREAKER] Entry blocked (recent order failure)
+2026-01-31 18:39:01,925 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769884741386', 'order_id': '712548252209119772'}
+2026-01-31 18:39:58,344 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=0
+2026-01-31 18:40:07,276 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769884801413', 'order_id': '712548526344634908'}
+2026-01-31 18:45:00,370 | INFO | [STRAT-5m] SOL | id=0 | score=-36.4803 | entry=0.75 | SIGNAL=NO
+2026-01-31 18:45:00,384 | INFO | [STRAT-5m] SOL | id=1 | score=47.1132 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 18:45:00,934 | INFO | [ENTRY_ARMED] cmt_solusdt | score=47.1132 
+2026-01-31 18:45:00,954 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0001 | entry=0.85 | SIGNAL=NO
+2026-01-31 18:45:01,519 | INFO | [STRAT-5m] DOGE | id=1 | score=82.6873 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 18:50:00,405 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 18:50:00,412 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0018 | entry=0.85 | SIGNAL=NO
+2026-01-31 18:50:00,418 | INFO | [STRAT-5m] DOGE | id=1 | score=2.8405 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 18:50:06,270 | INFO | [STRAT-5m] SOL | id=0 | score=-15.0299 | entry=0.75 | SIGNAL=NO
+2026-01-31 18:50:06,278 | INFO | [STRAT-5m] SOL | id=1 | score=18.1651 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 18:50:06,879 | INFO | [ENTRY_ARMED] cmt_solusdt | score=18.1651 
+2026-01-31 18:55:00,257 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 18:55:00,523 | INFO | [STRAT-5m] SOL | id=0 | score=6.7968 | entry=0.75 | SIGNAL=OPEN
+2026-01-31 18:55:06,385 | INFO | [ENTRY_ARMED] cmt_solusdt | score=6.7968 
+2026-01-31 18:55:06,401 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0024 | entry=0.85 | SIGNAL=NO
+2026-01-31 18:55:06,966 | INFO | [STRAT-5m] DOGE | id=1 | score=-3.7615 | entry=0.74 | SIGNAL=NO
+2026-01-31 19:00:00,344 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 19:00:00,362 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0048 | entry=0.85 | SIGNAL=NO
+2026-01-31 19:00:00,378 | INFO | [STRAT-5m] DOGE | id=1 | score=-3.1355 | entry=0.74 | SIGNAL=NO
+2026-01-31 19:00:00,818 | INFO | [STRAT-5m] SOL | id=0 | score=-7.0354 | entry=0.75 | SIGNAL=NO
+2026-01-31 19:00:00,832 | INFO | [STRAT-5m] SOL | id=1 | score=6.5813 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 19:00:06,521 | INFO | [ENTRY_ARMED] cmt_solusdt | score=6.5813 
+2026-01-31 19:04:31,657 | INFO | CLOSING ALL OPEN POSITIONS
+2026-01-31 19:04:32,226 | ERROR | CLOSE ALL POSITIONS FAILED -> no response
+2026-01-31 19:04:33,045 | INFO | [BUFFER DEBUG] FILE=cmt_dogeusdt_MINUTE_5.csv -> sym=cmt_dogeusdt tf=MINUTE_5
+2026-01-31 19:04:33,050 | INFO | BUFFER LOADED -> cmt_dogeusdt MINUTE_5 (500)
+2026-01-31 19:04:33,050 | INFO | [BUFFER DEBUG] FILE=cmt_dogeusdt_MINUTE_1.csv -> sym=cmt_dogeusdt tf=MINUTE_1
+2026-01-31 19:04:33,071 | INFO | BUFFER LOADED -> cmt_dogeusdt MINUTE_1 (500)
+2026-01-31 19:04:33,071 | INFO | [BUFFER DEBUG] FILE=cmt_btcusdt_MINUTE_1.csv -> sym=cmt_btcusdt tf=MINUTE_1
+2026-01-31 19:04:33,094 | INFO | BUFFER LOADED -> cmt_btcusdt MINUTE_1 (500)
+2026-01-31 19:04:33,094 | INFO | [BUFFER DEBUG] FILE=cmt_btcusdt_MINUTE_5.csv -> sym=cmt_btcusdt tf=MINUTE_5
+2026-01-31 19:04:33,099 | INFO | BUFFER LOADED -> cmt_btcusdt MINUTE_5 (500)
+2026-01-31 19:04:33,099 | INFO | [BUFFER DEBUG] FILE=cmt_solusdt_MINUTE_1.csv -> sym=cmt_solusdt tf=MINUTE_1
+2026-01-31 19:04:33,118 | INFO | BUFFER LOADED -> cmt_solusdt MINUTE_1 (500)
+2026-01-31 19:04:33,119 | INFO | [BUFFER DEBUG] FILE=cmt_solusdt_MINUTE_5.csv -> sym=cmt_solusdt tf=MINUTE_5
+2026-01-31 19:04:33,123 | INFO | BUFFER LOADED -> cmt_solusdt MINUTE_5 (500)
+2026-01-31 19:04:39,392 | INFO | STEP MAP LOADED -> {'cmt_btcusdt': 0.0001, 'cmt_ethusdt': 0.001, 'cmt_bchusdt': 0.01, 'cmt_ltcusdt': 0.1, 'cmt_dogeusdt': 100.0, 'cmt_etcusdt': 1, 'cmt_filusdt': 1, 'cmt_uniusdt': 1, 'cmt_solusdt': 0.1, 'cmt_linkusdt': 1, 'cmt_adausdt': 10.0, 'cmt_dotusdt': 1, 'cmt_xrpusdt': 10.0, 'cmt_trxusdt': 100.0, 'cmt_bnbusdt': 0.1, 'cmt_nearusdt': 1, 'cmt_opusdt': 1, 'cmt_suiusdt': 10.0, 'cmt_compusdt': 0.1, 'cmt_api3usdt': 1, 'cmt_trbusdt': 0.1, 'cmt_wldusdt': 1, 'cmt_cyberusdt': 1, 'cmt_1000pepeusdt': 100.0, 'cmt_xlmusdt': 100.0, 'cmt_avaxusdt': 1, 'cmt_enjusdt': 10.0, 'cmt_icpusdt': 1, 'cmt_aaveusdt': 0.1, 'cmt_atomusdt': 1, 'cmt_neousdt': 1, 'cmt_aptusdt': 1, 'cmt_injusdt': 0.1, 'cmt_wavesusdt': 1, 'cmt_bandusdt': 1, 'cmt_dydxusdt': 1, 'cmt_tiausdt': 1, 'cmt_runeusdt': 1, 'cmt_axsusdt': 1, 'cmt_arbusdt': 1, 'cmt_xmrusdt': 0.01, 'cmt_yfiusdt': 0.001, 'cmt_maskusdt': 1, 'cmt_qntusdt': 0.1, 'cmt_dashusdt': 0.1, 'cmt_arusdt': 1, 'cmt_ldousdt': 1, 'cmt_apeusdt': 1, 'cmt_ksmusdt': 0.1, 'cmt_mtlusdt': 1, 'cmt_gmxusdt': 0.1, 'cmt_sushiusdt': 1, 'cmt_egldusdt': 0.1, 'cmt_zenusdt': 1, 'cmt_snxusdt': 1, 'cmt_sandusdt': 10.0, 'cmt_manausdt': 10.0, 'cmt_lunausdt': 10.0, 'cmt_galausdt': 100.0, 'cmt_blurusdt': 10.0, 'cmt_cfxusdt': 10.0, 'cmt_yggusdt': 10.0, 'cmt_grtusdt': 10.0, 'cmt_arpausdt': 100.0, 'cmt_sfpusdt': 10.0, 'cmt_chzusdt': 100.0, 'cmt_stxusdt': 10.0, 'cmt_peopleusdt': 100.0, 'cmt_arkmusdt': 10.0, 'cmt_gmtusdt': 10.0, 'cmt_magicusdt': 10.0, 'cmt_idusdt': 10.0, 'cmt_c98usdt': 10.0, 'cmt_achusdt': 100.0, 'cmt_kncusdt': 10.0, 'cmt_seiusdt': 10.0, 'cmt_mavusdt': 10.0, 'cmt_lrcusdt': 10.0, 'cmt_woousdt': 10.0, 'cmt_roseusdt': 100.0, 'cmt_belusdt': 10.0, 'cmt_hbarusdt': 100.0, 'cmt_eduusdt': 10.0, 'cmt_kavausdt': 10.0, 'cmt_ordiusdt': 0.1, 'cmt_nknusdt': 10.0, 'cmt_gtcusdt': 1, 'cmt_crvusdt': 10.0, 'cmt_lptusdt': 1, 'cmt_imxusdt': 1, 'cmt_1000flokiusdt': 100.0, 'cmt_1000shibusdt': 1000.0, 'cmt_memeusdt': 100.0, 'cmt_pythusdt': 10.0, 'cmt_ethwusdt': 1, 'cmt_kasusdt': 10.0, 'cmt_1000satsusdt': 10000.0, 'cmt_1000ratsusdt': 10.0, 'cmt_jtousdt': 1, 'cmt_aceusdt': 0.1, 'cmt_bigtimeusdt': 10.0, 'cmt_bsvusdt': 0.01, 'cmt_nfpusdt': 10.0, 'cmt_powrusdt': 10.0, 'cmt_xaiusdt': 1, 'cmt_aiusdt': 1, 'cmt_1000bonkusdt': 100.0, 'cmt_mantausdt': 1, 'cmt_ondousdt': 10.0, 'cmt_altusdt': 10.0, 'cmt_arkusdt': 10.0, 'cmt_jupusdt': 10.0, 'cmt_dymusdt': 1, 'cmt_luncusdt': 10000.0, 'cmt_celousdt': 10.0, 'cmt_vetusdt': 100.0, 'cmt_strkusdt': 1, 'cmt_glmusdt': 1, 'cmt_pixelusdt': 1, 'cmt_dgbusdt': 100.0, 'cmt_wifusdt': 1, 'cmt_portalusdt': 1, 'cmt_bomeusdt': 100.0, 'cmt_metisusdt': 0.1, 'cmt_fetusdt': 1, 'cmt_aevousdt': 1, 'cmt_zetausdt': 1, 'cmt_ethfiusdt': 1, 'cmt_oneusdt': 100.0, 'cmt_algousdt': 10.0, 'cmt_thetausdt': 1, 'cmt_zilusdt': 100.0, 'cmt_minausdt': 1, 'cmt_ensusdt': 1, 'cmt_qtumusdt': 1, 'cmt_storjusdt': 1, 'cmt_zrxusdt': 1, 'cmt_flowusdt': 1, 'cmt_lqtyusdt': 1, 'cmt_celrusdt': 100.0, 'cmt_polyxusdt': 1, 'cmt_tonusdt': 1, 'cmt_pendleusdt': 1, 'cmt_turbousdt': 1000.0, 'cmt_orbsusdt': 100.0, 'cmt_coreusdt': 1, 'cmt_lskusdt': 1, 'cmt_rvnusdt': 100.0, 'cmt_1inchusdt': 1, 'cmt_nmrusdt': 0.1, 'cmt_umausdt': 1, 'cmt_movrusdt': 0.1, 'cmt_ognusdt': 10.0, 'cmt_slpusdt': 1000.0, 'cmt_joeusdt': 1, 'cmt_rdntusdt': 10.0, 'cmt_enausdt': 1, 'cmt_wusdt': 1, 'cmt_cotiusdt': 10.0, 'cmt_spellusdt': 1000.0, 'cmt_ankrusdt': 100.0, 'cmt_ctsiusdt': 10.0, 'cmt_hotusdt': 1000.0, 'cmt_agldusdt': 1, 'cmt_cvxusdt': 1, 'cmt_xtzusdt': 1, 'cmt_astrusdt': 10.0, 'cmt_auctionusdt': 0.1, 'cmt_stgusdt': 1, 'cmt_jasmyusdt': 100.0, 'cmt_phbusdt': 1, 'cmt_cvcusdt': 10.0, 'cmt_ckbusdt': 100.0, 'cmt_tnsrusdt': 1, 'cmt_sagausdt': 1, 'cmt_taousdt': 0.01, 'cmt_audiousdt': 10.0, 'cmt_ssvusdt': 0.1, 'cmt_iotausdt': 10.0, 'cmt_icxusdt': 10.0, 'cmt_iostusdt': 100.0, 'cmt_bicousdt': 1, 'cmt_omusdt': 1, 'cmt_chrusdt': 10.0, 'cmt_iotxusdt': 10.0, 'cmt_xchusdt': 0.1, 'cmt_tusdt': 100.0, 'cmt_rsrusdt': 100.0, 'cmt_aliceusdt': 1, 'cmt_mewusdt': 100.0, 'cmt_rayusdt': 1, 'cmt_rezusdt': 10.0, 'cmt_popcatusdt': 1, 'cmt_bbusdt': 1, 'cmt_notusdt': 100.0, 'cmt_gnousdt': 0.01, 'cmt_axlusdt': 1, 'cmt_driftusdt': 10.0, 'cmt_merlusdt': 10.0, 'cmt_cosusdt': 100.0, 'cmt_safeusdt': 1, 'cmt_zkusdt': 10.0, 'cmt_brettusdt': 10.0, 'cmt_phausdt': 10.0, 'cmt_ctkusdt': 1, 'cmt_ntrnusdt': 1, 'cmt_ongusdt': 10.0, 'cmt_velousdt': 100.0, 'cmt_vthousdt': 1000.0, 'cmt_highusdt': 1, 'cmt_taikousdt': 1, 'cmt_gasusdt': 1, 'cmt_batusdt': 10.0, 'cmt_nulsusdt': 10.0, 'cmt_maviausdt': 1, 'cmt_iousdt': 1, 'cmt_athusdt': 100.0, 'cmt_rifusdt': 10.0, 'cmt_rplusdt': 0.1, 'cmt_oxtusdt': 10.0, 'cmt_bntusdt': 1, 'cmt_zkjusdt': 1, 'cmt_sntusdt': 100.0, 'cmt_zrousdt': 1, 'cmt_listausdt': 1, 'cmt_ctcusdt': 10.0, 'cmt_prclusdt': 10.0, 'cmt_truusdt': 10.0, 'cmt_crousdt': 10.0, 'cmt_xecusdt': 100000.0, 'cmt_paxgusdt': 0.001, 'cmt_mntusdt': 1, 'cmt_flrusdt': 100.0, 'cmt_roninusdt': 1, 'cmt_blastusdt': 100.0, 'cmt_ilvusdt': 0.1, 'cmt_zecusdt': 0.1, 'cmt_zbcnusdt': 1000.0, 'cmt_beamxusdt': 100.0, 'cmt_twtusdt': 1, 'cmt_waxpusdt': 100.0, 'cmt_vanryusdt': 10.0, 'cmt_duskusdt': 10.0, 'cmt_csprusdt': 100.0, 'cmt_degenusdt': 1000.0, 'cmt_xvsusdt': 1, 'cmt_rlcusdt': 1, 'cmt_superusdt': 10.0, 'cmt_agiusdt': 10.0, 'cmt_zeususdt': 10.0, 'cmt_sklusdt': 100.0, 'cmt_mocausdt': 10.0, 'cmt_boneusdt': 10.0, 'cmt_xvgusdt': 1000.0, 'cmt_cakeusdt': 1, 'cmt_bobausdt': 10.0, 'cmt_ustcusdt': 100.0, 'cmt_ontusdt': 10.0, 'cmt_hookusdt': 10.0, 'cmt_dentusdt': 1000.0, 'cmt_sunusdt': 100.0, 'cmt_tlmusdt': 100.0, 'cmt_bananausdt': 0.1, 'cmt_dodoxusdt': 10.0, 'cmt_godsusdt': 10.0, 'cmt_requsdt': 10.0, 'cmt_atausdt': 10.0, 'cmt_steemusdt': 10.0, 'cmt_cetususdt': 100.0, 'cmt_idexusdt': 100.0, 'cmt_forthusdt': 1, 'cmt_rareusdt': 10.0, 'cmt_scusdt': 1000.0, 'cmt_renderusdt': 1, 'cmt_gusdt': 100.0, 'cmt_jstusdt': 100.0, 'cmt_dogusdt': 1000.0, 'cmt_hftusdt': 10.0, 'cmt_funusdt': 1000.0, 'cmt_scrtusdt': 10.0, 'cmt_l3usdt': 10.0, 'cmt_winusdt': 100000.0, 'cmt_qkcusdt': 1000.0, 'cmt_santosusdt': 1, 'cmt_ampusdt': 1000.0, 'cmt_aergousdt': 10.0, 'cmt_promusdt': 1, 'cmt_usdcusdt': 1, 'cmt_pixfiusdt': 100.0, 'cmt_elfusdt': 10.0, 'cmt_fttusdt': 1, 'cmt_synusdt': 10.0, 'cmt_tfuelusdt': 100.0, 'cmt_sysusdt': 10.0, 'cmt_mboxusdt': 10.0, 'cmt_fluxusdt': 10.0, 'cmt_fidausdt': 10.0, 'cmt_ghstusdt': 1, 'cmt_chessusdt': 10.0, 'cmt_catusdt': 100000.0, 'cmt_hntusdt': 1, 'cmt_dogsusdt': 1000.0, 'cmt_orderusdt': 10.0, 'cmt_ogusdt': 1, 'cmt_vicusdt': 10.0, 'cmt_fiousdt': 100.0, 'cmt_polusdt': 10.0, 'cmt_hiveusdt': 10.0, 'cmt_catiusdt': 1, 'cmt_pundixusdt': 10.0, 'cmt_iqusdt': 1000.0, 'cmt_hmstrusdt': 100.0, 'cmt_qubicusdt': 1000000.0, 'cmt_moodengusdt': 10.0, 'cmt_cloudusdt': 10.0, 'cmt_diausdt': 10.0, 'cmt_eigenusdt': 1, 'cmt_pyrusdt': 1, 'cmt_straxusdt': 100.0, 'cmt_kmnousdt': 100.0, 'cmt_carvusdt': 10.0, 'cmt_cityusdt': 1, 'cmt_asrusdt': 1, 'cmt_degousdt': 1, 'cmt_pufferusdt': 10.0, 'cmt_gemsusdt': 10.0, 'cmt_ultimausdt': 0.01, 'cmt_dbrusdt': 100.0, 'cmt_goatusdt': 10.0, 'cmt_grassusdt': 10.0, 'cmt_sdusdt': 10.0, 'cmt_cowusdt': 10.0, 'cmt_paalusdt': 10.0, 'cmt_actusdt': 10.0, 'cmt_pnutusdt': 10.0, 'cmt_peaqusdt': 10.0, 'cmt_hippousdt': 100.0, 'cmt_nsusdt': 10.0, 'cmt_deepusdt': 100.0, 'cmt_olusdt': 10.0, 'cmt_chillguyusdt': 10.0, 'cmt_modeusdt': 100.0, 'cmt_theusdt': 1, 'cmt_xdcusdt': 100.0, 'cmt_dsyncusdt': 10.0, 'cmt_scrusdt': 10.0, 'cmt_virtualusdt': 1, 'cmt_aluusdt': 10.0, 'cmt_barusdt': 1, 'cmt_farmusdt': 0.1, 'cmt_suprausdt': 100.0, 'cmt_toshiusdt': 10000.0, 'cmt_aixbtusdt': 10.0, 'cmt_moveusdt': 10.0, 'cmt_meusdt': 1, 'cmt_avausdt': 10.0, 'cmt_spxusdt': 10.0, 'cmt_cgptusdt': 10.0, 'cmt_morphousdt': 1, 'cmt_kaiausdt': 10.0, 'cmt_acxusdt': 10.0, 'cmt_komausdt': 10.0, 'cmt_zerebrousdt': 10.0, 'cmt_nexousdt': 1, 'cmt_vanausdt': 0.1, 'cmt_xionusdt': 1, 'cmt_syrupusdt': 10.0, 'cmt_usualusdt': 10.0, 'cmt_penguusdt': 100.0, 'cmt_clankerusdt': 0.1, 'cmt_lumiausdt': 1, 'cmt_andyethusdt': 10000.0, 'cmt_alpineusdt': 1, 'cmt_gigausdt': 100.0, 'cmt_acsusdt': 1000.0, 'cmt_zcxusdt': 10.0, 'cmt_hundusdt': 100.0, 'cmt_laziousdt': 1, 'cmt_pondusdt': 100.0, 'cmt_aerousdt': 1, 'cmt_flockusdt': 10.0, 'cmt_dfusdt': 100.0, 'cmt_moodengethusdt': 10000.0, 'cmt_fartcoinusdt': 1, 'cmt_biousdt': 10.0, 'cmt_griffainusdt': 10.0, 'cmt_neiroctousdt': 1000.0, 'cmt_egousdt': 100.0, 'cmt_cookieusdt': 10.0, 'cmt_avaaiusdt': 10.0, 'cmt_swarmsusdt': 10.0, 'cmt_sonicusdt': 100.0, 'cmt_hypeusdt': 0.1, 'cmt_cheemsusdt': 1000000.0, 'cmt_banusdt': 100.0, 'cmt_aiozusdt': 1, 'cmt_velodromeusdt': 10.0, 'cmt_fusdt': 100.0, 'cmt_taiusdt': 10.0, 'cmt_orcausdt': 1, 'cmt_aktusdt': 1, 'cmt_glqusdt': 100.0, 'cmt_zigusdt': 10.0, 'cmt_pippinusdt': 10.0, 'cmt_cookusdt': 100.0, 'cmt_lmwrusdt': 10.0, 'cmt_alchusdt': 10.0, 'cmt_bananas31usdt': 1000.0, 'cmt_duckusdt': 100.0, 'cmt_gpsusdt': 10.0, 'cmt_trumpusdt': 0.1, 'cmt_solvusdt': 10.0, 'cmt_firousdt': 1, 'cmt_kastausdt': 100.0, 'cmt_melaniausdt': 0.1, 'cmt_elonusdt': 1000000.0, 'cmt_wmtxusdt': 10.0, 'cmt_susdt': 10.0, 'cmt_sqdusdt': 10.0, 'cmt_plumeusdt': 10.0, 'cmt_u2uusdt': 1000.0, 'cmt_dusdt': 10.0, 'cmt_obtusdt': 100.0, 'cmt_vineusdt': 10.0, 'cmt_animeusdt': 10.0, 'cmt_vvvusdt': 0.1, 'cmt_jellyjellyusdt': 100.0, 'cmt_aicusdt': 10.0, 'cmt_arcusdt': 10.0, 'cmt_berausdt': 1, 'cmt_tstusdt': 10.0, 'cmt_b3usdt': 1000.0, 'cmt_layerusdt': 10.0, 'cmt_avlusdt': 10.0, 'cmt_ipusdt': 1, 'cmt_heiusdt': 1, 'cmt_shellusdt': 10.0, 'cmt_broccoliusdt': 100.0, 'cmt_xoxousdt': 100.0, 'cmt_viviusdt': 100.0, 'cmt_broccolif3busdt': 100.0, 'cmt_quaiusdt': 10.0, 'cmt_piusdt': 1, 'cmt_kaitousdt': 1, 'cmt_memhashusdt': 100.0, 'cmt_redusdt': 10.0, 'cmt_roamusdt': 10.0, 'cmt_bmtusdt': 10.0, 'cmt_vaderusdt': 1000.0, 'cmt_yneusdt': 100.0, 'cmt_harryusdt': 100.0, 'cmt_lavausdt': 100.0, 'cmt_epicusdt': 1, 'cmt_mubarakusdt': 100.0, 'cmt_tutusdt': 100.0, 'cmt_formusdt': 1, 'cmt_nilusdt': 1, 'cmt_partiusdt': 10.0, 'cmt_walusdt': 10.0, 'cmt_gunusdt': 10.0, 'cmt_mlnusdt': 1, 'cmt_stousdt': 10.0, 'cmt_eurusdt': 1, 'cmt_brlusdt': 10.0, 'cmt_babyusdt': 100.0, 'cmt_fheusdt': 10.0, 'cmt_promptusdt': 10.0, 'cmt_kernelusdt': 10.0, 'cmt_wctusdt': 10.0, 'cmt_sarosusdt': 10.0, 'cmt_bankusdt': 100.0, 'cmt_skyaiusdt': 100.0, 'cmt_hyperusdt': 10.0, 'cmt_zorausdt': 100.0, 'cmt_dolousdt': 10.0, 'cmt_aiotusdt': 10.0, 'cmt_initusdt': 1, 'cmt_signusdt': 100.0, 'cmt_b2usdt': 10.0, 'cmt_haedalusdt': 10.0, 'cmt_myxusdt': 1, 'cmt_sxtusdt': 1, 'cmt_doodusdt': 10.0, 'cmt_nxpcusdt': 1, 'cmt_nobodyusdt': 100.0, 'cmt_agtusdt': 100.0, 'cmt_aweusdt': 100.0, 'cmt_busdt': 10.0, 'cmt_pstakeusdt': 100.0, 'cmt_xautusdt': 0.001, 'cmt_humausdt': 10.0, 'cmt_ausdt': 10.0, 'cmt_sophusdt': 100.0, 'cmt_bdxnusdt': 10.0, 'cmt_lausdt': 10.0, 'cmt_homeusdt': 100.0, 'cmt_resolvusdt': 10.0, 'cmt_pumpbtcusdt': 10.0, 'cmt_uselessusdt': 10.0, 'cmt_aurasolusdt': 10.0, 'cmt_spkusdt': 10.0, 'cmt_matusdt': 1, 'cmt_gorusdt': 100.0, 'cmt_abusdt': 100.0, 'cmt_fortusdt': 100.0, 'cmt_husdt': 10.0, 'cmt_cessusdt': 100.0, 'cmt_saharausdt': 10.0, 'cmt_musdt': 100.0, 'cmt_icntusdt': 10.0, 'cmt_ainusdt': 100.0, 'cmt_crossusdt': 100.0, 'cmt_velvetusdt': 100.0, 'cmt_pumpusdt': 100.0, 'cmt_esusdt': 10.0, 'cmt_erausdt': 1, 'cmt_gpusdt': 1, 'cmt_esportsusdt': 10.0, 'cmt_aspusdt': 10.0, 'cmt_a2zusdt': 1000.0, 'cmt_uniteusdt': 1000.0, 'cmt_naorisusdt': 10.0, 'cmt_ikausdt': 100.0, 'cmt_rionusdt': 1, 'cmt_moriusdt': 10.0, 'cmt_townsusdt': 100.0, 'cmt_proveusdt': 1, 'cmt_1mbabydogeusdt': 1000.0, 'cmt_bullausdt': 100.0, 'cmt_cusdt': 10.0, 'cmt_inusdt': 10.0, 'cmt_newtusdt': 10.0, 'cmt_playusdt': 100.0, 'cmt_tausdt': 100.0, 'cmt_tagusdt': 1000.0, 'cmt_treeusdt': 10.0, 'cmt_xnyusdt': 100.0, 'cmt_aiousdt': 10.0, 'cmt_tacusdt': 10.0, 'cmt_damusdt': 10.0, 'cmt_mamousdt': 10.0, 'cmt_mgousdt': 100.0, 'cmt_yzyusdt': 1, 'cmt_sapienusdt': 10.0, 'cmt_verseworldusdt': 10.0, 'cmt_takeusdt': 10.0, 'cmt_btrusdt': 100.0, 'cmt_campusdt': 10.0, 'cmt_hemiusdt': 100.0, 'cmt_wlfiusdt': 10.0, 'cmt_qusdt': 100.0, 'cmt_somiusdt': 1, 'cmt_ptbusdt': 10.0, 'cmt_ariausdt': 10.0, 'cmt_basusdt': 100.0, 'cmt_mitousdt': 10.0, 'cmt_lineausdt': 100.0, 'cmt_openusdt': 1, 'cmt_avntusdt': 10.0, 'cmt_holousdt': 10.0, 'cmt_stblusdt': 10.0, 'cmt_asterusdt': 1, 'cmt_giggleusdt': 0.1, 'cmt_bardusdt': 1, 'cmt_tradoorusdt': 1, 'cmt_zkcusdt': 1, 'cmt_0gusdt': 1, 'cmt_skyusdt': 10.0, 'cmt_xplusdt': 10.0, 'cmt_yuruusdt': 10.0, 'cmt_mirausdt': 10.0, 'cmt_lightusdt': 10.0, 'cmt_ffusdt': 1, 'cmt_evaausdt': 1, 'cmt_truthusdt': 100.0, 'cmt_kgenusdt': 10.0, 'cmt_akeusdt': 1000.0, 'cmt_xpinusdt': 1000.0, 'cmt_aausdt': 10.0, 'cmt_4usdt': 10.0, 'cmt_bianrenshengusdt': 10.0, 'cmt_botusdt': 10.0, 'cmt_mndeusdt': 10.0, 'cmt_xanusdt': 100.0, 'cmt_rscusdt': 10.0, 'cmt_cyprusdt': 10.0, 'cmt_lynusdt': 10.0, 'cmt_nomusdt': 100.0, 'cmt_2zusdt': 10.0, 'cmt_vfyusdt': 10.0, 'cmt_coaiusdt': 1, 'cmt_hanausdt': 100.0, 'cmt_edenusdt': 10.0, 'cmt_ensousdt': 1, 'cmt_clousdt': 10.0, 'cmt_ybusdt': 10.0, 'cmt_blessusdt': 10.0, 'cmt_recallusdt': 10.0, 'cmt_zbtusdt': 1, 'cmt_labusdt': 10.0, 'cmt_rvvusdt': 100.0, 'cmt_bluaiusdt': 100.0, 'cmt_aprusdt': 1, 'cmt_turtleusdt': 1, 'cmt_cgnusdt': 1000.0, 'cmt_anomeusdt': 10.0, 'cmt_riverusdt': 0.1, 'cmt_onusdt': 10.0, 'cmt_metusdt': 10.0, 'cmt_idolusdt': 100.0, 'cmt_eulusdt': 1, 'cmt_mmtusdt': 1, 'cmt_1000bttusdt': 10000.0, 'cmt_trustusdt': 10.0, 'cmt_uaiusdt': 10.0, 'cmt_sentisusdt': 10.0, 'cmt_folksusdt': 1, 'cmt_elizaosusdt': 100.0, 'cmt_jctusdt': 100.0, 'cmt_aviciusdt': 0.1, 'cmt_allousdt': 10.0, 'cmt_bsuusdt': 10.0, 'cmt_wojakonxusdt': 100.0, 'cmt_pieverseusdt': 10.0, 'cmt_beatusdt': 1, 'cmt_dgramusdt': 100.0, 'cmt_gaibusdt': 10.0, 'cmt_artxusdt': 10.0, 'cmt_ascusdt': 10.0, 'cmt_irysusdt': 100.0, 'cmt_guausdt': 10.0, 'cmt_atusdt': 1, 'cmt_monusdt': 100.0, 'cmt_soonusdt': 10.0, 'cmt_stableusdt': 10.0, 'cmt_realusdt': 100.0, 'cmt_nightusdt': 100.0, 'cmt_wetusdt': 10.0, 'cmt_cysusdt': 10.0, 'cmt_raveusdt': 10.0, 'cmt_magmausdt': 10.0, 'cmt_ccusdt': 100.0, 'cmt_kiteusdt': 100.0, 'cmt_tracusdt': 10.0, 'cmt_rtxusdt': 1, 'cmt_zkpusdt': 10.0, 'cmt_irusdt': 1, 'cmt_bdxusdt': 10.0, 'cmt_collectusdt': 100.0, 'cmt_oooousdt': 100.0, 'cmt_aiavusdt': 10.0, 'cmt_esimusdt': 10.0, 'cmt_114514usdt': 100.0, 'cmt_whitewhaleusdt': 100.0, 'cmt_brevusdt': 10.0, 'cmt_xagusdt': 0.1, 'cmt_ztcusdt': 100.0, 'cmt_powerusdt': 1, 'cmt_我踏马来了usdt': 100.0, 'cmt_dnusdt': 1, 'cmt_老子usdt': 1000.0, 'cmt_哈基米usdt': 10.0, 'cmt_caiusdt': 10.0, 'cmt_人生k线usdt': 100.0, 'cmt_草根文化usdt': 1000.0, 'cmt_psyopanimeusdt': 100.0, 'cmt_黑马usdt': 100.0, 'cmt_sightusdt': 100.0, 'cmt_小股东usdt': 1000.0, 'cmt_fogousdt': 100.0, 'cmt_coinusdt': 0.01, 'cmt_aaplusdt': 0.01, 'cmt_nvdausdt': 0.01, 'cmt_mstrusdt': 0.01, 'cmt_owlusdt': 100.0, 'cmt_fraxusdt': 1, 'cmt_rollusdt': 100.0, 'cmt_gastownusdt': 100.0, 'cmt_elsausdt': 10.0, 'cmt_acuusdt': 10.0, 'cmt_memesusdt': 100.0, 'cmt_gweiusdt': 100.0, 'cmt_aia_contractusdt': 1, 'cmt_aiausdt': 1, 'cmt_tslausdt': 0.01, 'cmt_amznusdt': 0.01, 'cmt_sentusdt': 100.0, 'cmt_fightusdt': 100.0, 'cmt_skrusdt': 100.0, 'cmt_imuusdt': 100.0, 'cmt_orclusdt': 0.01, 'cmt_pltrusdt': 0.01, 'cmt_dontusdt': 100000.0, 'cmt_spaceusdt': 100.0, 'cmt_penguinusdt': 10.0, 'cmt_futuusdt': 0.01, 'cmt_rddtusdt': 0.01, 'cmt_jdusdt': 0.01, 'cmt_dfdvusdt': 0.01, 'cmt_metausdt': 0.01, 'cmt_googlusdt': 0.01, 'cmt_3kdsusdt': 100.0, 'cmt_spyusdt': 0.01, 'cmt_birbusdt': 10.0, 'cmt_hoodusdt': 0.01, 'cmt_qqqusdt': 0.01, 'cmt_alphausdt': 1000.0, 'cmt_inxusdt': 100.0}
+2026-01-31 19:04:39,994 | INFO | Websocket connected
+2026-01-31 19:04:39,994 | INFO | WS CONNECTED
+2026-01-31 19:04:39,996 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_solusdt.MINUTE_1
+2026-01-31 19:04:40,296 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_solusdt.MINUTE_5
+2026-01-31 19:04:40,597 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_dogeusdt.MINUTE_1
+2026-01-31 19:04:40,897 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_dogeusdt.MINUTE_5
+2026-01-31 19:04:41,198 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_btcusdt.MINUTE_1
+2026-01-31 19:04:41,499 | INFO | SUBSCRIBED -> kline.LAST_PRICE.cmt_btcusdt.MINUTE_5
+2026-01-31 19:05:00,715 | INFO | [SCALER-STATUS] 1m=NOT_FIT | 5m=NOT_FIT | keys=[]
+2026-01-31 19:05:00,729 | INFO | [STRAT-5m] SOL | id=0 | score=-18.7669 | entry=0.75 | SIGNAL=NO
+2026-01-31 19:05:00,736 | INFO | [STRAT-5m] SOL | id=1 | score=19.3082 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 19:05:01,309 | INFO | [ENTRY_ARMED] cmt_solusdt | score=19.3082 
+2026-01-31 19:05:01,319 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0016 | entry=0.85 | SIGNAL=NO
+2026-01-31 19:05:01,326 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.9703 | entry=0.74 | SIGNAL=NO
+2026-01-31 19:10:00,281 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 19:10:00,300 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0007 | entry=0.85 | SIGNAL=NO
+2026-01-31 19:10:00,314 | INFO | [STRAT-5m] DOGE | id=1 | score=-1.0075 | entry=0.74 | SIGNAL=NO
+2026-01-31 19:10:00,862 | INFO | [STRAT-5m] SOL | id=0 | score=-7.1752 | entry=0.75 | SIGNAL=NO
+2026-01-31 19:10:00,877 | INFO | [STRAT-5m] SOL | id=1 | score=12.3289 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 19:10:01,436 | INFO | [ENTRY_ARMED] cmt_solusdt | score=12.3289 
+2026-01-31 19:15:00,324 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 19:15:00,341 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0101 | entry=0.85 | SIGNAL=NO
+2026-01-31 19:15:00,355 | INFO | [STRAT-5m] DOGE | id=1 | score=-2.3836 | entry=0.74 | SIGNAL=NO
+2026-01-31 19:15:00,762 | INFO | [STRAT-5m] SOL | id=0 | score=-1.2351 | entry=0.75 | SIGNAL=NO
+2026-01-31 19:15:00,776 | INFO | [STRAT-5m] SOL | id=1 | score=-0.4776 | entry=0.9 | SIGNAL=NO
+2026-01-31 19:20:00,526 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0038 | entry=0.85 | SIGNAL=NO
+2026-01-31 19:20:00,542 | INFO | [STRAT-5m] DOGE | id=1 | score=0.7077 | entry=0.74 | SIGNAL=NO
+2026-01-31 19:20:00,876 | INFO | [STRAT-5m] SOL | id=0 | score=-2.5742 | entry=0.75 | SIGNAL=NO
+2026-01-31 19:20:00,891 | INFO | [STRAT-5m] SOL | id=1 | score=1.8199 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 19:20:01,448 | INFO | [ENTRY_ARMED] cmt_solusdt | score=1.8199 
+2026-01-31 19:25:00,217 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 19:25:00,573 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0049 | entry=0.85 | SIGNAL=NO
+2026-01-31 19:25:00,588 | INFO | [STRAT-5m] DOGE | id=1 | score=2.7321 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 19:25:01,169 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=2.7321 
+2026-01-31 19:25:01,196 | INFO | [STRAT-5m] SOL | id=0 | score=-3.4002 | entry=0.75 | SIGNAL=NO
+2026-01-31 19:25:01,210 | INFO | [STRAT-5m] SOL | id=1 | score=-0.0336 | entry=0.9 | SIGNAL=NO
+2026-01-31 19:30:00,245 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 19:30:00,262 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0004 | entry=0.85 | SIGNAL=NO
+2026-01-31 19:30:00,277 | INFO | [STRAT-5m] DOGE | id=1 | score=-2.4734 | entry=0.74 | SIGNAL=NO
+2026-01-31 19:30:00,857 | INFO | [STRAT-5m] SOL | id=0 | score=-0.9437 | entry=0.75 | SIGNAL=NO
+2026-01-31 19:30:00,872 | INFO | [STRAT-5m] SOL | id=1 | score=0.3433 | entry=0.9 | SIGNAL=NO
+2026-01-31 19:35:00,380 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0019 | entry=0.85 | SIGNAL=NO
+2026-01-31 19:35:00,395 | INFO | [STRAT-5m] DOGE | id=1 | score=3.5586 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 19:35:00,952 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=3.5586 
+2026-01-31 19:35:00,974 | INFO | [STRAT-5m] SOL | id=0 | score=-3.7155 | entry=0.75 | SIGNAL=NO
+2026-01-31 19:35:00,988 | INFO | [STRAT-5m] SOL | id=1 | score=-1.0446 | entry=0.9 | SIGNAL=NO
+2026-01-31 19:40:00,645 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 19:40:00,660 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.009 | entry=0.85 | SIGNAL=NO
+2026-01-31 19:40:00,674 | INFO | [STRAT-5m] DOGE | id=1 | score=3.52 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 19:40:01,291 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=3.52 
+2026-01-31 19:40:01,316 | INFO | [STRAT-5m] SOL | id=0 | score=-1.15 | entry=0.75 | SIGNAL=NO
+2026-01-31 19:40:01,330 | INFO | [STRAT-5m] SOL | id=1 | score=-3.7415 | entry=0.9 | SIGNAL=NO
+2026-01-31 19:45:00,454 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 19:45:00,471 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.009 | entry=0.85 | SIGNAL=NO
+2026-01-31 19:45:00,485 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.8754 | entry=0.74 | SIGNAL=NO
+2026-01-31 19:45:00,680 | INFO | [STRAT-5m] SOL | id=0 | score=-2.4279 | entry=0.75 | SIGNAL=NO
+2026-01-31 19:45:00,693 | INFO | [STRAT-5m] SOL | id=1 | score=-2.1748 | entry=0.9 | SIGNAL=NO
+2026-01-31 19:50:00,295 | INFO | [STRAT-5m] SOL | id=0 | score=-3.824 | entry=0.75 | SIGNAL=NO
+2026-01-31 19:50:00,302 | INFO | [STRAT-5m] SOL | id=1 | score=4.635 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 19:50:00,846 | INFO | [ENTRY_ARMED] cmt_solusdt | score=4.635 
+2026-01-31 19:50:00,863 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0053 | entry=0.85 | SIGNAL=NO
+2026-01-31 19:50:00,877 | INFO | [STRAT-5m] DOGE | id=1 | score=0.1491 | entry=0.74 | SIGNAL=NO
+2026-01-31 19:55:00,539 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 19:55:00,555 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0075 | entry=0.85 | SIGNAL=NO
+2026-01-31 19:55:00,570 | INFO | [STRAT-5m] DOGE | id=1 | score=4.0782 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 19:55:06,266 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=4.0782 
+2026-01-31 19:55:06,288 | INFO | [STRAT-5m] SOL | id=0 | score=-0.3913 | entry=0.75 | SIGNAL=NO
+2026-01-31 19:55:06,301 | INFO | [STRAT-5m] SOL | id=1 | score=4.2998 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 19:55:06,862 | INFO | [ENTRY_ARMED] cmt_solusdt | score=4.2998 
+2026-01-31 20:00:00,249 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 20:00:00,249 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 20:00:00,266 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0019 | entry=0.85 | SIGNAL=NO
+2026-01-31 20:00:00,279 | INFO | [STRAT-5m] DOGE | id=1 | score=1.0021 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 20:00:00,831 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=1.0021 
+2026-01-31 20:00:00,853 | INFO | [STRAT-5m] SOL | id=0 | score=1.4131 | entry=0.75 | SIGNAL=OPEN
+2026-01-31 20:00:01,415 | INFO | [ENTRY_ARMED] cmt_solusdt | score=1.4131 
+2026-01-31 20:05:00,281 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 20:05:00,282 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 20:05:00,299 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0011 | entry=0.85 | SIGNAL=NO
+2026-01-31 20:05:00,314 | INFO | [STRAT-5m] DOGE | id=1 | score=6.2504 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 20:05:00,864 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=6.2504 
+2026-01-31 20:05:00,886 | INFO | [STRAT-5m] SOL | id=0 | score=-2.3004 | entry=0.75 | SIGNAL=NO
+2026-01-31 20:05:00,899 | INFO | [STRAT-5m] SOL | id=1 | score=2.7638 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 20:05:01,422 | INFO | [ENTRY_ARMED] cmt_solusdt | score=2.7638 
+2026-01-31 20:06:11,173 | ERROR | PLACE LONG FAILED -> no response
+2026-01-31 20:06:11,175 | ERROR | [ORDER FAILED] Pausing new entries for 60s
+2026-01-31 20:06:11,175 | ERROR | WS ERROR -> ping/pong timed out
+2026-01-31 20:06:11,175 | ERROR | ping/pong timed out - goodbye
+2026-01-31 20:06:11,286 | WARNING | WS CLOSED -> reconnecting...
+2026-01-31 20:06:14,791 | INFO | Websocket connected
+2026-01-31 20:06:14,792 | INFO | WS CONNECTED
+2026-01-31 20:10:06,805 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769890206246', 'order_id': '712571173661049372'}
+2026-01-31 20:10:13,082 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 20:10:42,978 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=1
+2026-01-31 20:11:43,126 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.05% | held_candles=1
+2026-01-31 20:12:43,200 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.07% | held_candles=1
+2026-01-31 20:13:43,371 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.29% | held_candles=1
+2026-01-31 20:14:43,508 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.17% | held_candles=1
+2026-01-31 20:15:01,455 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769890500836', 'order_id': '712572409370116636'}
+2026-01-31 20:20:00,497 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0012 | entry=0.85 | SIGNAL=NO
+2026-01-31 20:20:00,503 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.6213 | entry=0.74 | SIGNAL=NO
+2026-01-31 20:20:00,535 | INFO | [STRAT-5m] SOL | id=0 | score=-1.4449 | entry=0.75 | SIGNAL=NO
+2026-01-31 20:20:01,123 | INFO | [STRAT-5m] SOL | id=1 | score=1.2822 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 20:20:02,264 | INFO | [ENTRY_ARMED] cmt_solusdt | score=1.2822 
+2026-01-31 20:25:00,409 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 20:25:00,429 | INFO | [STRAT-5m] SOL | id=0 | score=4.0465 | entry=0.75 | SIGNAL=OPEN
+2026-01-31 20:25:06,134 | INFO | [ENTRY_ARMED] cmt_solusdt | score=4.0465 
+2026-01-31 20:25:06,151 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0003 | entry=0.85 | SIGNAL=NO
+2026-01-31 20:25:06,165 | INFO | [STRAT-5m] DOGE | id=1 | score=5.7764 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 20:25:06,714 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=5.7764 
+2026-01-31 20:30:00,483 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 20:30:00,483 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 20:30:00,500 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0023 | entry=0.85 | SIGNAL=NO
+2026-01-31 20:30:00,514 | INFO | [STRAT-5m] DOGE | id=1 | score=2.4893 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 20:30:01,088 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=2.4893 
+2026-01-31 20:30:03,166 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769891402625', 'order_id': '712576191558582812'}
+2026-01-31 20:30:44,933 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=1
+2026-01-31 20:31:45,077 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.05% | held_candles=1
+2026-01-31 20:32:45,258 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.06% | held_candles=1
+2026-01-31 20:33:45,418 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.02% | held_candles=1
+2026-01-31 20:34:45,523 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.07% | held_candles=1
+2026-01-31 20:35:45,735 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.13% | held_candles=2
+2026-01-31 20:36:45,854 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.06% | held_candles=2
+2026-01-31 20:37:46,012 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.04% | held_candles=2
+2026-01-31 20:38:46,222 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.1% | held_candles=2
+2026-01-31 20:39:47,241 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.04% | held_candles=2
+2026-01-31 20:40:47,378 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.05% | held_candles=3
+2026-01-31 20:41:47,492 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.08% | held_candles=3
+2026-01-31 20:42:47,615 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.09% | held_candles=3
+2026-01-31 20:43:47,788 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.29% | held_candles=3
+2026-01-31 20:44:47,939 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.58% | held_candles=3
+2026-01-31 20:45:48,080 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.63% | held_candles=4
+2026-01-31 20:46:48,288 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.42% | held_candles=4
+2026-01-31 20:47:48,500 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.72% | held_candles=4
+2026-01-31 20:48:48,692 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.55% | held_candles=4
+2026-01-31 20:49:48,845 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.56% | held_candles=4
+2026-01-31 20:50:49,007 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.29% | held_candles=5
+2026-01-31 20:51:49,200 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.3% | held_candles=5
+2026-01-31 20:52:49,383 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.25% | held_candles=5
+2026-01-31 20:53:49,549 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.31% | held_candles=5
+2026-01-31 20:54:49,704 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.36% | held_candles=5
+2026-01-31 20:55:49,881 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.49% | held_candles=6
+2026-01-31 20:56:50,092 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.64% | held_candles=6
+2026-01-31 20:57:50,266 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.94% | held_candles=6
+2026-01-31 20:58:50,391 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.91% | held_candles=6
+2026-01-31 20:59:50,531 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=1.01% | held_candles=6
+2026-01-31 21:00:50,678 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.83% | held_candles=7
+2026-01-31 21:01:50,828 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=1.25% | held_candles=7
+2026-01-31 21:02:51,051 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=1.33% | held_candles=7
+2026-01-31 21:03:51,238 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.86% | held_candles=7
+2026-01-31 21:04:51,425 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.6% | held_candles=7
+2026-01-31 21:05:01,226 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769893500608', 'order_id': '712584991237734940'}
+2026-01-31 21:10:00,454 | INFO | [STRAT-5m] SOL | id=0 | score=-3.2251 | entry=0.75 | SIGNAL=NO
+2026-01-31 21:10:00,476 | INFO | [STRAT-5m] SOL | id=1 | score=2.6411 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 21:10:06,217 | INFO | [ENTRY_ARMED] cmt_solusdt | score=2.6411 
+2026-01-31 21:10:06,237 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0108 | entry=0.85 | SIGNAL=NO
+2026-01-31 21:10:11,901 | INFO | [STRAT-5m] DOGE | id=1 | score=0.0773 | entry=0.74 | SIGNAL=NO
+2026-01-31 21:15:00,509 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 21:15:00,529 | INFO | [STRAT-5m] SOL | id=0 | score=1.8578 | entry=0.75 | SIGNAL=OPEN
+2026-01-31 21:15:01,095 | INFO | [ENTRY_ARMED] cmt_solusdt | score=1.8578 
+2026-01-31 21:15:01,113 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0002 | entry=0.85 | SIGNAL=NO
+2026-01-31 21:15:01,129 | INFO | [STRAT-5m] DOGE | id=1 | score=2.2591 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 21:15:07,386 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=2.2591 
+2026-01-31 21:20:00,449 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 21:20:00,450 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 21:20:00,458 | INFO | [STRAT-5m] SOL | id=0 | score=0.7389 | entry=0.75 | SIGNAL=NO
+2026-01-31 21:20:00,464 | INFO | [STRAT-5m] SOL | id=1 | score=0.0786 | entry=0.9 | SIGNAL=NO
+2026-01-31 21:20:00,561 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0043 | entry=0.85 | SIGNAL=NO
+2026-01-31 21:20:00,567 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.109 | entry=0.74 | SIGNAL=NO
+2026-01-31 21:25:00,684 | INFO | [STRAT-5m] DOGE | id=0 | score=-0.0024 | entry=0.85 | SIGNAL=NO
+2026-01-31 21:25:01,237 | INFO | [STRAT-5m] DOGE | id=1 | score=-3.4719 | entry=0.74 | SIGNAL=NO
+2026-01-31 21:25:01,258 | INFO | [STRAT-5m] SOL | id=0 | score=-4.801 | entry=0.75 | SIGNAL=NO
+2026-01-31 21:25:01,844 | INFO | [STRAT-5m] SOL | id=1 | score=4.3881 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 21:25:08,074 | INFO | [ENTRY_ARMED] cmt_solusdt | score=4.3881 
+2026-01-31 21:30:00,450 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 21:30:00,470 | INFO | [STRAT-5m] SOL | id=0 | score=-2.6226 | entry=0.75 | SIGNAL=NO
+2026-01-31 21:30:00,484 | INFO | [STRAT-5m] SOL | id=1 | score=2.7203 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 21:30:01,049 | INFO | [ENTRY_ARMED] cmt_solusdt | score=2.7203 
+2026-01-31 21:30:01,066 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0173 | entry=0.85 | SIGNAL=NO
+2026-01-31 21:30:01,617 | INFO | [STRAT-5m] DOGE | id=1 | score=-4.1355 | entry=0.74 | SIGNAL=NO
+2026-01-31 21:35:00,445 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 21:35:00,727 | INFO | [STRAT-5m] SOL | id=0 | score=-2.4636 | entry=0.75 | SIGNAL=NO
+2026-01-31 21:35:00,742 | INFO | [STRAT-5m] SOL | id=1 | score=7.3328 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 21:35:01,305 | INFO | [ENTRY_ARMED] cmt_solusdt | score=7.3328 
+2026-01-31 21:35:01,322 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0092 | entry=0.85 | SIGNAL=NO
+2026-01-31 21:35:01,336 | INFO | [STRAT-5m] DOGE | id=1 | score=5.3566 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 21:35:02,444 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=5.3566 
+2026-01-31 21:40:00,439 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 21:40:00,439 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 21:40:00,450 | INFO | [STRAT-5m] SOL | id=0 | score=-1.8638 | entry=0.75 | SIGNAL=NO
+2026-01-31 21:40:00,457 | INFO | [STRAT-5m] SOL | id=1 | score=7.0243 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 21:40:01,006 | INFO | [ENTRY_ARMED] cmt_solusdt | score=7.0243 
+2026-01-31 21:40:01,022 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0124 | entry=0.85 | SIGNAL=NO
+2026-01-31 21:40:01,035 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.4168 | entry=0.74 | SIGNAL=NO
+2026-01-31 21:45:00,370 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 21:45:00,550 | INFO | [STRAT-5m] SOL | id=0 | score=0.6374 | entry=0.75 | SIGNAL=NO
+2026-01-31 21:45:00,566 | INFO | [STRAT-5m] SOL | id=1 | score=3.5597 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 21:45:01,145 | INFO | [ENTRY_ARMED] cmt_solusdt | score=3.5597 
+2026-01-31 21:45:01,162 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0135 | entry=0.85 | SIGNAL=NO
+2026-01-31 21:45:01,176 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.1086 | entry=0.74 | SIGNAL=NO
+2026-01-31 21:50:00,454 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 21:50:00,473 | INFO | [STRAT-5m] SOL | id=0 | score=0.1263 | entry=0.75 | SIGNAL=NO
+2026-01-31 21:50:00,486 | INFO | [STRAT-5m] SOL | id=1 | score=4.2161 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 21:50:01,044 | INFO | [ENTRY_ARMED] cmt_solusdt | score=4.2161 
+2026-01-31 21:50:01,062 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0136 | entry=0.85 | SIGNAL=NO
+2026-01-31 21:50:01,077 | INFO | [STRAT-5m] DOGE | id=1 | score=0.6708 | entry=0.74 | SIGNAL=NO
+2026-01-31 21:55:00,374 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 21:55:00,661 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0118 | entry=0.85 | SIGNAL=NO
+2026-01-31 21:55:01,240 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.8826 | entry=0.74 | SIGNAL=NO
+2026-01-31 21:55:01,261 | INFO | [STRAT-5m] SOL | id=0 | score=0.8024 | entry=0.75 | SIGNAL=OPEN
+2026-01-31 21:55:01,872 | INFO | [ENTRY_ARMED] cmt_solusdt | score=0.8024 
+2026-01-31 22:00:00,337 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 22:00:00,353 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0115 | entry=0.85 | SIGNAL=NO
+2026-01-31 22:00:00,368 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.0685 | entry=0.74 | SIGNAL=NO
+2026-01-31 22:00:00,598 | INFO | [STRAT-5m] SOL | id=0 | score=-0.3373 | entry=0.75 | SIGNAL=NO
+2026-01-31 22:00:00,611 | INFO | [STRAT-5m] SOL | id=1 | score=6.183 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 22:00:01,154 | INFO | [ENTRY_ARMED] cmt_solusdt | score=6.183 
+2026-01-31 22:05:00,288 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 22:05:00,790 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0149 | entry=0.85 | SIGNAL=NO
+2026-01-31 22:05:00,805 | INFO | [STRAT-5m] DOGE | id=1 | score=0.334 | entry=0.74 | SIGNAL=NO
+2026-01-31 22:05:01,363 | INFO | [STRAT-5m] SOL | id=0 | score=-1.764 | entry=0.75 | SIGNAL=NO
+2026-01-31 22:05:01,970 | INFO | [STRAT-5m] SOL | id=1 | score=8.4964 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 22:05:03,073 | INFO | [ENTRY_ARMED] cmt_solusdt | score=8.4964 
+2026-01-31 22:10:00,520 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 22:10:00,572 | INFO | [STRAT-5m] SOL | id=0 | score=0.1496 | entry=0.75 | SIGNAL=NO
+2026-01-31 22:10:06,313 | INFO | [STRAT-5m] SOL | id=1 | score=2.0467 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 22:10:12,550 | INFO | [ENTRY_ARMED] cmt_solusdt | score=2.0467 
+2026-01-31 22:10:12,557 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0028 | entry=0.85 | SIGNAL=NO
+2026-01-31 22:10:13,077 | INFO | [STRAT-5m] DOGE | id=1 | score=1.0983 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 22:10:13,632 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=1.0983 
+2026-01-31 22:10:14,724 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769897414167', 'order_id': '712601405822599708'}
+2026-01-31 22:10:53,080 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=0
+2026-01-31 22:11:53,202 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.09% | held_candles=0
+2026-01-31 22:12:01,959 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769897521369', 'order_id': '712601855586206236'}
+2026-01-31 22:12:02,542 | INFO | [REENTRY_REWARD] action=4 pnl=-0.3% dd=0.3% held=0 R=-0.00546 Q:0.0→-0.0008
+2026-01-31 22:15:00,608 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 22:15:00,628 | INFO | [STRAT-5m] SOL | id=0 | score=1.1594 | entry=0.75 | SIGNAL=OPEN
+2026-01-31 22:15:06,350 | INFO | [ENTRY_ARMED] cmt_solusdt | score=1.1594 
+2026-01-31 22:15:06,368 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0034 | entry=0.85 | SIGNAL=NO
+2026-01-31 22:15:06,918 | INFO | [STRAT-5m] DOGE | id=1 | score=1.0322 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 22:15:08,079 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=1.0322 
+2026-01-31 22:15:09,196 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769897708638', 'order_id': '712602640940270108'}
+2026-01-31 22:15:54,980 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=0
+2026-01-31 22:16:55,104 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.15% | held_candles=0
+2026-01-31 22:17:55,299 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.14% | held_candles=0
+2026-01-31 22:18:55,501 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.13% | held_candles=0
+2026-01-31 22:19:55,610 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.04% | held_candles=0
+2026-01-31 22:20:00,461 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 22:20:55,735 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.02% | held_candles=1
+2026-01-31 22:21:55,919 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.01% | held_candles=1
+2026-01-31 22:22:56,062 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.21% | held_candles=1
+2026-01-31 22:23:56,249 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.03% | held_candles=1
+2026-01-31 22:24:56,483 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.02% | held_candles=1
+2026-01-31 22:25:56,673 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.26% | held_candles=2
+2026-01-31 22:26:56,788 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.23% | held_candles=2
+2026-01-31 22:27:56,964 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.12% | held_candles=2
+2026-01-31 22:28:57,093 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.21% | held_candles=2
+2026-01-31 22:29:57,177 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.24% | held_candles=2
+2026-01-31 22:30:57,302 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.44% | held_candles=3
+2026-01-31 22:31:57,397 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.41% | held_candles=3
+2026-01-31 22:32:57,445 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.18% | held_candles=3
+2026-01-31 22:33:57,579 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.18% | held_candles=3
+2026-01-31 22:34:57,743 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.41% | held_candles=3
+2026-01-31 22:35:57,852 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.38% | held_candles=4
+2026-01-31 22:36:58,052 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.27% | held_candles=4
+2026-01-31 22:37:58,174 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.11% | held_candles=4
+2026-01-31 22:38:58,306 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.09% | held_candles=4
+2026-01-31 22:39:58,465 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.13% | held_candles=4
+2026-01-31 22:40:58,577 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.2% | held_candles=5
+2026-01-31 22:41:58,766 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.19% | held_candles=5
+2026-01-31 22:42:58,853 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.13% | held_candles=5
+2026-01-31 22:43:59,012 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.09% | held_candles=5
+2026-01-31 22:44:59,173 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.11% | held_candles=5
+2026-01-31 22:45:59,297 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.07% | held_candles=6
+2026-01-31 22:46:59,398 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.02% | held_candles=6
+2026-01-31 22:47:59,521 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=6
+2026-01-31 22:48:59,716 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.19% | held_candles=6
+2026-01-31 22:49:59,852 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.14% | held_candles=6
+2026-01-31 22:50:59,986 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.13% | held_candles=7
+2026-01-31 22:52:00,113 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.19% | held_candles=7
+2026-01-31 22:53:00,330 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.15% | held_candles=7
+2026-01-31 22:54:00,469 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.17% | held_candles=7
+2026-01-31 22:55:00,631 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.2% | held_candles=7
+2026-01-31 22:56:00,781 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.3% | held_candles=8
+2026-01-31 22:57:00,978 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.55% | held_candles=8
+2026-01-31 22:58:01,134 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.67% | held_candles=8
+2026-01-31 22:59:01,308 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.55% | held_candles=8
+2026-01-31 23:00:01,465 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.55% | held_candles=9
+2026-01-31 23:01:01,591 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.75% | held_candles=9
+2026-01-31 23:02:01,719 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.78% | held_candles=9
+2026-01-31 23:03:01,872 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.75% | held_candles=9
+2026-01-31 23:04:02,030 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.77% | held_candles=9
+2026-01-31 23:05:02,161 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.81% | held_candles=10
+2026-01-31 23:06:02,289 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.84% | held_candles=10
+2026-01-31 23:07:02,430 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.99% | held_candles=10
+2026-01-31 23:08:02,568 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=1.06% | held_candles=10
+2026-01-31 23:09:02,675 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=1.13% | held_candles=10
+2026-01-31 23:10:02,771 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=1.16% | held_candles=11
+2026-01-31 23:11:02,918 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.96% | held_candles=11
+2026-01-31 23:12:03,088 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.84% | held_candles=11
+2026-01-31 23:13:03,146 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.69% | held_candles=11
+2026-01-31 23:14:03,232 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.82% | held_candles=11
+2026-01-31 23:15:03,357 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.84% | held_candles=12
+2026-01-31 23:16:03,477 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.87% | held_candles=12
+2026-01-31 23:17:03,618 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.92% | held_candles=12
+2026-01-31 23:18:03,730 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=1.16% | held_candles=12
+2026-01-31 23:19:03,862 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=1.14% | held_candles=12
+2026-01-31 23:20:03,954 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=1.63% | held_candles=13
+2026-01-31 23:21:04,071 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=1.46% | held_candles=13
+2026-01-31 23:22:04,249 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=1.97% | held_candles=13
+2026-01-31 23:23:04,380 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=2.0% | held_candles=13
+2026-01-31 23:24:04,571 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=2.53% | held_candles=13
+2026-01-31 23:25:04,751 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=2.81% | held_candles=14
+2026-01-31 23:26:04,896 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=2.66% | held_candles=14
+2026-01-31 23:27:05,029 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=2.44% | held_candles=14
+2026-01-31 23:28:05,235 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=2.37% | held_candles=14
+2026-01-31 23:29:01,903 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769902141337', 'order_id': '712621232909976092'}
+2026-01-31 23:29:02,456 | INFO | [REENTRY_REWARD] action=0 pnl=2.19% dd=0.62% held=14 R=0.00296 Q:0.0→0.0004
+2026-01-31 23:30:00,499 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0256 | entry=0.85 | SIGNAL=NO
+2026-01-31 23:30:00,512 | INFO | [STRAT-5m] DOGE | id=1 | score=4.0036 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 23:30:00,658 | INFO | [STRAT-5m] SOL | id=0 | score=-1.471 | entry=0.75 | SIGNAL=NO
+2026-01-31 23:30:00,666 | INFO | [STRAT-5m] SOL | id=1 | score=13.8034 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 23:30:06,382 | INFO | [ENTRY_ARMED] cmt_solusdt | score=13.8034 
+2026-01-31 23:35:00,320 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 23:35:00,340 | INFO | [STRAT-5m] SOL | id=0 | score=-5.968 | entry=0.75 | SIGNAL=NO
+2026-01-31 23:35:00,353 | INFO | [STRAT-5m] SOL | id=1 | score=10.6282 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 23:35:06,042 | INFO | [ENTRY_ARMED] cmt_solusdt | score=10.6282 
+2026-01-31 23:35:06,060 | INFO | [STRAT-5m] DOGE | id=0 | score=0.021 | entry=0.85 | SIGNAL=NO
+2026-01-31 23:35:06,073 | INFO | [STRAT-5m] DOGE | id=1 | score=-2.0613 | entry=0.74 | SIGNAL=NO
+2026-01-31 23:40:00,426 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 23:40:00,469 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0112 | entry=0.85 | SIGNAL=NO
+2026-01-31 23:40:00,484 | INFO | [STRAT-5m] DOGE | id=1 | score=5.2744 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 23:40:06,178 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=5.2744 
+2026-01-31 23:40:06,200 | INFO | [STRAT-5m] SOL | id=0 | score=0.1169 | entry=0.75 | SIGNAL=NO
+2026-01-31 23:40:06,213 | INFO | [STRAT-5m] SOL | id=1 | score=3.7429 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 23:40:06,782 | INFO | [ENTRY_ARMED] cmt_solusdt | score=3.7429 
+2026-01-31 23:45:00,328 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 23:45:00,328 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 23:45:00,505 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0124 | entry=0.85 | SIGNAL=NO
+2026-01-31 23:45:00,520 | INFO | [STRAT-5m] DOGE | id=1 | score=1.9461 | entry=0.74 | SIGNAL=OPEN
+2026-01-31 23:45:01,076 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=1.9461 
+2026-01-31 23:45:01,097 | INFO | [STRAT-5m] SOL | id=0 | score=-0.8591 | entry=0.75 | SIGNAL=NO
+2026-01-31 23:45:01,110 | INFO | [STRAT-5m] SOL | id=1 | score=5.7923 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 23:45:01,659 | INFO | [ENTRY_ARMED] cmt_solusdt | score=5.7923 
+2026-01-31 23:50:00,477 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-01-31 23:50:00,478 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 23:50:00,493 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0083 | entry=0.85 | SIGNAL=NO
+2026-01-31 23:50:00,506 | INFO | [STRAT-5m] DOGE | id=1 | score=-1.1497 | entry=0.74 | SIGNAL=NO
+2026-01-31 23:50:00,778 | INFO | [STRAT-5m] SOL | id=0 | score=-1.7181 | entry=0.75 | SIGNAL=NO
+2026-01-31 23:50:00,791 | INFO | [STRAT-5m] SOL | id=1 | score=5.8399 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 23:50:06,480 | INFO | [ENTRY_ARMED] cmt_solusdt | score=5.8399 
+2026-01-31 23:55:00,453 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-01-31 23:55:00,473 | INFO | [STRAT-5m] SOL | id=0 | score=-0.1166 | entry=0.75 | SIGNAL=NO
+2026-01-31 23:55:00,489 | INFO | [STRAT-5m] SOL | id=1 | score=4.4649 | entry=0.9 | SIGNAL=OPEN
+2026-01-31 23:55:01,067 | INFO | [ENTRY_ARMED] cmt_solusdt | score=4.4649 
+2026-01-31 23:55:01,074 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0118 | entry=0.85 | SIGNAL=NO
+2026-01-31 23:55:01,645 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.9416 | entry=0.74 | SIGNAL=NO
+2026-02-01 00:00:00,158 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-02-01 00:00:00,181 | INFO | [STRAT-5m] SOL | id=0 | score=0.8837 | entry=0.75 | SIGNAL=OPEN
+2026-02-01 00:00:06,474 | INFO | [STRAT-5m] SOL | id=1 | score=4.2332 | entry=0.9 | SIGNAL=OPEN
+2026-02-01 00:00:07,593 | INFO | [ENTRY_ARMED] cmt_solusdt | score=4.2332 
+2026-02-01 00:00:07,614 | INFO | [STRAT-5m] SOL | id=0 | score=0.9339 | entry=0.75 | SIGNAL=OPEN
+2026-02-01 00:00:07,628 | INFO | [STRAT-5m] SOL | id=1 | score=4.2834 | entry=0.9 | SIGNAL=OPEN
+2026-02-01 00:00:07,641 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0122 | entry=0.85 | SIGNAL=NO
+2026-02-01 00:00:13,364 | INFO | [STRAT-5m] DOGE | id=1 | score=1.1704 | entry=0.74 | SIGNAL=OPEN
+2026-02-01 00:00:13,924 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=1.1704 
+2026-02-01 00:00:13,946 | INFO | [STRAT-5m] SOL | id=0 | score=0.9842 | entry=0.75 | SIGNAL=OPEN
+2026-02-01 00:00:13,960 | INFO | [STRAT-5m] SOL | id=1 | score=4.1985 | entry=0.9 | SIGNAL=OPEN
+2026-02-01 00:05:00,247 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-02-01 00:05:00,264 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0135 | entry=0.85 | SIGNAL=NO
+2026-02-01 00:05:06,039 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.9884 | entry=0.74 | SIGNAL=NO
+2026-02-01 00:05:06,605 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-02-01 00:05:06,616 | INFO | [STRAT-5m] SOL | id=0 | score=0.3758 | entry=0.75 | SIGNAL=NO
+2026-02-01 00:05:06,623 | INFO | [STRAT-5m] SOL | id=1 | score=4.3705 | entry=0.9 | SIGNAL=OPEN
+2026-02-01 00:10:00,316 | INFO | [STRAT-5m] SOL | id=0 | score=-1.404 | entry=0.75 | SIGNAL=NO
+2026-02-01 00:10:00,874 | INFO | [STRAT-5m] SOL | id=1 | score=8.787 | entry=0.9 | SIGNAL=OPEN
+2026-02-01 00:10:01,411 | INFO | [ENTRY_ARMED] cmt_solusdt | score=8.787 
+2026-02-01 00:10:01,428 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0179 | entry=0.85 | SIGNAL=NO
+2026-02-01 00:10:01,443 | INFO | [STRAT-5m] DOGE | id=1 | score=0.6589 | entry=0.74 | SIGNAL=NO
+2026-02-01 00:15:00,405 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-02-01 00:15:00,574 | INFO | [STRAT-5m] SOL | id=0 | score=-1.6097 | entry=0.75 | SIGNAL=NO
+2026-02-01 00:15:00,587 | INFO | [STRAT-5m] SOL | id=1 | score=9.8723 | entry=0.9 | SIGNAL=OPEN
+2026-02-01 00:15:01,140 | INFO | [ENTRY_ARMED] cmt_solusdt | score=9.8723 
+2026-02-01 00:15:01,156 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0206 | entry=0.85 | SIGNAL=NO
+2026-02-01 00:15:01,169 | INFO | [STRAT-5m] DOGE | id=1 | score=0.7759 | entry=0.74 | SIGNAL=OPEN
+2026-02-01 00:15:01,777 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=0.7759 
+2026-02-01 00:20:00,278 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-02-01 00:20:00,278 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-02-01 00:20:00,704 | INFO | [STRAT-5m] SOL | id=0 | score=-1.8122 | entry=0.75 | SIGNAL=NO
+2026-02-01 00:20:01,286 | INFO | [STRAT-5m] SOL | id=1 | score=8.264 | entry=0.9 | SIGNAL=OPEN
+2026-02-01 00:20:02,386 | INFO | [ENTRY_ARMED] cmt_solusdt | score=8.264 
+2026-02-01 00:20:02,393 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0163 | entry=0.85 | SIGNAL=NO
+2026-02-01 00:20:02,398 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.56 | entry=0.74 | SIGNAL=NO
+2026-02-01 00:25:00,536 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-02-01 00:25:00,545 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0134 | entry=0.85 | SIGNAL=NO
+2026-02-01 00:25:00,552 | INFO | [STRAT-5m] DOGE | id=1 | score=2.3196 | entry=0.74 | SIGNAL=OPEN
+2026-02-01 00:25:01,081 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=2.3196 
+2026-02-01 00:25:01,094 | INFO | [STRAT-5m] SOL | id=0 | score=-0.5718 | entry=0.75 | SIGNAL=NO
+2026-02-01 00:25:01,101 | INFO | [STRAT-5m] SOL | id=1 | score=6.6226 | entry=0.9 | SIGNAL=OPEN
+2026-02-01 00:25:01,662 | INFO | [ENTRY_ARMED] cmt_solusdt | score=6.6226 
+2026-02-01 00:30:00,428 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-02-01 00:30:00,428 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-02-01 00:30:00,658 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0164 | entry=0.85 | SIGNAL=NO
+2026-02-01 00:30:00,671 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.5693 | entry=0.74 | SIGNAL=NO
+2026-02-01 00:30:00,688 | INFO | [STRAT-5m] SOL | id=0 | score=2.2784 | entry=0.75 | SIGNAL=OPEN
+2026-02-01 00:30:01,239 | INFO | [ENTRY_ARMED] cmt_solusdt | score=2.2784 
+2026-02-01 00:35:00,507 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-02-01 00:35:00,524 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0133 | entry=0.85 | SIGNAL=NO
+2026-02-01 00:35:01,116 | INFO | [STRAT-5m] DOGE | id=1 | score=1.2634 | entry=0.74 | SIGNAL=OPEN
+2026-02-01 00:35:07,337 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=1.2634 
+2026-02-01 00:35:07,352 | INFO | [STRAT-5m] SOL | id=0 | score=0.642 | entry=0.75 | SIGNAL=NO
+2026-02-01 00:35:07,360 | INFO | [STRAT-5m] SOL | id=1 | score=5.1294 | entry=0.9 | SIGNAL=OPEN
+2026-02-01 00:35:07,907 | INFO | [ENTRY_ARMED] cmt_solusdt | score=5.1294 
+2026-02-01 00:38:01,782 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769906281221', 'order_id': '712638597030740508'}
+2026-02-01 00:38:06,701 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=0
+2026-02-01 00:39:06,791 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.02% | held_candles=0
+2026-02-01 00:40:00,564 | INFO | [ENTRY_EXPIRED_TIMER] cmt_dogeusdt
+2026-02-01 00:40:06,891 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.03% | held_candles=1
+2026-02-01 00:41:07,059 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.08% | held_candles=1
+2026-02-01 00:42:07,220 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=1
+2026-02-01 00:43:07,427 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.1% | held_candles=1
+2026-02-01 00:44:07,589 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.04% | held_candles=1
+2026-02-01 00:45:07,742 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.13% | held_candles=2
+2026-02-01 00:46:07,849 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=2
+2026-02-01 00:47:07,988 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.08% | held_candles=2
+2026-02-01 00:48:08,187 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.12% | held_candles=2
+2026-02-01 00:49:08,272 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=2
+2026-02-01 00:50:08,475 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=3
+2026-02-01 00:51:08,575 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=3
+2026-02-01 00:52:08,728 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.29% | held_candles=3
+2026-02-01 00:53:08,834 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.09% | held_candles=3
+2026-02-01 00:54:08,989 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.26% | held_candles=3
+2026-02-01 00:55:09,133 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.21% | held_candles=4
+2026-02-01 00:56:09,310 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.24% | held_candles=4
+2026-02-01 00:57:09,475 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=4
+2026-02-01 00:58:09,692 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.28% | held_candles=4
+2026-02-01 00:59:09,836 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.2% | held_candles=4
+2026-02-01 01:00:09,934 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.17% | held_candles=5
+2026-02-01 01:01:10,082 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.22% | held_candles=5
+2026-02-01 01:02:10,206 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.02% | held_candles=5
+2026-02-01 01:03:10,412 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=5
+2026-02-01 01:04:10,593 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=5
+2026-02-01 01:05:10,770 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.18% | held_candles=6
+2026-02-01 01:06:02,366 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769907961793', 'order_id': '712645645680247324'}
+2026-02-01 01:06:02,941 | INFO | [REENTRY_REWARD] action=4 pnl=-0.36% dd=0.65% held=6 R=-0.01485 Q:0.0→-0.0022
+2026-02-01 01:10:00,239 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0125 | entry=0.85 | SIGNAL=NO
+2026-02-01 01:10:00,255 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.3039 | entry=0.74 | SIGNAL=NO
+2026-02-01 01:10:00,845 | INFO | [STRAT-5m] SOL | id=0 | score=0.5219 | entry=0.75 | SIGNAL=NO
+2026-02-01 01:10:00,858 | INFO | [STRAT-5m] SOL | id=1 | score=7.8857 | entry=0.9 | SIGNAL=OPEN
+2026-02-01 01:15:00,720 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0037 | entry=0.85 | SIGNAL=NO
+2026-02-01 01:15:06,413 | INFO | [STRAT-5m] DOGE | id=1 | score=0.845 | entry=0.74 | SIGNAL=OPEN
+2026-02-01 01:15:06,950 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=0.845 
+2026-02-01 01:15:17,338 | ERROR | PLACE LONG FAILED -> no response
+2026-02-01 01:15:17,340 | ERROR | [ORDER FAILED] Pausing new entries for 60s
+2026-02-01 01:15:17,363 | INFO | [STRAT-5m] SOL | id=0 | score=0.2139 | entry=0.75 | SIGNAL=NO
+2026-02-01 01:15:17,378 | INFO | [STRAT-5m] SOL | id=1 | score=2.68 | entry=0.9 | SIGNAL=OPEN
+2026-02-01 01:16:00,963 | WARNING | [CIRCUIT BREAKER] Entry blocked (recent order failure)
+2026-02-01 01:17:12,301 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769908626591', 'order_id': '712648455545160220'}
+2026-02-01 01:18:11,790 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.07% | held_candles=0
+2026-02-01 01:19:11,939 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.02% | held_candles=0
+2026-02-01 01:20:12,079 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.05% | held_candles=1
+2026-02-01 01:21:12,165 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.14% | held_candles=1
+2026-02-01 01:22:12,301 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.14% | held_candles=1
+2026-02-01 01:23:12,429 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.2% | held_candles=1
+2026-02-01 01:24:12,568 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.34% | held_candles=1
+2026-02-01 01:25:12,723 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.32% | held_candles=2
+2026-02-01 01:26:12,889 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.36% | held_candles=2
+2026-02-01 01:27:13,021 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.42% | held_candles=2
+2026-02-01 01:28:13,150 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.72% | held_candles=2
+2026-02-01 01:29:13,303 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.84% | held_candles=2
+2026-02-01 01:30:13,449 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=1.01% | held_candles=3
+2026-02-01 01:31:13,641 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.97% | held_candles=3
+2026-02-01 01:32:13,738 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.93% | held_candles=3
+2026-02-01 01:33:13,881 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.89% | held_candles=3
+2026-02-01 01:34:13,999 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.9% | held_candles=3
+2026-02-01 01:35:14,093 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=1.06% | held_candles=4
+2026-02-01 01:36:14,236 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.99% | held_candles=4
+2026-02-01 01:37:14,340 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.97% | held_candles=4
+2026-02-01 01:38:14,478 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.83% | held_candles=4
+2026-02-01 01:39:14,619 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.82% | held_candles=4
+2026-02-01 01:40:01,034 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769910000452', 'order_id': '712654196662338076'}
+2026-02-01 01:40:01,597 | INFO | [REENTRY_REWARD] action=3 pnl=0.62% dd=0.44% held=5 R=0.00363 Q:0.0→0.0005
+2026-02-01 01:45:00,580 | INFO | [STRAT-5m] SOL | id=0 | score=-0.3052 | entry=0.75 | SIGNAL=NO
+2026-02-01 01:45:01,197 | INFO | [STRAT-5m] SOL | id=1 | score=0.5166 | entry=0.9 | SIGNAL=NO
+2026-02-01 01:45:01,746 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0022 | entry=0.85 | SIGNAL=NO
+2026-02-01 01:45:01,752 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.5341 | entry=0.74 | SIGNAL=NO
+2026-02-01 01:50:00,687 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0041 | entry=0.85 | SIGNAL=NO
+2026-02-01 01:50:00,701 | INFO | [STRAT-5m] DOGE | id=1 | score=-0.3395 | entry=0.74 | SIGNAL=NO
+2026-02-01 01:50:00,719 | INFO | [STRAT-5m] SOL | id=0 | score=-4.0118 | entry=0.75 | SIGNAL=NO
+2026-02-01 01:50:06,582 | INFO | [STRAT-5m] SOL | id=1 | score=4.4098 | entry=0.9 | SIGNAL=OPEN
+2026-02-01 01:55:00,399 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0058 | entry=0.85 | SIGNAL=NO
+2026-02-01 01:55:00,986 | INFO | [STRAT-5m] DOGE | id=1 | score=0.1896 | entry=0.74 | SIGNAL=NO
+2026-02-01 01:55:01,008 | INFO | [STRAT-5m] SOL | id=0 | score=-1.6082 | entry=0.75 | SIGNAL=NO
+2026-02-01 01:55:01,567 | INFO | [STRAT-5m] SOL | id=1 | score=4.6231 | entry=0.9 | SIGNAL=OPEN
+2026-02-01 01:55:02,179 | INFO | [ENTRY_ARMED] cmt_solusdt | score=4.6231 
+2026-02-01 02:00:00,272 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-02-01 02:00:00,292 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0044 | entry=0.85 | SIGNAL=NO
+2026-02-01 02:00:00,854 | INFO | [STRAT-5m] DOGE | id=1 | score=0.7224 | entry=0.74 | SIGNAL=NO
+2026-02-01 02:00:01,486 | INFO | [STRAT-5m] SOL | id=0 | score=-0.0684 | entry=0.75 | SIGNAL=NO
+2026-02-01 02:00:01,492 | INFO | [STRAT-5m] SOL | id=1 | score=1.6749 | entry=0.9 | SIGNAL=OPEN
+2026-02-01 02:00:02,021 | INFO | [ENTRY_ARMED] cmt_solusdt | score=1.6749 
+2026-02-01 02:05:00,423 | INFO | [ENTRY_EXPIRED_TIMER] cmt_solusdt
+2026-02-01 02:05:00,439 | INFO | [STRAT-5m] DOGE | id=0 | score=0.0066 | entry=0.85 | SIGNAL=NO
+2026-02-01 02:05:01,042 | INFO | [STRAT-5m] DOGE | id=1 | score=1.2649 | entry=0.74 | SIGNAL=OPEN
+2026-02-01 02:05:01,613 | INFO | [ENTRY_ARMED] cmt_dogeusdt | score=1.2649 
+2026-02-01 02:05:01,636 | INFO | [STRAT-5m] SOL | id=0 | score=-0.2114 | entry=0.75 | SIGNAL=NO
+2026-02-01 02:05:01,649 | INFO | [STRAT-5m] SOL | id=1 | score=3.2045 | entry=0.9 | SIGNAL=OPEN
+2026-02-01 02:05:02,208 | INFO | [ENTRY_ARMED] cmt_solusdt | score=3.2045 

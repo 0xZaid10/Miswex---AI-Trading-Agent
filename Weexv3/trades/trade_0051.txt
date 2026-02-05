@@ -1,0 +1,23 @@
+2026-01-26 02:10:03,455 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1769393402940', 'order_id': '710487429416485404'}
+2026-01-26 02:10:04,009 | INFO | OPEN cmt_dogeusdt TF=5m size=7800.0 order_id=710487429416485404 candle_idx=30
+2026-01-26 02:10:24,587 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=1
+2026-01-26 02:11:24,702 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=1
+2026-01-26 02:12:24,838 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=1
+2026-01-26 02:13:24,927 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=1
+2026-01-26 02:14:24,971 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.0% | held_candles=1
+2026-01-26 02:15:25,096 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.02% | held_candles=2
+2026-01-26 02:16:25,112 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.02% | held_candles=2
+2026-01-26 02:17:25,266 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.02% | held_candles=2
+2026-01-26 02:18:25,364 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.02% | held_candles=2
+2026-01-26 02:19:25,450 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.02% | held_candles=2
+2026-01-26 02:20:25,564 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.13% | held_candles=3
+2026-01-26 02:21:25,645 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.13% | held_candles=3
+2026-01-26 02:22:25,765 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.13% | held_candles=3
+2026-01-26 02:23:25,879 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.13% | held_candles=3
+2026-01-26 02:24:25,959 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=-0.13% | held_candles=3
+2026-01-26 02:25:26,035 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.21% | held_candles=4
+2026-01-26 02:26:26,133 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.21% | held_candles=4
+2026-01-26 02:27:26,262 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.21% | held_candles=4
+2026-01-26 02:28:26,313 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.21% | held_candles=4
+2026-01-26 02:29:26,373 | INFO | [FLOAT-5m] cmt_dogeusdt | pnl=0.21% | held_candles=4
+2026-01-26 02:30:01,798 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1769394600995', 'order_id': '710492455576797724'}
