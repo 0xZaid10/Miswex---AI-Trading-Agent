@@ -1,7 +1,0 @@
-2026-02-02 05:11:01,750 | INFO | PLACE LONG RESPONSE -> {'client_oid': '1770009061138', 'order_id': '713069687528751644'}
-2026-02-02 05:11:58,484 | INFO | [FLOAT-5m] cmt_solusdt | pnl=0.0% | held_candles=0
-2026-02-02 05:12:58,667 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.2% | held_candles=0
-2026-02-02 05:13:58,812 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.15% | held_candles=0
-2026-02-02 05:14:58,950 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.29% | held_candles=0
-2026-02-02 05:15:59,134 | INFO | [FLOAT-5m] cmt_solusdt | pnl=-0.11% | held_candles=1
-2026-02-02 05:16:01,769 | INFO | CLOSE LONG RESPONSE -> {'client_oid': '1770009361176', 'order_id': '713070945878671900'}
